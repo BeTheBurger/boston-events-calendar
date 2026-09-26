@@ -1,8 +1,608 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Boston Community Event Automation//EN
+PRODID:-//Boston Events Generator//EN
 X-WR-CALNAME:Boston: Outdoors & Recreation
 X-WR-TIMEZONE:America/New_York
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+BEGIN:VEVENT
+UID:crw-autumn-ride-oct3@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T090000
+DTEND;TZID=America/New_York:20261003T130000
+SUMMARY:CRW Scenic Autumn Weekend Group Ride
+LOCATION:Minuteman Bikeway Trailhead, Bedford, MA
+DESCRIPTION:Charles River Wheelers scenic road ride through Bedford, Concord, and Carlisle. Free for guests.\n\nInfo/Tickets: https://crw.org/events
+URL:https://crw.org/events
+END:VEVENT
+BEGIN:VEVENT
+UID:trustees-worldsend-oct4@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261004T100000
+DTEND;TZID=America/New_York:20261004T123000
+SUMMARY:Fall Foliage & Coastal Walk at World's End
+LOCATION:World's End, Martins Lane, Hingham, MA
+DESCRIPTION:Guided walking tour through Olmsted carriage paths with Harbor skyline views. Admission $10 - $15.\n\nInfo/Tickets: https://thetrustees.org/events/
+URL:https://thetrustees.org/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:hocr-championship-oct17@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261017T080000
+DTEND;TZID=America/New_York:20261017T163000
+SUMMARY:Head of the Charles Regatta — Saturday Championship Racing
+LOCATION:Charles River Esplanade, Boston & Cambridge, MA
+DESCRIPTION:World's premier rowing competition. Free spectator viewing along riverbanks and bridges.\n\nInfo/Tickets: https://hocr.org/the-regatta/schedule/
+URL:https://hocr.org/the-regatta/schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:07ff224f5b47cbb4bbaefa84256e78a1@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:4UrLife Movement's 11th Annual Outdoor Bootcamp
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: 4UrLife Movement's 11th Annual Outdoor Bootcamp\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/4urlife-movement-s-11th-annual-outdoor-bootcamp--3
+URL:https://www.thebostoncalendar.com/events/4urlife-movement-s-11th-annual-outdoor-bootcamp--3
+END:VEVENT
+BEGIN:VEVENT
+UID:8d98b1ff68c9eaa585f20abc0b6573e0@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:St. Jude Walk Boston Presented by HomeGoods AT THE TRACK AT NEW BALANCE
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: St. Jude Walk Boston Presented by HomeGoods AT THE TRACK AT NEW BALANCE\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/st-jude-walk-boston
+URL:https://www.thebostoncalendar.com/events/st-jude-walk-boston
+END:VEVENT
+BEGIN:VEVENT
+UID:494c6fc3f63d7a97ab13f4c0a41b0e46@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Chica Project Empoweher Fun5k
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Chica Project Empoweher Fun5k\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/chica-project-empoweher-fun5k
+URL:https://www.thebostoncalendar.com/events/chica-project-empoweher-fun5k
+END:VEVENT
+BEGIN:VEVENT
+UID:60e01e136a8910efcff61cf470749843@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Breakthrough T1D Walk
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Breakthrough T1D Walk\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/breakthrough-t1d-walk
+URL:https://www.thebostoncalendar.com/events/breakthrough-t1d-walk
+END:VEVENT
+BEGIN:VEVENT
+UID:7f2fc3888af81ce6426065052e7d19d4@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Fields Corner Farmers Market
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Fields Corner Farmers Market\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/fields-corner-farmers-market--11
+URL:https://www.thebostoncalendar.com/events/fields-corner-farmers-market--11
+END:VEVENT
+BEGIN:VEVENT
+UID:566b6bbdb52a8587a29b1b05fdf8df67@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Andover Farmers Market
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Andover Farmers Market\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/andover-farmers-market--52
+URL:https://www.thebostoncalendar.com/events/andover-farmers-market--52
+END:VEVENT
+BEGIN:VEVENT
+UID:e8c07709bd49d7c44b0fb0029904235b@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Roslindale Summer Farmers Market
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Roslindale Summer Farmers Market\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/roslindale-summer-farmers-market--17
+URL:https://www.thebostoncalendar.com/events/roslindale-summer-farmers-market--17
+END:VEVENT
+BEGIN:VEVENT
+UID:08f78b07c0292ab02e3ea6fbe614d112@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Family and Friends Living Healthy (FFLH) Saturday Morning Walking Group
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Family and Friends Living Healthy (FFLH) Saturday Morning Walking Group\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/family-and-friends-living-healthy-fflh-saturday-morning-walking-group--77
+URL:https://www.thebostoncalendar.com/events/family-and-friends-living-healthy-fflh-saturday-morning-walking-group--77
+END:VEVENT
+BEGIN:VEVENT
+UID:1ab1a7a39dca6da0e9265fad6fc4d0ad@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Roslindale Farmers Market
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Roslindale Farmers Market\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/roslindale-farmers-market--258
+URL:https://www.thebostoncalendar.com/events/roslindale-farmers-market--258
+END:VEVENT
+BEGIN:VEVENT
+UID:57d9dcb1831dd387c0aa1f718e7c8982@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Moakley Park Clean Up
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Moakley Park Clean Up\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/moakley-park-clean-up--8
+URL:https://www.thebostoncalendar.com/events/moakley-park-clean-up--8
+END:VEVENT
+BEGIN:VEVENT
+UID:1bbbf5af80736d8b87ed5dac7f27fd99@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:A Taste of the Freedom Trail: Boston's Iconic Food & History Tour
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: A Taste of the Freedom Trail: Boston's Iconic Food & History Tour\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/a-taste-of-the-freedom-trail-boston-s-iconic-food-history-tour--25
+URL:https://www.thebostoncalendar.com/events/a-taste-of-the-freedom-trail-boston-s-iconic-food-history-tour--25
+END:VEVENT
+BEGIN:VEVENT
+UID:6e8971b167fdadb7fb2e98921fa8f113@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:PhotoWalks Beacon Hill Tour
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: PhotoWalks Beacon Hill Tour\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/photowalks-beacon-hill-tour--502
+URL:https://www.thebostoncalendar.com/events/photowalks-beacon-hill-tour--502
+END:VEVENT
+BEGIN:VEVENT
+UID:035f73d256b4175c2699bf50dd7b0567@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:The Ink & Cobblestones Tour: A Walk Through Boston’s Literary Past
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: The Ink & Cobblestones Tour: A Walk Through Boston’s Literary Past\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/the-ink-cobblestones-tour-a-walk-through-boston-s-literary-past--13
+URL:https://www.thebostoncalendar.com/events/the-ink-cobblestones-tour-a-walk-through-boston-s-literary-past--13
+END:VEVENT
+BEGIN:VEVENT
+UID:d0c9bd57e027496b865593ca52aabea4@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Boston 101 Historical Tour
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Boston 101 Historical Tour\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/boston-101-historical-tour--32
+URL:https://www.thebostoncalendar.com/events/boston-101-historical-tour--32
+END:VEVENT
+BEGIN:VEVENT
+UID:0bcfb56dd6ff52750f54a177c1f8da44@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Experience Chinatown
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Experience Chinatown\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/experience-chinatown--7
+URL:https://www.thebostoncalendar.com/events/experience-chinatown--7
+END:VEVENT
+BEGIN:VEVENT
+UID:eceb60ff5affa261074e519e529174d7@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Henry Bear's Park 50th Birthday Party!
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Henry Bear's Park 50th Birthday Party!\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/henry-bear-s-park-50th-birthday-party
+URL:https://www.thebostoncalendar.com/events/henry-bear-s-park-50th-birthday-party
+END:VEVENT
+BEGIN:VEVENT
+UID:bb1d6f24f0d171194ffb2478396324c4@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Beer Garden Season at Remnant Brewing (Outdoor Patio & Beer Garden)
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Beer Garden Season at Remnant Brewing (Outdoor Patio & Beer Garden)\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/beer-garden-season-at-remnant-brewing-outdoor-patio-beer-garden--22
+URL:https://www.thebostoncalendar.com/events/beer-garden-season-at-remnant-brewing-outdoor-patio-beer-garden--22
+END:VEVENT
+BEGIN:VEVENT
+UID:b57756e85faa8c3d07cb318aa49d86e2@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Exhibition Tour: On Location: Drawing the Outdoors
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Exhibition Tour: On Location: Drawing the Outdoors\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/exhibition-tour-on-location-drawing-the-outdoors
+URL:https://www.thebostoncalendar.com/events/exhibition-tour-on-location-drawing-the-outdoors
+END:VEVENT
+BEGIN:VEVENT
+UID:1e10bb5bd45b594b1b9312d436e044f8@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:CANCELLED (WEATHER) - Boston A Cappella Festival 2026
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: CANCELLED (WEATHER) - Boston A Cappella Festival 2026\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/boston-a-cappella-festival-2026
+URL:https://www.thebostoncalendar.com/events/boston-a-cappella-festival-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:175c5f9198e852bde66352054ed7344e@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Boston Witchcraft Tour
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Boston Witchcraft Tour\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/boston-witchcraft-tour--30
+URL:https://www.thebostoncalendar.com/events/boston-witchcraft-tour--30
+END:VEVENT
+BEGIN:VEVENT
+UID:bdc2741ee228bff422850e626cd7afb0@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Sip and Stitch: Crocheted Coral Creations
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Sip and Stitch: Crocheted Coral Creations\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/sip-and-stitch-crocheted-coral-creations
+URL:https://www.thebostoncalendar.com/events/sip-and-stitch-crocheted-coral-creations
+END:VEVENT
+BEGIN:VEVENT
+UID:eb00aef08561a309674459b080ea18c5@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:PhotoWalks Freedom Trail tour
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: PhotoWalks Freedom Trail tour\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/photowalks-freedom-trail-tour--355
+URL:https://www.thebostoncalendar.com/events/photowalks-freedom-trail-tour--355
+END:VEVENT
+BEGIN:VEVENT
+UID:f2da22e28e9d709c177531e5089153d0@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:9th Annual Lantern Walk
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: 9th Annual Lantern Walk\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/9th-annual-lantern-walk
+URL:https://www.thebostoncalendar.com/events/9th-annual-lantern-walk
+END:VEVENT
+BEGIN:VEVENT
+UID:6163d0c1cb7be42518c5a5ea89bd61bf@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:History Tour Pub Crawl on The Freedom Trail
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: History Tour Pub Crawl on The Freedom Trail\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/history-tour-pub-crawl-on-the-freedom-trail--26
+URL:https://www.thebostoncalendar.com/events/history-tour-pub-crawl-on-the-freedom-trail--26
+END:VEVENT
+BEGIN:VEVENT
+UID:fba4d4faa87b98460e1c2ab72540aa47@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Roslindale Dumpling Fest
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Roslindale Dumpling Fest\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/roslindale-dumpling-fest
+URL:https://www.thebostoncalendar.com/events/roslindale-dumpling-fest
+END:VEVENT
+BEGIN:VEVENT
+UID:67fce4ae66e1268c41f62ee4919f18b2@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Comedy at Summer Shack ($15 + Free Parking)
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Comedy at Summer Shack ($15 + Free Parking)\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/comedy-at-summer-shack-15-free-parking--44
+URL:https://www.thebostoncalendar.com/events/comedy-at-summer-shack-15-free-parking--44
+END:VEVENT
+BEGIN:VEVENT
+UID:59903d72a6f3920200d54e50be301fb1@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Seaport Sweat 2026: FREE Outdoor Fitness Series
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Seaport Sweat 2026: FREE Outdoor Fitness Series\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/seaport-sweat-2022-free-outdoor-fitness-series
+URL:https://www.thebostoncalendar.com/events/seaport-sweat-2022-free-outdoor-fitness-series
+END:VEVENT
+BEGIN:VEVENT
+UID:3db5a97763d3c471fcd9858f71b0d4fc@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Boston Red Sox vs. Chicago Cubs
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Boston Red Sox vs. Chicago Cubs\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/boston-red-sox-vs-chicago-cubs
+URL:https://www.thebostoncalendar.com/events/boston-red-sox-vs-chicago-cubs
+END:VEVENT
+BEGIN:VEVENT
+UID:14d7952b35c656e01b6c39e477eddfc4@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:The 7 Best Hotels with Outdoor Pools in and Outside of Boston
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: The 7 Best Hotels with Outdoor Pools in and Outside of Boston\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/the-8-best-hotels-with-outdoor-pools-around-boston
+URL:https://www.thebostoncalendar.com/events/the-8-best-hotels-with-outdoor-pools-around-boston
+END:VEVENT
+BEGIN:VEVENT
+UID:c523e38608185dc2985c1c7bcb7b3ae6@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Tree House Brewing Outdoor Beer Garden at Faneuil Hall
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Tree House Brewing Outdoor Beer Garden at Faneuil Hall\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/tree-house-brewing-outdoor-beer-garden-at-faneuil-hall
+URL:https://www.thebostoncalendar.com/events/tree-house-brewing-outdoor-beer-garden-at-faneuil-hall
+END:VEVENT
+BEGIN:VEVENT
+UID:cb70126e203e531e32738bf76eb9f417@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:100+ FREE Outdoor Fitness Classes around Boston: Summer 2026
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: 100+ FREE Outdoor Fitness Classes around Boston: Summer 2026\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/100-free-outdoor-fitness-classes-around-boston-summer-2022
+URL:https://www.thebostoncalendar.com/events/100-free-outdoor-fitness-classes-around-boston-summer-2022
+END:VEVENT
+BEGIN:VEVENT
+UID:14a2f1dd73539dfaaa5e860330cdc04a@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Free Outdoor Movies in Boston: Summer 2026
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Free Outdoor Movies in Boston: Summer 2026\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/free-outdoor-movies-in-boston-summer-2022
+URL:https://www.thebostoncalendar.com/events/free-outdoor-movies-in-boston-summer-2022
+END:VEVENT
+BEGIN:VEVENT
+UID:e62432102e4932943b494fdf70c97a25@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:B/SPOKE Summer On Deck: Waterfront Outdoor Fitness Classes on the Tall Ship Boston
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: B/SPOKE Summer On Deck: Waterfront Outdoor Fitness Classes on the Tall Ship Boston\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/b-spoke-summer-on-deck-waterfront-outdoor-fitness-classes-on-the-tall-ship-boston
+URL:https://www.thebostoncalendar.com/events/b-spoke-summer-on-deck-waterfront-outdoor-fitness-classes-on-the-tall-ship-boston
+END:VEVENT
+BEGIN:VEVENT
+UID:e37bbfaa3436139c49819557e197948a@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:HISTORY UNLOCKED: DROP-IN CHATS
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: HISTORY UNLOCKED: DROP-IN CHATS\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/history-unlocked-drop-in-chats--14
+URL:https://www.thebostoncalendar.com/events/history-unlocked-drop-in-chats--14
+END:VEVENT
+BEGIN:VEVENT
+UID:3b20a72e5fda9025efd51c6ab9ae19f4@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Chinatown Farmers Market
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Chinatown Farmers Market\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/chinatown-farmers-market
+URL:https://www.thebostoncalendar.com/events/chinatown-farmers-market
+END:VEVENT
+BEGIN:VEVENT
+UID:3e68030fdc346fe3a41ed79efbf16314@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Cycleboat Boston
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Cycleboat Boston\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/cycleboat-boston
+URL:https://www.thebostoncalendar.com/events/cycleboat-boston
+END:VEVENT
+BEGIN:VEVENT
+UID:bf6bd56193be8e08c9229f3aabc32798@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Outdoors @ The Harpoon Beer Hall 2026
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Outdoors @ The Harpoon Beer Hall 2026\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/outdoors-the-harpoon-beer-hall-2021
+URL:https://www.thebostoncalendar.com/events/outdoors-the-harpoon-beer-hall-2021
+END:VEVENT
+BEGIN:VEVENT
+UID:07997506b4cde3e74bf1116bd37bd64f@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:The 7 Most Scenic Train-accessible Hiking Trails Outside of Boston
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: The 7 Most Scenic Train-accessible Hiking Trails Outside of Boston\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/the-7-most-scenic-train-accessible-hiking-trails-outside-of-boston
+URL:https://www.thebostoncalendar.com/events/the-7-most-scenic-train-accessible-hiking-trails-outside-of-boston
+END:VEVENT
+BEGIN:VEVENT
+UID:ad95cce3154d27ddb7ce19c8980c6457@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Harpoon Beer Garden x Emerson's UnCommon Stage on Boston Common: Outdoor Drinks & Live Performances
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Harpoon Beer Garden x Emerson's UnCommon Stage on Boston Common: Outdoor Drinks & Live Performances\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/harpoon-beer-garden-x-emerson-s-uncommon-stage-on-boston-common-outdoor-drinks-live-performances
+URL:https://www.thebostoncalendar.com/events/harpoon-beer-garden-x-emerson-s-uncommon-stage-on-boston-common-outdoor-drinks-live-performances
+END:VEVENT
+BEGIN:VEVENT
+UID:527753a6546231b8fc85edf89d11699f@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Night Shift Beer Garden at Herter Park 2026
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Night Shift Beer Garden at Herter Park 2026\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/owl-s-nest-beer-garden-at-herter-park-2022
+URL:https://www.thebostoncalendar.com/events/owl-s-nest-beer-garden-at-herter-park-2022
+END:VEVENT
+BEGIN:VEVENT
+UID:be4588d850890a1cfb69d9bcdfdbe5fb@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Boston Lights 2026: A Lantern Experience at Franklin Park Zoo
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Boston Lights 2026: A Lantern Experience at Franklin Park Zoo\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/boston-lights-2026-a-lantern-experience-at-franklin-park-zoo
+URL:https://www.thebostoncalendar.com/events/boston-lights-2026-a-lantern-experience-at-franklin-park-zoo
+END:VEVENT
+BEGIN:VEVENT
+UID:8d60dd2ad3c4b5d92e9a2fa3163e9113@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Secret Rooftop Garden in Kendall Square (Including Free Pickleball & Equipment)
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Secret Rooftop Garden in Kendall Square (Including Free Pickleball & Equipment)\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/secret-rooftop-garden-in-kendall-square
+URL:https://www.thebostoncalendar.com/events/secret-rooftop-garden-in-kendall-square
+END:VEVENT
+BEGIN:VEVENT
+UID:c5e319df6e4160983203dc0ada78fb67@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:de Cordova Sculpture Park and Museum
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: de Cordova Sculpture Park and Museum\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/de-cordova-sculpture-park-and-museum
+URL:https://www.thebostoncalendar.com/events/de-cordova-sculpture-park-and-museum
+END:VEVENT
+BEGIN:VEVENT
+UID:f68103b454f94706f12dfb5a06335c8f@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Blue Hills Trailside Museum
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Blue Hills Trailside Museum\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/blue-hills-trailside-museum
+URL:https://www.thebostoncalendar.com/events/blue-hills-trailside-museum
+END:VEVENT
+BEGIN:VEVENT
+UID:91ec2222b761313600a591d4cd70fde5@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Madhouse Cafe: Boston’s Only Motorcycle Shop
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Madhouse Cafe: Boston’s Only Motorcycle Shop\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/madhouse-cafe
+URL:https://www.thebostoncalendar.com/events/madhouse-cafe
+END:VEVENT
+BEGIN:VEVENT
+UID:4effb34e90a0e9dddbcb18db1ec24312@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:The Elephant Walk: Cambodian-French Fusion | South End
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: The Elephant Walk: Cambodian-French Fusion | South End\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/the-elephant-walk-cambodian-french-fusion-south-end
+URL:https://www.thebostoncalendar.com/events/the-elephant-walk-cambodian-french-fusion-south-end
+END:VEVENT
+BEGIN:VEVENT
+UID:cea2d7fbb6c0a4e5b052545c79c8327c@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Rose Kennedy Greenway: Contemporary Public Park
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Rose Kennedy Greenway: Contemporary Public Park\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/rose-kennedy-greenway
+URL:https://www.thebostoncalendar.com/events/rose-kennedy-greenway
+END:VEVENT
+BEGIN:VEVENT
+UID:03265248f3d550dbeb8a4eca3e5818da@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Park-9 Dog Bar: Indoor Dog Park & Bar | Everett
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Park-9 Dog Bar: Indoor Dog Park & Bar | Everett\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/park-9-dog-bar-indoor-dog-park-bar-everett
+URL:https://www.thebostoncalendar.com/events/park-9-dog-bar-indoor-dog-park-bar-everett
+END:VEVENT
+BEGIN:VEVENT
+UID:88008f6038a35b69ccc77c15ccd41e09@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:The Dog Park @ Suffolk Downs
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: The Dog Park @ Suffolk Downs\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/the-dog-park-suffolk-downs
+URL:https://www.thebostoncalendar.com/events/the-dog-park-suffolk-downs
+END:VEVENT
+BEGIN:VEVENT
+UID:420efc0ded8ce4fbea2d78e4838c2fce@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:North Point Park Spray Deck
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: North Point Park Spray Deck\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/north-point-park-spray-deck
+URL:https://www.thebostoncalendar.com/events/north-point-park-spray-deck
+END:VEVENT
+BEGIN:VEVENT
+UID:34ed223a621036f1601527ca5da956bc@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Parkside Bookshop | South End
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Parkside Bookshop | South End\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/parkside-bookshop-south-end
+URL:https://www.thebostoncalendar.com/events/parkside-bookshop-south-end
+END:VEVENT
+BEGIN:VEVENT
+UID:7deff64bc863cca6fa932939de632a87@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Franklin Park Zoo | Boston
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Franklin Park Zoo | Boston\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/franklin-park-zoo-boston
+URL:https://www.thebostoncalendar.com/events/franklin-park-zoo-boston
+END:VEVENT
+BEGIN:VEVENT
+UID:6d762847457bb16dac4cc4985a1b5b47@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Bruce Freeman Rail Trail | Massachusetts
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Bruce Freeman Rail Trail | Massachusetts\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/bruce-freeman-rail-trail-massachusetts
+URL:https://www.thebostoncalendar.com/events/bruce-freeman-rail-trail-massachusetts
+END:VEVENT
+BEGIN:VEVENT
+UID:b59fc5b015c33c7026b1fb7421e04140@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Clipper City Rail Trail | Newburyport, Massachusetts
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Clipper City Rail Trail | Newburyport, Massachusetts\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/clipper-city-rail-trail-newburyport-massachusetts
+URL:https://www.thebostoncalendar.com/events/clipper-city-rail-trail-newburyport-massachusetts
+END:VEVENT
+BEGIN:VEVENT
+UID:67aa2e9f6ea28ec7a069ec9c28656c26@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Shawsheen River Trail | North Andover, Massachusetts
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Shawsheen River Trail | North Andover, Massachusetts\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/shawsheen-river-trail-north-andover-massachusetts
+URL:https://www.thebostoncalendar.com/events/shawsheen-river-trail-north-andover-massachusetts
+END:VEVENT
+BEGIN:VEVENT
+UID:3b429119deaa1183f7ff0971278e19f6@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Nashua River Rail Trail | Ayer, Massachusetts
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Nashua River Rail Trail | Ayer, Massachusetts\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/nashua-river-rail-trail-ayer-massachusetts
+URL:https://www.thebostoncalendar.com/events/nashua-river-rail-trail-ayer-massachusetts
+END:VEVENT
+BEGIN:VEVENT
+UID:de43d633dbf18ab6efb1b4e49e9c200e@bostonevents
+DTSTAMP:20260926T190643Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:On Location: Drawing the Outdoors
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: On Location: Drawing the Outdoors\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/on-location-drawing-the-outdoors
+URL:https://www.thebostoncalendar.com/events/on-location-drawing-the-outdoors
+END:VEVENT
 END:VCALENDAR
