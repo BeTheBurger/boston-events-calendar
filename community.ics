@@ -1,0 +1,8 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Boston Community Event Automation//EN
+X-WR-CALNAME:Boston: Social & Community
+X-WR-TIMEZONE:America/New_York
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+END:VCALENDAR
