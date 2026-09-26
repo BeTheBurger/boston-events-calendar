@@ -9,7 +9,9 @@ on:
 
 # Explicitly grant the workflow write permissions to push commits
 permissions:
-  contents: write
+  contents: write   # Allows the script to commit and push .ics files
+  pages: write      # Allows the action to publish to GitHub Pages
+  id-token: write   # Allows minting the OIDC token required for Pages deployment
 
 jobs:
   update-feeds:
