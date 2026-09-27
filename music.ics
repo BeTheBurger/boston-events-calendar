@@ -6,18 +6,8 @@ X-WR-TIMEZONE:America/New_York
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:sinclair-culture-wars@bostonevents
-DTSTAMP:20260926T190902Z
-DTSTART;TZID=America/New_York:20260926T200000
-DTEND;TZID=America/New_York:20260926T230000
-SUMMARY:Culture Wars with Softly
-LOCATION:The Sinclair, 52 Church Street, Cambridge, MA
-DESCRIPTION:Indie rock performance featuring Culture Wars with Softly. Tickets ~$25.\n\nInfo/Tickets: https://www.sinclaircambridge.com/events
-URL:https://www.sinclaircambridge.com/events
-END:VEVENT
-BEGIN:VEVENT
 UID:roadrunner-muna-oct1@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261001T200000
 DTEND;TZID=America/New_York:20261001T230000
 SUMMARY:MUNA: Gets So Hot Tour with hemlocke springs
@@ -27,7 +17,7 @@ URL:https://www.roadrunnerboston.com/events/detail/?event_id=1436208
 END:VEVENT
 BEGIN:VEVENT
 UID:sinclair-spin-bottle-oct2@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261002T213000
 DTEND;TZID=America/New_York:20261003T013000
 SUMMARY:Spin The Bottle — Indie Dance & Live Sets
@@ -37,7 +27,7 @@ URL:https://www.sinclaircambridge.com/events/all
 END:VEVENT
 BEGIN:VEVENT
 UID:passim-openmic-oct4@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261004T190000
 DTEND;TZID=America/New_York:20261004T220000
 SUMMARY:Club Passim Open Mic Night
@@ -47,7 +37,7 @@ URL:https://www.passim.org/live-music/club-passim/openmic/
 END:VEVENT
 BEGIN:VEVENT
 UID:jayhawks-shubert-oct24@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261024T200000
 DTEND;TZID=America/New_York:20261024T230000
 SUMMARY:The Jayhawks — Sanctuary Park Tour
@@ -57,7 +47,7 @@ URL:https://www.bochcenter.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:blue-october-hob-nov13@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261113T200000
 DTEND;TZID=America/New_York:20261113T230000
 SUMMARY:Blue October — Foiled 20th Anniversary Tour
@@ -66,138 +56,118 @@ DESCRIPTION:Blue October live on the Foiled anniversary tour. Tickets ~$40 - $55
 URL:https://www.livenation.com/event/vv177Z_kGkw31n77/blue-october-foiled-20th-anniversary-world-tour
 END:VEVENT
 BEGIN:VEVENT
-UID:d8402e1212410e318bb96e6841b0479b@bostonevents
-DTSTAMP:20260926T190902Z
+UID:03dc610a05fa77f7851900ec171467f6@bostonevents
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
-SUMMARY:Walking Tour of Jamaica Pond
+SUMMARY:FREE Little Groove Outdoor Music Classes at Lyrik Back Bay
 LOCATION:Greater Boston, MA
-DESCRIPTION:Featured Boston community event: Walking Tour of Jamaica Pond\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/walking-tour-of-jamaica-pond--35
-URL:https://www.thebostoncalendar.com/events/walking-tour-of-jamaica-pond--35
+DESCRIPTION:Featured Boston community event: FREE Little Groove Outdoor Music Classes at Lyrik Back Bay\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/free-little-groove-outdoor-music-classes-at-lyrik-back-bay--17
+URL:https://www.thebostoncalendar.com/events/free-little-groove-outdoor-music-classes-at-lyrik-back-bay--17
 END:VEVENT
 BEGIN:VEVENT
-UID:799802ebbaa37ba6cffc582f2ceea6d6@bostonevents
-DTSTAMP:20260926T190902Z
+UID:0fce4708e677ec6ad7ce7c52f927c1aa@bostonevents
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
-SUMMARY:The Great Northeast Jug Band Festival
+SUMMARY:Sunday Jazz Brunch
 LOCATION:Greater Boston, MA
-DESCRIPTION:Featured Boston community event: The Great Northeast Jug Band Festival\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/the-great-northeast-jug-band-festival--5
-URL:https://www.thebostoncalendar.com/events/the-great-northeast-jug-band-festival--5
+DESCRIPTION:Featured Boston community event: Sunday Jazz Brunch\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/sunday-jazz-brunch--49
+URL:https://www.thebostoncalendar.com/events/sunday-jazz-brunch--49
 END:VEVENT
 BEGIN:VEVENT
-UID:c45c84bb987e37ce90ec5882939477b0@bostonevents
-DTSTAMP:20260926T190902Z
+UID:4f2dc3bbc0b654ea3d7b2007a26de83d@bostonevents
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
-SUMMARY:Summer Concert Series & Beer Garden
+SUMMARY:Isabella Stewart Gardner Museum: Chamber Music Celebration
 LOCATION:Greater Boston, MA
-DESCRIPTION:Featured Boston community event: Summer Concert Series & Beer Garden\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/jason-russell-house-summer-concert-series--20
-URL:https://www.thebostoncalendar.com/events/jason-russell-house-summer-concert-series--20
+DESCRIPTION:Featured Boston community event: Isabella Stewart Gardner Museum: Chamber Music Celebration\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/isabella-stewart-gardner-museum-chamber-music-celebration
+URL:https://www.thebostoncalendar.com/events/isabella-stewart-gardner-museum-chamber-music-celebration
 END:VEVENT
 BEGIN:VEVENT
-UID:713f8bca093dd9c47f8ac1cb61c529f2@bostonevents
-DTSTAMP:20260926T190902Z
+UID:1bc8179bc156acbb9d50877435eff971@bostonevents
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
-SUMMARY:South Coast Chamber Music Series: Semiquincentennial
+SUMMARY:Live Music Sundays
 LOCATION:Greater Boston, MA
-DESCRIPTION:Featured Boston community event: South Coast Chamber Music Series: Semiquincentennial\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/south-coast-chamber-music-series-semiquincentennial
-URL:https://www.thebostoncalendar.com/events/south-coast-chamber-music-series-semiquincentennial
+DESCRIPTION:Featured Boston community event: Live Music Sundays\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-music-sundays--195
+URL:https://www.thebostoncalendar.com/events/live-music-sundays--195
 END:VEVENT
 BEGIN:VEVENT
-UID:26c6670c42db657f0bca46795c5048c5@bostonevents
-DTSTAMP:20260926T190902Z
+UID:a8e7bcf7bdf73db787d5b8c7a32e6224@bostonevents
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
-SUMMARY:Traditional Irish Music Sessions at The Druid
+SUMMARY:Musical Tales, with the Wellesley Symphony
 LOCATION:Greater Boston, MA
-DESCRIPTION:Featured Boston community event: Traditional Irish Music Sessions at The Druid\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/traditional-irish-music-sessions-at-the-druid--1281
-URL:https://www.thebostoncalendar.com/events/traditional-irish-music-sessions-at-the-druid--1281
-END:VEVENT
-BEGIN:VEVENT
-UID:323cf23740ebde77107d00e74edbcd22@bostonevents
-DTSTAMP:20260926T190902Z
-DTSTART;TZID=America/New_York:20261003T190000
-DTEND;TZID=America/New_York:20261003T220000
-SUMMARY:The Sufi's Nightingale Musical
-LOCATION:Greater Boston, MA
-DESCRIPTION:Featured Boston community event: The Sufi's Nightingale Musical\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/the-sufi-s-nightingale-musical
-URL:https://www.thebostoncalendar.com/events/the-sufi-s-nightingale-musical
-END:VEVENT
-BEGIN:VEVENT
-UID:bf585870f8de2b87b17440f44a090942@bostonevents
-DTSTAMP:20260926T190902Z
-DTSTART;TZID=America/New_York:20261003T190000
-DTEND;TZID=America/New_York:20261003T220000
-SUMMARY:Close Friends Only Boston Boat Cruise - House Music on the Water
-LOCATION:Greater Boston, MA
-DESCRIPTION:Featured Boston community event: Close Friends Only Boston Boat Cruise - House Music on the Water\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/close-friends-only-boston-boat-cruise-house-music-on-the-water
-URL:https://www.thebostoncalendar.com/events/close-friends-only-boston-boat-cruise-house-music-on-the-water
-END:VEVENT
-BEGIN:VEVENT
-UID:bf8e3336a680829631fe99447d27315c@bostonevents
-DTSTAMP:20260926T190902Z
-DTSTART;TZID=America/New_York:20261003T190000
-DTEND;TZID=America/New_York:20261003T220000
-SUMMARY:Rencontres Poétiques: Poetic Encounters Concert Series
-LOCATION:Greater Boston, MA
-DESCRIPTION:Featured Boston community event: Rencontres Poétiques: Poetic Encounters Concert Series\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/rencontres-poetiques-poetic-encounters-concert-series--2
-URL:https://www.thebostoncalendar.com/events/rencontres-poetiques-poetic-encounters-concert-series--2
-END:VEVENT
-BEGIN:VEVENT
-UID:f9eac29c39681eacf443bfa1dfc6a3a2@bostonevents
-DTSTAMP:20260926T190902Z
-DTSTART;TZID=America/New_York:20261003T190000
-DTEND;TZID=America/New_York:20261003T220000
-SUMMARY:The Milk Carton Kids Live In Concert
-LOCATION:Greater Boston, MA
-DESCRIPTION:Featured Boston community event: The Milk Carton Kids Live In Concert\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/the-milk-carton-kids-live-in-concert
-URL:https://www.thebostoncalendar.com/events/the-milk-carton-kids-live-in-concert
-END:VEVENT
-BEGIN:VEVENT
-UID:8a03ea81a99027a71e7f5ea8c453ecac@bostonevents
-DTSTAMP:20260926T190902Z
-DTSTART;TZID=America/New_York:20261003T190000
-DTEND;TZID=America/New_York:20261003T220000
-SUMMARY:Jazz Legends Donna McElroy & George Russell Jr.
-LOCATION:Greater Boston, MA
-DESCRIPTION:Featured Boston community event: Jazz Legends Donna McElroy & George Russell Jr.\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/jazz-legends-donna-mcelroy-george-russell-jr
-URL:https://www.thebostoncalendar.com/events/jazz-legends-donna-mcelroy-george-russell-jr
+DESCRIPTION:Featured Boston community event: Musical Tales, with the Wellesley Symphony\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/musical-tales-with-the-wellesley-symphony
+URL:https://www.thebostoncalendar.com/events/musical-tales-with-the-wellesley-symphony
 END:VEVENT
 BEGIN:VEVENT
 UID:0b71051d7a49f7419794ce7784ad13d7@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:Choral & Chamber Music Festival
 LOCATION:Greater Boston, MA
-DESCRIPTION:Featured Boston community event: Choral & Chamber Music Festival\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/choral-chamber-music-festival
-URL:https://www.thebostoncalendar.com/events/choral-chamber-music-festival
+DESCRIPTION:Featured Boston community event: Choral & Chamber Music Festival\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/choral-chamber-music-festival--2
+URL:https://www.thebostoncalendar.com/events/choral-chamber-music-festival--2
 END:VEVENT
 BEGIN:VEVENT
-UID:bf6de73e207fee9de32696a65852bc62@bostonevents
-DTSTAMP:20260926T190902Z
+UID:713f8bca093dd9c47f8ac1cb61c529f2@bostonevents
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
-SUMMARY:Mazzika Orchestra: Arab Legends
+SUMMARY:South Coast Chamber Music Series: Semiquincentennial
 LOCATION:Greater Boston, MA
-DESCRIPTION:Featured Boston community event: Mazzika Orchestra: Arab Legends\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/mazzika-orchestra-arab-legends
-URL:https://www.thebostoncalendar.com/events/mazzika-orchestra-arab-legends
+DESCRIPTION:Featured Boston community event: South Coast Chamber Music Series: Semiquincentennial\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/south-coast-chamber-music-series-semiquincentennial--2
+URL:https://www.thebostoncalendar.com/events/south-coast-chamber-music-series-semiquincentennial--2
 END:VEVENT
 BEGIN:VEVENT
-UID:916f214131e977495423ad0adc55783b@bostonevents
-DTSTAMP:20260926T190902Z
+UID:9d59aaf0628bf0cbbf61ee735231678e@bostonevents
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
-SUMMARY:Malcolm Todd - Do That Again Tour
+SUMMARY:Kunitachi Afternoon Concert
 LOCATION:Greater Boston, MA
-DESCRIPTION:Featured Boston community event: Malcolm Todd - Do That Again Tour\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/malcolm-todd-do-that-again-tour
-URL:https://www.thebostoncalendar.com/events/malcolm-todd-do-that-again-tour
+DESCRIPTION:Featured Boston community event: Kunitachi Afternoon Concert\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/kunitachi-afternoon-concert
+URL:https://www.thebostoncalendar.com/events/kunitachi-afternoon-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:2be4f0e2c2df73da92a90cefa5c46125@bostonevents
+DTSTAMP:20260927T164127Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Boston Chamber Music Society: Beethoven, Canal, Brahms
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Boston Chamber Music Society: Beethoven, Canal, Brahms\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/boston-chamber-music-society-beethoven-canal-brahms
+URL:https://www.thebostoncalendar.com/events/boston-chamber-music-society-beethoven-canal-brahms
+END:VEVENT
+BEGIN:VEVENT
+UID:b6b9933a0d97d610965d55d7038e4dc4@bostonevents
+DTSTAMP:20260927T164127Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Elie El Alia - Boston, MA - A Night of Music and Singing
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Elie El Alia - Boston, MA - A Night of Music and Singing\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/elie-el-alia-boston-ma-a-night-of-music-and-singing
+URL:https://www.thebostoncalendar.com/events/elie-el-alia-boston-ma-a-night-of-music-and-singing
+END:VEVENT
+BEGIN:VEVENT
+UID:247a6aafdaf4b417eb962c955b387de1@bostonevents
+DTSTAMP:20260927T164127Z
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+SUMMARY:Wave To Earth - The Pieces Tour
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: Wave To Earth - The Pieces Tour\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/wave-to-earth-the-pieces-tour
+URL:https://www.thebostoncalendar.com/events/wave-to-earth-the-pieces-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:d2b5d1e16dd604c42b681f7d770b619c@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:The Tall Ship Boston: Floating Oyster Bar & Waterfront Experience (Live Music, Food Trucks, Popups, & More)
@@ -207,7 +177,7 @@ URL:https://www.thebostoncalendar.com/events/the-tall-ship-boston-2022-season-fl
 END:VEVENT
 BEGIN:VEVENT
 UID:682f95887a294c35ea14db4915442975@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:Free Outdoor Concerts in Boston: Summer 2026
@@ -217,7 +187,7 @@ URL:https://www.thebostoncalendar.com/events/free-outdoor-concerts-in-boston-sum
 END:VEVENT
 BEGIN:VEVENT
 UID:1595a17d1b603d16724e425d218f20ad@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:The Grove at the Lawn on D: An Urban Botanical Oasis in Boston's Seaport with Lawn Games, Live Music, Drinks, Food & More
@@ -227,7 +197,7 @@ URL:https://www.thebostoncalendar.com/events/the-grove-at-the-lawn-on-d-an-urban
 END:VEVENT
 BEGIN:VEVENT
 UID:e417c4aed738e7ce98e9ad22aacf9ebc@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:BAT BOY: THE MUSICAL
@@ -237,7 +207,7 @@ URL:https://www.thebostoncalendar.com/events/bat-boy-the-musical--7
 END:VEVENT
 BEGIN:VEVENT
 UID:bde2cf43214d6c1550201a3672995404@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:Live Local Music Weekly at SKYBOKX 109 in Natick
@@ -247,7 +217,7 @@ URL:https://www.thebostoncalendar.com/events/live-local-music-weekly-at-skybokx-
 END:VEVENT
 BEGIN:VEVENT
 UID:0879e6373ff5d6f81da30442cb222466@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:Music in the Christian Science Tradition
@@ -257,7 +227,7 @@ URL:https://www.thebostoncalendar.com/events/music-in-the-christian-science-trad
 END:VEVENT
 BEGIN:VEVENT
 UID:373d1a77aa00d91f6665368808977698@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:Live Music at Loretta's Last Call
@@ -267,7 +237,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-loretta-s-last-call
 END:VEVENT
 BEGIN:VEVENT
 UID:f8a93d6c96371279b540e522b5c95024@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:Live Music at Mastro's Ocean Club | Seaport
@@ -277,7 +247,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-mastro-s-ocean-club-s
 END:VEVENT
 BEGIN:VEVENT
 UID:5ce49ed8eac159142cb0bff929809125@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:Live Music at Aeronaut Brewing | Somerville
@@ -287,7 +257,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-aeronaut-brewery-some
 END:VEVENT
 BEGIN:VEVENT
 UID:e537808d055528dd7018bd485fe3fce3@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:Live Music at The Bebop | Back Bay
@@ -297,7 +267,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-the-bebop-back-bay
 END:VEVENT
 BEGIN:VEVENT
 UID:5fc1a33e4ff1e3c16f26c9cc6720708b@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:Live Music at The Burren | Davis Square
@@ -307,7 +277,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-the-burren-davis-squa
 END:VEVENT
 BEGIN:VEVENT
 UID:b6dc700d10ac6cf0aad2366f4d7b514c@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:Live Music at Wally's Café Jazz Club | South End
@@ -317,7 +287,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-wally-s-cafe-jazz-clu
 END:VEVENT
 BEGIN:VEVENT
 UID:19addddeecf1433d3b3e55de12451715@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:The Beehive: Bohemian Eatery, Bar & Live Music | South End
@@ -327,7 +297,7 @@ URL:https://www.thebostoncalendar.com/events/the-beehive-bohemian-eatery-bar-liv
 END:VEVENT
 BEGIN:VEVENT
 UID:1013b82a75eb36376cd351d25f382593@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:Grace by Nia: Supper Club & Live Music | Boston Seaport
@@ -337,7 +307,7 @@ URL:https://www.thebostoncalendar.com/events/grace-by-nia-supper-club-live-music
 END:VEVENT
 BEGIN:VEVENT
 UID:eca994ceea651f78dcf860ed6e6dbbac@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:Live Music at Bostonia Public House | Downtown
@@ -347,7 +317,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-bostonia-public-house
 END:VEVENT
 BEGIN:VEVENT
 UID:599e06f60c3c45b35dfac6ed882ffa79@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:Blue Bandana Relics | Vintage Store in Union Square
@@ -357,7 +327,7 @@ URL:https://www.thebostoncalendar.com/events/blue-bandana-relics-vintage-store-i
 END:VEVENT
 BEGIN:VEVENT
 UID:38df4a5c4c67114b1e833f9119fa1d1c@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:20 Places to Enjoy Free Live Music in Boston for Every Day of the Week
@@ -367,7 +337,7 @@ URL:https://www.thebostoncalendar.com/events/20-places-to-enjoy-free-live-music-
 END:VEVENT
 BEGIN:VEVENT
 UID:9144347af72c5e35a66a7837dfe83fb3@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:Free Live Music Every Night of the Week at Burren Somerville
@@ -377,7 +347,7 @@ URL:https://www.thebostoncalendar.com/events/the-burren-live-music
 END:VEVENT
 BEGIN:VEVENT
 UID:78a9234267f1b6935effea3665b9f5df@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:Live Music at McCarthy's and Toad
@@ -387,7 +357,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-mccarthy-s-and-toad
 END:VEVENT
 BEGIN:VEVENT
 UID:8a3dece95b086bb63aa3670b673bfaab@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:The Beehive | Restaurant & Jazz Club in the South End
@@ -397,7 +367,7 @@ URL:https://www.thebostoncalendar.com/events/the-beehive-restaurant-jazz-club-in
 END:VEVENT
 BEGIN:VEVENT
 UID:1ac211acc6af40df5c64dcc436372c82@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:Live Music at Remnant Satellite
@@ -407,7 +377,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-remnant-satellite
 END:VEVENT
 BEGIN:VEVENT
 UID:5bc3275c8db54d84de2d194539e7b553@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:Live Music at Capo
@@ -417,7 +387,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-capo
 END:VEVENT
 BEGIN:VEVENT
 UID:3ed248809808f9708bdb7da3ea028e4e@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:Park City Southie: Outdoor Bar, Restaurant, & Music Venue Now Open
@@ -427,7 +397,7 @@ URL:https://www.thebostoncalendar.com/events/park-city-a-new-southie-bar-restaur
 END:VEVENT
 BEGIN:VEVENT
 UID:6af32668b95ccd293330eab8f09bdb0e@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:Grace by Nia | Supper Club & Live Music in Seaport
@@ -437,7 +407,7 @@ URL:https://www.thebostoncalendar.com/events/grace-by-nia-supper-club-live-music
 END:VEVENT
 BEGIN:VEVENT
 UID:2c43403c806c8d2ebedaa760be14d7b8@bostonevents
-DTSTAMP:20260926T190902Z
+DTSTAMP:20260927T164127Z
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
 SUMMARY:Red Room at Cafe 939: Free & Cheap Concerts at Berklee College of Music
