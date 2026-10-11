@@ -7,7 +7,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:jayhawks-shubert-oct24@bostonevents
-DTSTAMP:20261007T184057Z
+DTSTAMP:20261011T173220Z
 DTSTART;TZID=America/New_York:20261024T200000
 DTEND;TZID=America/New_York:20261024T230000
 SUMMARY:The Jayhawks — Sanctuary Park Tour
@@ -17,7 +17,7 @@ URL:https://www.bochcenter.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:blue-october-hob-nov13@bostonevents
-DTSTAMP:20261007T184057Z
+DTSTAMP:20261011T173220Z
 DTSTART;TZID=America/New_York:20261113T200000
 DTEND;TZID=America/New_York:20261113T230000
 SUMMARY:Blue October — Foiled 20th Anniversary Tour
@@ -26,310 +26,330 @@ DESCRIPTION:Blue October live on the Foiled anniversary tour. Tickets ~$40 - $55
 URL:https://www.livenation.com/event/vv177Z_kGkw31n77/blue-october-foiled-20th-anniversary-world-tour
 END:VEVENT
 BEGIN:VEVENT
-UID:4f95b7c9bf16072e60ddb231634e7142@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
-SUMMARY:Music Bingo at CanalSide
+UID:ae006ca84cff40856c51f0351e785acb@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
+SUMMARY:FREE Little Groove Outdoor Music Classes at Lyrik Back Bay
 LOCATION:Greater Boston, MA
-DESCRIPTION:Featured Boston community event: Music Bingo at CanalSide\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/music-bingo-at-canalside--6
-URL:https://www.thebostoncalendar.com/events/music-bingo-at-canalside--6
+DESCRIPTION:Featured Boston community event: FREE Little Groove Outdoor Music Classes at Lyrik Back Bay\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/free-little-groove-outdoor-music-classes-at-lyrik-back-bay--19
+URL:https://www.thebostoncalendar.com/events/free-little-groove-outdoor-music-classes-at-lyrik-back-bay--19
 END:VEVENT
 BEGIN:VEVENT
-UID:1863644a3cae0a0c635e25a8485c73d7@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
-SUMMARY:Sultana Carriage House Concert
+UID:d519be9f89043d29935afd4584924bdc@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
+SUMMARY:Sunday Jazz Jam
 LOCATION:Greater Boston, MA
-DESCRIPTION:Featured Boston community event: Sultana Carriage House Concert\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/sultana-carriage-house-concert
-URL:https://www.thebostoncalendar.com/events/sultana-carriage-house-concert
+DESCRIPTION:Featured Boston community event: Sunday Jazz Jam\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/sunday-jazz-jam--7
+URL:https://www.thebostoncalendar.com/events/sunday-jazz-jam--7
 END:VEVENT
 BEGIN:VEVENT
-UID:8132aeddb994dbc79febdedf45f37fdc@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
-SUMMARY:Skillet - Comatose 20 Years, Still Screaming Tour
+UID:513c3e539c2141d7bb2bff81330bcac1@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
+SUMMARY:Mad Love Music Festival
 LOCATION:Greater Boston, MA
-DESCRIPTION:Featured Boston community event: Skillet - Comatose 20 Years, Still Screaming Tour\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/skillet-comatose-20-years-still-screaming-tour
-URL:https://www.thebostoncalendar.com/events/skillet-comatose-20-years-still-screaming-tour
+DESCRIPTION:Featured Boston community event: Mad Love Music Festival\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/mad-love-music-festival
+URL:https://www.thebostoncalendar.com/events/mad-love-music-festival
 END:VEVENT
 BEGIN:VEVENT
-UID:ac2bd59f9b8be033fda920d756861208@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
-SUMMARY:Music Bingo at An Sibin
+UID:226f29cb5263a3f90d1c2af76e093c73@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
+SUMMARY:Sunday Jazz Brunch
 LOCATION:Greater Boston, MA
-DESCRIPTION:Featured Boston community event: Music Bingo at An Sibin\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/music-bingo-at-an-sibin--27
-URL:https://www.thebostoncalendar.com/events/music-bingo-at-an-sibin--27
+DESCRIPTION:Featured Boston community event: Sunday Jazz Brunch\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/sunday-jazz-brunch--51
+URL:https://www.thebostoncalendar.com/events/sunday-jazz-brunch--51
 END:VEVENT
 BEGIN:VEVENT
-UID:321a79bab70d7ab3199f2a11c4f87217@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
-SUMMARY:Both Sides Now: The Music and Lives of Joni Mitchell and Leonard Cohen
+UID:92d5ddfb54786cd3ac2706e4bca88b33@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
+SUMMARY:"Tiny Shed" Season Finale Concert
 LOCATION:Greater Boston, MA
-DESCRIPTION:Featured Boston community event: Both Sides Now: The Music and Lives of Joni Mitchell and Leonard Cohen\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/both-sides-now-the-music-and-lives-of-joni-mitchell-and-leonard-cohen
-URL:https://www.thebostoncalendar.com/events/both-sides-now-the-music-and-lives-of-joni-mitchell-and-leonard-cohen
+DESCRIPTION:Featured Boston community event: "Tiny Shed" Season Finale Concert\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/tiny-shed-season-finale-concert
+URL:https://www.thebostoncalendar.com/events/tiny-shed-season-finale-concert
 END:VEVENT
 BEGIN:VEVENT
-UID:b4a9fdd4d07e38bf1747d658bd992d7a@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
-SUMMARY:Live Band Line Dancing at Loretta's
+UID:70fa59da828c425f7cad731d90238401@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
+SUMMARY:Live Music Sundays
 LOCATION:Greater Boston, MA
-DESCRIPTION:Featured Boston community event: Live Band Line Dancing at Loretta's\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-band-line-dancing-at-loretta-s--26
-URL:https://www.thebostoncalendar.com/events/live-band-line-dancing-at-loretta-s--26
+DESCRIPTION:Featured Boston community event: Live Music Sundays\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-music-sundays--197
+URL:https://www.thebostoncalendar.com/events/live-music-sundays--197
 END:VEVENT
 BEGIN:VEVENT
-UID:f6354df6bba78eaf9ecaf5d130e196b6@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
-SUMMARY:Confluencia: Mariachi Tropical Big Band
+UID:7010c11550024f407506bd1dbcaa4f3c@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
+SUMMARY:Boston Chamber Music Society: Mozart, Mendelssohn, Vaughan Williams
 LOCATION:Greater Boston, MA
-DESCRIPTION:Featured Boston community event: Confluencia: Mariachi Tropical Big Band\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/confluencia-mariachi-tropical-big-band
-URL:https://www.thebostoncalendar.com/events/confluencia-mariachi-tropical-big-band
+DESCRIPTION:Featured Boston community event: Boston Chamber Music Society: Mozart, Mendelssohn, Vaughan Williams\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/boston-chamber-music-society-mozart-mendelssohn-vaughan-williams
+URL:https://www.thebostoncalendar.com/events/boston-chamber-music-society-mozart-mendelssohn-vaughan-williams
 END:VEVENT
 BEGIN:VEVENT
-UID:7c8a34c543901120d0b5999b446e96c6@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
-SUMMARY:Free Outdoor Concerts in Boston: Summer 2026
+UID:56ce196475c0e4004f14fe309166f116@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
+SUMMARY:Concert in the Mansion: David Eure & Alexei Tsiganov
 LOCATION:Greater Boston, MA
-DESCRIPTION:Featured Boston community event: Free Outdoor Concerts in Boston: Summer 2026\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/free-outdoor-concerts-in-boston-summer-2022
-URL:https://www.thebostoncalendar.com/events/free-outdoor-concerts-in-boston-summer-2022
+DESCRIPTION:Featured Boston community event: Concert in the Mansion: David Eure & Alexei Tsiganov\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/concert-in-the-mansion-david-eure-alexei-tsiganov
+URL:https://www.thebostoncalendar.com/events/concert-in-the-mansion-david-eure-alexei-tsiganov
 END:VEVENT
 BEGIN:VEVENT
-UID:526180cf25910aa4a04418582a208bed@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
+UID:e4a727dd273828c70398d020e62c57e4@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
+SUMMARY:QArts Gallery Jazz Series - Jesse Taitt
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: QArts Gallery Jazz Series - Jesse Taitt\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/qarts-gallery-jazz-series-jesse-taitt
+URL:https://www.thebostoncalendar.com/events/qarts-gallery-jazz-series-jesse-taitt
+END:VEVENT
+BEGIN:VEVENT
+UID:e4da55aeadcd0ef5f55c31b84bcb5c2a@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
+SUMMARY:HONK! Festival of Activist Street Bands 2026
+LOCATION:Greater Boston, MA
+DESCRIPTION:Featured Boston community event: HONK! Festival of Activist Street Bands 2026\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/honk-festival-w-35-u-s-activist-street-bands-on-site-plus-6-int-l-bands-streaming-in
+URL:https://www.thebostoncalendar.com/events/honk-festival-w-35-u-s-activist-street-bands-on-site-plus-6-int-l-bands-streaming-in
+END:VEVENT
+BEGIN:VEVENT
+UID:7ea422f48083a7bf3cbbfffd51aa7793@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:The Grove at the Lawn on D: An Urban Botanical Oasis in Boston's Seaport with Lawn Games, Live Music, Drinks, Food & More
 LOCATION:Greater Boston, MA
 DESCRIPTION:Featured Boston community event: The Grove at the Lawn on D: An Urban Botanical Oasis in Boston's Seaport with Lawn Games, Live Music, Drinks, Food & More\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/the-grove-at-the-lawn-on-d-an-urban-botanical-oasis-in-boston-s-seaport-with-lawn-games-live-music-drinks-food-more
 URL:https://www.thebostoncalendar.com/events/the-grove-at-the-lawn-on-d-an-urban-botanical-oasis-in-boston-s-seaport-with-lawn-games-live-music-drinks-food-more
 END:VEVENT
 BEGIN:VEVENT
-UID:47fe322788c32ab31e2cfe8aa54bc446@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
+UID:e282a9af96d7b024522b58470fae2378@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:BAT BOY: THE MUSICAL
 LOCATION:Greater Boston, MA
 DESCRIPTION:Featured Boston community event: BAT BOY: THE MUSICAL\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/bat-boy-the-musical--7
 URL:https://www.thebostoncalendar.com/events/bat-boy-the-musical--7
 END:VEVENT
 BEGIN:VEVENT
-UID:baaab0092ed47150d5163598f77a9444@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
+UID:326c11d6abd1341056b690d078d758a3@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:Live Local Music Weekly at SKYBOKX 109 in Natick
 LOCATION:Greater Boston, MA
 DESCRIPTION:Featured Boston community event: Live Local Music Weekly at SKYBOKX 109 in Natick\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-local-music-weekly-at-skybokx-109-in-natick
 URL:https://www.thebostoncalendar.com/events/live-local-music-weekly-at-skybokx-109-in-natick
 END:VEVENT
 BEGIN:VEVENT
-UID:0aa74163a7ff7da90bc54a10dbb146b1@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
+UID:097a6950d3dfb4aa585c91a5fe31e41b@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:Music in the Christian Science Tradition
 LOCATION:Greater Boston, MA
 DESCRIPTION:Featured Boston community event: Music in the Christian Science Tradition\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/music-in-the-christian-science-tradition
 URL:https://www.thebostoncalendar.com/events/music-in-the-christian-science-tradition
 END:VEVENT
 BEGIN:VEVENT
-UID:d760a872f1da602285fcce130351a5ff@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
+UID:9086caa523b108fc51307c33a1b0d530@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:Live Music at Loretta's Last Call
 LOCATION:Greater Boston, MA
 DESCRIPTION:Featured Boston community event: Live Music at Loretta's Last Call\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-music-at-loretta-s-last-call
 URL:https://www.thebostoncalendar.com/events/live-music-at-loretta-s-last-call
 END:VEVENT
 BEGIN:VEVENT
-UID:a5616fd8ed771f9e0ef46ffec7666643@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
+UID:11e6cf14f364320652c1567a2ccc80d5@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:Live Music at Mastro's Ocean Club | Seaport
 LOCATION:Greater Boston, MA
 DESCRIPTION:Featured Boston community event: Live Music at Mastro's Ocean Club | Seaport\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-music-at-mastro-s-ocean-club-seaport
 URL:https://www.thebostoncalendar.com/events/live-music-at-mastro-s-ocean-club-seaport
 END:VEVENT
 BEGIN:VEVENT
-UID:3095cbac960602d349cf27208207058c@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
+UID:4c2c73e246b704f4a904010232767d47@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:Live Music at The Bebop | Back Bay
 LOCATION:Greater Boston, MA
 DESCRIPTION:Featured Boston community event: Live Music at The Bebop | Back Bay\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-music-at-the-bebop-back-bay
 URL:https://www.thebostoncalendar.com/events/live-music-at-the-bebop-back-bay
 END:VEVENT
 BEGIN:VEVENT
-UID:8d3907f9e8d14eea6227052040acd38d@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
+UID:788e4fa4c3a78cb5c3eff947ce36ffbb@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:Live Music at Aeronaut Brewing | Somerville
 LOCATION:Greater Boston, MA
 DESCRIPTION:Featured Boston community event: Live Music at Aeronaut Brewing | Somerville\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-music-at-aeronaut-brewery-somerville
 URL:https://www.thebostoncalendar.com/events/live-music-at-aeronaut-brewery-somerville
 END:VEVENT
 BEGIN:VEVENT
-UID:4ee4565591f1ced9e556bb510d523f59@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
+UID:cd6106035d50bd7bfee5ff51354441a9@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:Live Music at The Burren | Davis Square
 LOCATION:Greater Boston, MA
 DESCRIPTION:Featured Boston community event: Live Music at The Burren | Davis Square\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-music-at-the-burren-davis-square
 URL:https://www.thebostoncalendar.com/events/live-music-at-the-burren-davis-square
 END:VEVENT
 BEGIN:VEVENT
-UID:b0c30f6d78ae9564f7eee83a07b907d8@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
+UID:02fe3d655feb9465aef06e75bf0582e0@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:Live Music at Wally's Café Jazz Club | South End
 LOCATION:Greater Boston, MA
 DESCRIPTION:Featured Boston community event: Live Music at Wally's Café Jazz Club | South End\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-music-at-wally-s-cafe-jazz-club-south-end
 URL:https://www.thebostoncalendar.com/events/live-music-at-wally-s-cafe-jazz-club-south-end
 END:VEVENT
 BEGIN:VEVENT
-UID:5b5253c649f7480cef19cb261b7d0f81@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
+UID:03aacc66439d3b6643873bef2ffc75dc@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:The Beehive: Bohemian Eatery, Bar & Live Music | South End
 LOCATION:Greater Boston, MA
 DESCRIPTION:Featured Boston community event: The Beehive: Bohemian Eatery, Bar & Live Music | South End\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/the-beehive-bohemian-eatery-bar-live-music-south-end
 URL:https://www.thebostoncalendar.com/events/the-beehive-bohemian-eatery-bar-live-music-south-end
 END:VEVENT
 BEGIN:VEVENT
-UID:26a66ba8f64ce464ac165800914473eb@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
+UID:a818235138bcdf23e664ea62e774b311@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:Grace by Nia: Supper Club & Live Music | Boston Seaport
 LOCATION:Greater Boston, MA
 DESCRIPTION:Featured Boston community event: Grace by Nia: Supper Club & Live Music | Boston Seaport\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/grace-by-nia-supper-club-live-music-boston-seaport
 URL:https://www.thebostoncalendar.com/events/grace-by-nia-supper-club-live-music-boston-seaport
 END:VEVENT
 BEGIN:VEVENT
-UID:9343ec6a008c87a4c21c1d2aef5a9087@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
+UID:23380487593063ce544014284511665e@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:Live Music at Bostonia Public House | Downtown
 LOCATION:Greater Boston, MA
 DESCRIPTION:Featured Boston community event: Live Music at Bostonia Public House | Downtown\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-music-at-bostonia-public-house-downtown--2
 URL:https://www.thebostoncalendar.com/events/live-music-at-bostonia-public-house-downtown--2
 END:VEVENT
 BEGIN:VEVENT
-UID:8c0813584b26a0a40ef3ed337f656a5d@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
+UID:2b70fb69939558d0640500e4d518463f@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:Blue Bandana Relics | Vintage Store in Union Square
 LOCATION:Greater Boston, MA
 DESCRIPTION:Featured Boston community event: Blue Bandana Relics | Vintage Store in Union Square\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/blue-bandana-relics-vintage-store-in-union-square
 URL:https://www.thebostoncalendar.com/events/blue-bandana-relics-vintage-store-in-union-square
 END:VEVENT
 BEGIN:VEVENT
-UID:41f6b11b9034dd569bf7dce677cbceae@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
+UID:0ee0ee0848d36e3ee2af53a7a6e0a43e@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:20 Places to Enjoy Free Live Music in Boston for Every Day of the Week
 LOCATION:Greater Boston, MA
 DESCRIPTION:Featured Boston community event: 20 Places to Enjoy Free Live Music in Boston for Every Day of the Week\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/20-places-to-enjoy-free-live-music-in-boston-for-every-day-of-the-week
 URL:https://www.thebostoncalendar.com/events/20-places-to-enjoy-free-live-music-in-boston-for-every-day-of-the-week
 END:VEVENT
 BEGIN:VEVENT
-UID:8a1567169260b7ade36ec2483d2efc73@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
+UID:a82fae639962ea5e40d2995f5aabf303@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:Free Live Music Every Night of the Week at Burren Somerville
 LOCATION:Greater Boston, MA
 DESCRIPTION:Featured Boston community event: Free Live Music Every Night of the Week at Burren Somerville\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/the-burren-live-music
 URL:https://www.thebostoncalendar.com/events/the-burren-live-music
 END:VEVENT
 BEGIN:VEVENT
-UID:1d406ae82da000b240ec051fca4045e2@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
+UID:e81eb22cfacdf1e93765d4ce30184825@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:Live Music at McCarthy's and Toad
 LOCATION:Greater Boston, MA
 DESCRIPTION:Featured Boston community event: Live Music at McCarthy's and Toad\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-music-at-mccarthy-s-and-toad
 URL:https://www.thebostoncalendar.com/events/live-music-at-mccarthy-s-and-toad
 END:VEVENT
 BEGIN:VEVENT
-UID:7146093189b61e7970ace55308047e25@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
+UID:0908f47042b3bbd7d609151bdd17eafa@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:Live Music at Capo
 LOCATION:Greater Boston, MA
 DESCRIPTION:Featured Boston community event: Live Music at Capo\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-music-at-capo
 URL:https://www.thebostoncalendar.com/events/live-music-at-capo
 END:VEVENT
 BEGIN:VEVENT
-UID:33c1f6455ad0eacfd258a012e5bcadd3@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
+UID:551a139e0b90006a9f30d5a932a895c0@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:The Beehive | Restaurant & Jazz Club in the South End
 LOCATION:Greater Boston, MA
 DESCRIPTION:Featured Boston community event: The Beehive | Restaurant & Jazz Club in the South End\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/the-beehive-restaurant-jazz-club-in-the-south-end
 URL:https://www.thebostoncalendar.com/events/the-beehive-restaurant-jazz-club-in-the-south-end
 END:VEVENT
 BEGIN:VEVENT
-UID:59cc05c953f33504892edc8167efab86@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
+UID:110d35178be337c684e74fadc13b5733@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:Live Music at Remnant Satellite
 LOCATION:Greater Boston, MA
 DESCRIPTION:Featured Boston community event: Live Music at Remnant Satellite\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-music-at-remnant-satellite
 URL:https://www.thebostoncalendar.com/events/live-music-at-remnant-satellite
 END:VEVENT
 BEGIN:VEVENT
-UID:588c7d8dcca800f780ef483bdaf2728f@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
+UID:fb95bf844622e92b59218d5cba1b4eb1@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:Park City Southie: Outdoor Bar, Restaurant, & Music Venue Now Open
 LOCATION:Greater Boston, MA
 DESCRIPTION:Featured Boston community event: Park City Southie: Outdoor Bar, Restaurant, & Music Venue Now Open\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/park-city-a-new-southie-bar-restaurant-music-venue
 URL:https://www.thebostoncalendar.com/events/park-city-a-new-southie-bar-restaurant-music-venue
 END:VEVENT
 BEGIN:VEVENT
-UID:308d8bab6d0dcbac332d6937f24f1221@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
+UID:f7c822764805fb5d6280de266b7c0e07@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:Grace by Nia | Supper Club & Live Music in Seaport
 LOCATION:Greater Boston, MA
 DESCRIPTION:Featured Boston community event: Grace by Nia | Supper Club & Live Music in Seaport\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/grace-by-nia-supper-club-live-music-in-seaport
 URL:https://www.thebostoncalendar.com/events/grace-by-nia-supper-club-live-music-in-seaport
 END:VEVENT
 BEGIN:VEVENT
-UID:8d06f5452f1faac17dc1be2d6cd4fbdb@bostonevents
-DTSTAMP:20261007T184057Z
-DTSTART;TZID=America/New_York:20261010T190000
-DTEND;TZID=America/New_York:20261010T220000
+UID:b998ded47c60b1dc006e1398c4a0b89f@bostonevents
+DTSTAMP:20261011T173220Z
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:Red Room at Cafe 939: Free & Cheap Concerts at Berklee College of Music
 LOCATION:Greater Boston, MA
 DESCRIPTION:Featured Boston community event: Red Room at Cafe 939: Free & Cheap Concerts at Berklee College of Music\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/red-room-at-cafe-939
