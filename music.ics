@@ -7,7 +7,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:deafa93adfa3d76fd38efb63999b7949@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261014T180000
 DTEND;TZID=America/New_York:20261014T210000
 SUMMARY:Music Bingo at CanalSide
@@ -16,8 +16,238 @@ DESCRIPTION:Event info: Music Bingo at CanalSide\n\nInfo/Tickets: https://www.th
 URL:https://www.thebostoncalendar.com/events/music-bingo-at-canalside--7
 END:VEVENT
 BEGIN:VEVENT
+UID:ca85fb7166ae22b3016d5d2b15584f78@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T220000
+SUMMARY:The Grove at the Lawn on D: An Urban Botanical Oasis in Boston's Seaport with Lawn Games, Live Music, Drinks, Food & More
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: The Grove at the Lawn on D: An Urban Botanical Oasis in Boston's Seaport with Lawn Games, Live Music, Drinks, Food & More\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/the-grove-at-the-lawn-on-d-an-urban-botanical-oasis-in-boston-s-seaport-with-lawn-games-live-music-drinks-food-more
+URL:https://www.thebostoncalendar.com/events/the-grove-at-the-lawn-on-d-an-urban-botanical-oasis-in-boston-s-seaport-with-lawn-games-live-music-drinks-food-more
+END:VEVENT
+BEGIN:VEVENT
+UID:2087bbd33f6e4112551d47064d300b29@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T220000
+SUMMARY:BAT BOY: THE MUSICAL
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: BAT BOY: THE MUSICAL\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/bat-boy-the-musical--7
+URL:https://www.thebostoncalendar.com/events/bat-boy-the-musical--7
+END:VEVENT
+BEGIN:VEVENT
+UID:b3c23fc708377510946f9f3d193d8a58@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T220000
+SUMMARY:Live Local Music Weekly at SKYBOKX 109 in Natick
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Live Local Music Weekly at SKYBOKX 109 in Natick\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-local-music-weekly-at-skybokx-109-in-natick
+URL:https://www.thebostoncalendar.com/events/live-local-music-weekly-at-skybokx-109-in-natick
+END:VEVENT
+BEGIN:VEVENT
+UID:50590fbbdfd9eaa7048dba7aed2a9ecd@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T220000
+SUMMARY:Music in the Christian Science Tradition
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Music in the Christian Science Tradition\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/music-in-the-christian-science-tradition
+URL:https://www.thebostoncalendar.com/events/music-in-the-christian-science-tradition
+END:VEVENT
+BEGIN:VEVENT
+UID:9a64ab3a8c3515e17da92d0214237863@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T220000
+SUMMARY:Live Music at Loretta's Last Call
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Live Music at Loretta's Last Call\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-music-at-loretta-s-last-call
+URL:https://www.thebostoncalendar.com/events/live-music-at-loretta-s-last-call
+END:VEVENT
+BEGIN:VEVENT
+UID:18151667f4a926bd214d76c511f48df1@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T220000
+SUMMARY:Live Music at Mastro's Ocean Club | Seaport
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Live Music at Mastro's Ocean Club | Seaport\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-music-at-mastro-s-ocean-club-seaport
+URL:https://www.thebostoncalendar.com/events/live-music-at-mastro-s-ocean-club-seaport
+END:VEVENT
+BEGIN:VEVENT
+UID:b61225b4c1376fa75a783844faa26318@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T220000
+SUMMARY:Live Music at The Bebop | Back Bay
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Live Music at The Bebop | Back Bay\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-music-at-the-bebop-back-bay
+URL:https://www.thebostoncalendar.com/events/live-music-at-the-bebop-back-bay
+END:VEVENT
+BEGIN:VEVENT
+UID:081b1eadde2b89978b263c9b75cb83b5@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T220000
+SUMMARY:Live Music at Aeronaut Brewing | Somerville
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Live Music at Aeronaut Brewing | Somerville\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-music-at-aeronaut-brewery-somerville
+URL:https://www.thebostoncalendar.com/events/live-music-at-aeronaut-brewery-somerville
+END:VEVENT
+BEGIN:VEVENT
+UID:8d56cbfd9e956b92b3b066c7d0de6851@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T220000
+SUMMARY:Live Music at The Burren | Davis Square
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Live Music at The Burren | Davis Square\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-music-at-the-burren-davis-square
+URL:https://www.thebostoncalendar.com/events/live-music-at-the-burren-davis-square
+END:VEVENT
+BEGIN:VEVENT
+UID:1d2d45c635c0e6218a4d74991e7afc62@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T220000
+SUMMARY:Live Music at Wally's Café Jazz Club | South End
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Live Music at Wally's Café Jazz Club | South End\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-music-at-wally-s-cafe-jazz-club-south-end
+URL:https://www.thebostoncalendar.com/events/live-music-at-wally-s-cafe-jazz-club-south-end
+END:VEVENT
+BEGIN:VEVENT
+UID:26f237affb6e3788ac55ea6a3e81da9c@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T220000
+SUMMARY:The Beehive: Bohemian Eatery, Bar & Live Music | South End
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: The Beehive: Bohemian Eatery, Bar & Live Music | South End\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/the-beehive-bohemian-eatery-bar-live-music-south-end
+URL:https://www.thebostoncalendar.com/events/the-beehive-bohemian-eatery-bar-live-music-south-end
+END:VEVENT
+BEGIN:VEVENT
+UID:b0aebe04d4ae11183558f838bf4d598d@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T220000
+SUMMARY:Grace by Nia: Supper Club & Live Music | Boston Seaport
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Grace by Nia: Supper Club & Live Music | Boston Seaport\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/grace-by-nia-supper-club-live-music-boston-seaport
+URL:https://www.thebostoncalendar.com/events/grace-by-nia-supper-club-live-music-boston-seaport
+END:VEVENT
+BEGIN:VEVENT
+UID:b7a1f638578772bd18ccae4e6403138c@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T220000
+SUMMARY:Live Music at Bostonia Public House | Downtown
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Live Music at Bostonia Public House | Downtown\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-music-at-bostonia-public-house-downtown--2
+URL:https://www.thebostoncalendar.com/events/live-music-at-bostonia-public-house-downtown--2
+END:VEVENT
+BEGIN:VEVENT
+UID:d51990624656c4939fc037b6aed6572f@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T220000
+SUMMARY:Blue Bandana Relics | Vintage Store in Union Square
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Blue Bandana Relics | Vintage Store in Union Square\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/blue-bandana-relics-vintage-store-in-union-square
+URL:https://www.thebostoncalendar.com/events/blue-bandana-relics-vintage-store-in-union-square
+END:VEVENT
+BEGIN:VEVENT
+UID:1183d3f98894d9e9d243d64ec39b3479@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T220000
+SUMMARY:20 Places to Enjoy Free Live Music in Boston for Every Day of the Week
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: 20 Places to Enjoy Free Live Music in Boston for Every Day of the Week\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/20-places-to-enjoy-free-live-music-in-boston-for-every-day-of-the-week
+URL:https://www.thebostoncalendar.com/events/20-places-to-enjoy-free-live-music-in-boston-for-every-day-of-the-week
+END:VEVENT
+BEGIN:VEVENT
+UID:7a70a7b8aaea161d290851e00c0f6558@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T220000
+SUMMARY:Free Live Music Every Night of the Week at Burren Somerville
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Free Live Music Every Night of the Week at Burren Somerville\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/the-burren-live-music
+URL:https://www.thebostoncalendar.com/events/the-burren-live-music
+END:VEVENT
+BEGIN:VEVENT
+UID:259795429d9722ba5d96a7f6efdfb4c3@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T220000
+SUMMARY:Live Music at McCarthy's and Toad
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Live Music at McCarthy's and Toad\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-music-at-mccarthy-s-and-toad
+URL:https://www.thebostoncalendar.com/events/live-music-at-mccarthy-s-and-toad
+END:VEVENT
+BEGIN:VEVENT
+UID:37fc3b484c96efa58dea13238abf0b08@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T220000
+SUMMARY:Live Music at Capo
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Live Music at Capo\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-music-at-capo
+URL:https://www.thebostoncalendar.com/events/live-music-at-capo
+END:VEVENT
+BEGIN:VEVENT
+UID:4f7560384d0cc284129bc75030dc0827@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T220000
+SUMMARY:The Beehive | Restaurant & Jazz Club in the South End
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: The Beehive | Restaurant & Jazz Club in the South End\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/the-beehive-restaurant-jazz-club-in-the-south-end
+URL:https://www.thebostoncalendar.com/events/the-beehive-restaurant-jazz-club-in-the-south-end
+END:VEVENT
+BEGIN:VEVENT
+UID:1a4ab0b9b268783c8b7b155e27c206d0@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T220000
+SUMMARY:Live Music at Remnant Satellite
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Live Music at Remnant Satellite\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/live-music-at-remnant-satellite
+URL:https://www.thebostoncalendar.com/events/live-music-at-remnant-satellite
+END:VEVENT
+BEGIN:VEVENT
+UID:43cd68c6f7e816b2189de3b5994713d7@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T220000
+SUMMARY:Park City Southie: Outdoor Bar, Restaurant, & Music Venue Now Open
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Park City Southie: Outdoor Bar, Restaurant, & Music Venue Now Open\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/park-city-a-new-southie-bar-restaurant-music-venue
+URL:https://www.thebostoncalendar.com/events/park-city-a-new-southie-bar-restaurant-music-venue
+END:VEVENT
+BEGIN:VEVENT
+UID:7c2cec628926d893e1e53f780cc79599@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T220000
+SUMMARY:Grace by Nia | Supper Club & Live Music in Seaport
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Grace by Nia | Supper Club & Live Music in Seaport\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/grace-by-nia-supper-club-live-music-in-seaport
+URL:https://www.thebostoncalendar.com/events/grace-by-nia-supper-club-live-music-in-seaport
+END:VEVENT
+BEGIN:VEVENT
+UID:bf413eb945ad30a797888fe53fa1411d@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T220000
+SUMMARY:Red Room at Cafe 939: Free & Cheap Concerts at Berklee College of Music
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Red Room at Cafe 939: Free & Cheap Concerts at Berklee College of Music\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/red-room-at-cafe-939
+URL:https://www.thebostoncalendar.com/events/red-room-at-cafe-939
+END:VEVENT
+BEGIN:VEVENT
 UID:8ba2669e25a9f6923e10ebacc0d505c7@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261014T193000
 DTEND;TZID=America/New_York:20261014T223000
 SUMMARY:Music Bingo at An Sibin
@@ -27,7 +257,7 @@ URL:https://www.thebostoncalendar.com/events/music-bingo-at-an-sibin--28
 END:VEVENT
 BEGIN:VEVENT
 UID:8259c9d7c9b553c4eea5a3163f1cd5d5@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261014T200000
 DTEND;TZID=America/New_York:20261014T230000
 SUMMARY:Live Band Line Dancing at Loretta's
@@ -37,7 +267,7 @@ URL:https://www.thebostoncalendar.com/events/live-band-line-dancing-at-loretta-s
 END:VEVENT
 BEGIN:VEVENT
 UID:40bf037acf15a5264b9a6e06b7dd33f5@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261014T200000
 DTEND;TZID=America/New_York:20261014T230000
 SUMMARY:Berklee Musical Theater Club Annual Fundraising Gala: No One Is Alone
@@ -47,7 +277,7 @@ URL:https://www.thebostoncalendar.com/events/berklee-musical-theater-club-annual
 END:VEVENT
 BEGIN:VEVENT
 UID:53e1da90f89413ff8e2c51b71bda10c3@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Live Music Thursdays in Back Bay
@@ -57,7 +287,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-thursdays-in-back-bay--5
 END:VEVENT
 BEGIN:VEVENT
 UID:ccaeb9cfb3bec720ffbe3fb5ca776f28@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Jazz Night @ Long Live Roxbury
@@ -67,7 +297,7 @@ URL:https://www.thebostoncalendar.com/events/jazz-night-long-live-roxbury--145
 END:VEVENT
 BEGIN:VEVENT
 UID:099df47c841862733081fef1b0d54245@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Live Music at Michael's Harborside
@@ -77,7 +307,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-michael-s-harborside-
 END:VEVENT
 BEGIN:VEVENT
 UID:2a64cf98b7e8f943d2a9672eae748bfe@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261015T181000
 DTEND;TZID=America/New_York:20261015T211000
 SUMMARY:Adult Musical Theater Classes at Urbanity Dance!
@@ -87,7 +317,7 @@ URL:https://www.thebostoncalendar.com/events/adult-musical-theater-classes-at-ur
 END:VEVENT
 BEGIN:VEVENT
 UID:15b95641b027463f4985c36a8e2f8b9a@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261015T183000
 DTEND;TZID=America/New_York:20261015T213000
 SUMMARY:Live Music Thursdays at Ward 4
@@ -97,7 +327,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-thursdays-at-ward-4--193
 END:VEVENT
 BEGIN:VEVENT
 UID:7ac9e6ca5a7bc1e02716eee4916f3d82@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T220000
 SUMMARY:Boston Festival Orchestra Chamber Series: Zara & Dmitri
@@ -107,7 +337,7 @@ URL:https://www.thebostoncalendar.com/events/boston-festival-orchestra-chamber-s
 END:VEVENT
 BEGIN:VEVENT
 UID:42c523c5cda807fae76cf5bbe0e1415b@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T220000
 SUMMARY:Jazz at Marblehead Arts: Henley Douglas Jr with the Jorgan Trio
@@ -117,7 +347,7 @@ URL:https://www.thebostoncalendar.com/events/jazz-at-marblehead-arts-henley-doug
 END:VEVENT
 BEGIN:VEVENT
 UID:43c57cc28389187640ac2aafe4c32e18@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261015T200000
 DTEND;TZID=America/New_York:20261015T230000
 SUMMARY:2nd SHIFT Concert: Rory Block
@@ -127,7 +357,7 @@ URL:https://www.thebostoncalendar.com/events/2nd-shift-concert-rory-block
 END:VEVENT
 BEGIN:VEVENT
 UID:909aeef2d9093977fc076f0bab710823@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261016T180000
 DTEND;TZID=America/New_York:20261016T210000
 SUMMARY:Jazz Fridays at The Fed
@@ -137,7 +367,7 @@ URL:https://www.thebostoncalendar.com/events/jazz-fridays-at-the-fed--51
 END:VEVENT
 BEGIN:VEVENT
 UID:402e9189c4d830511af2c8bb08eb4fd3@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261016T180000
 DTEND;TZID=America/New_York:20261016T210000
 SUMMARY:Friday LIVE MUSIC • BBQ •DINNER
@@ -147,7 +377,7 @@ URL:https://www.thebostoncalendar.com/events/friday-live-music--38
 END:VEVENT
 BEGIN:VEVENT
 UID:53133ec289b33ea8d0ce17edb68c734c@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261016T180000
 DTEND;TZID=America/New_York:20261016T210000
 SUMMARY:Friday Live Music & Dinner
@@ -157,7 +387,7 @@ URL:https://www.thebostoncalendar.com/events/friday-live-music-dinner--3
 END:VEVENT
 BEGIN:VEVENT
 UID:0a6570b9084d9fd64ab3ae53b03373ea@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261016T190000
 DTEND;TZID=America/New_York:20261016T220000
 SUMMARY:A New Lens Series at Powers Music School:  Scrumdiddlyumptious: Adventures on the Violin and Viola
@@ -167,7 +397,7 @@ URL:https://www.thebostoncalendar.com/events/a-new-lens-series-at-powers-music-s
 END:VEVENT
 BEGIN:VEVENT
 UID:6730867a666a78786d495d28ae0cd91b@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261016T190000
 DTEND;TZID=America/New_York:20261016T220000
 SUMMARY:Musicians Playground October Happy Hour Performance
@@ -177,7 +407,7 @@ URL:https://www.thebostoncalendar.com/events/musicians-playground-october-happy-
 END:VEVENT
 BEGIN:VEVENT
 UID:50b26b36cfcbac5932dae280accb90e2@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261016T193000
 DTEND;TZID=America/New_York:20261016T223000
 SUMMARY:Live Music at Ula Cafe: folk trio with Georgia, Gretchen, and Harvey
@@ -187,7 +417,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-ula-cafe-folk-trio-wi
 END:VEVENT
 BEGIN:VEVENT
 UID:6950a5c94921ae0e4f514da587aa8683@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261016T200000
 DTEND;TZID=America/New_York:20261016T230000
 SUMMARY:Forró Social Featuring Live Music by Zeu Azevedo
@@ -196,8 +426,18 @@ DESCRIPTION:Event info: Forró Social Featuring Live Music by Zeu Azevedo\n\nInf
 URL:https://www.thebostoncalendar.com/events/forro-social-featuring-live-music-by-zeu-azevedo
 END:VEVENT
 BEGIN:VEVENT
+UID:ef4332ab7ea105287db7068c8c48626a@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261016T200000
+DTEND;TZID=America/New_York:20261016T230000
+SUMMARY:Friday Live Music With Randy Vera
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Friday Live Music With Randy Vera\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/friday-live-music-with-randy-vera
+URL:https://www.thebostoncalendar.com/events/friday-live-music-with-randy-vera
+END:VEVENT
+BEGIN:VEVENT
 UID:e5724143e7ad8d383aa7d8bd2c2b012e@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261016T200000
 DTEND;TZID=America/New_York:20261016T230000
 SUMMARY:An Evening of Persian Classical Music — Boston
@@ -207,7 +447,7 @@ URL:https://www.thebostoncalendar.com/events/an-evening-of-persian-classical-mus
 END:VEVENT
 BEGIN:VEVENT
 UID:1ae18d47d34095644c2eae3a6b636f7c@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:The Grove at the Lawn on D: An Urban Botanical Oasis in Boston's Seaport with Lawn Games, Live Music, Drinks, Food & More
@@ -217,7 +457,7 @@ URL:https://www.thebostoncalendar.com/events/the-grove-at-the-lawn-on-d-an-urban
 END:VEVENT
 BEGIN:VEVENT
 UID:a54b7870ea7b634a22cdb649de7f4f53@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:BAT BOY: THE MUSICAL
@@ -227,7 +467,7 @@ URL:https://www.thebostoncalendar.com/events/bat-boy-the-musical--7
 END:VEVENT
 BEGIN:VEVENT
 UID:bb844a20ee98be687cecdadfd611da32@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:Live Local Music Weekly at SKYBOKX 109 in Natick
@@ -237,7 +477,7 @@ URL:https://www.thebostoncalendar.com/events/live-local-music-weekly-at-skybokx-
 END:VEVENT
 BEGIN:VEVENT
 UID:e61c6385cd63d1f3c45b725ef496bb08@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:Music in the Christian Science Tradition
@@ -247,7 +487,7 @@ URL:https://www.thebostoncalendar.com/events/music-in-the-christian-science-trad
 END:VEVENT
 BEGIN:VEVENT
 UID:3ac5b4663b5d7b3f096987333cdfff33@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:Grace by Nia: Supper Club & Live Music | Boston Seaport
@@ -257,7 +497,7 @@ URL:https://www.thebostoncalendar.com/events/grace-by-nia-supper-club-live-music
 END:VEVENT
 BEGIN:VEVENT
 UID:e6b8b444bca6671ca40adf24c2e1c5fa@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:20 Places to Enjoy Free Live Music in Boston for Every Day of the Week
@@ -266,18 +506,8 @@ DESCRIPTION:Event info: 20 Places to Enjoy Free Live Music in Boston for Every D
 URL:https://www.thebostoncalendar.com/events/20-places-to-enjoy-free-live-music-in-boston-for-every-day-of-the-week
 END:VEVENT
 BEGIN:VEVENT
-UID:4992b9f4838a7c15d016a05c78586fe0@bostonevents
-DTSTAMP:20261014T015139Z
-DTSTART;TZID=America/New_York:20261017T110000
-DTEND;TZID=America/New_York:20261017T140000
-SUMMARY:The Beehive | Restaurant & Jazz Club in the South End
-LOCATION:Greater Boston, MA
-DESCRIPTION:Event info: The Beehive | Restaurant & Jazz Club in the South End\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/the-beehive-restaurant-jazz-club-in-the-south-end
-URL:https://www.thebostoncalendar.com/events/the-beehive-restaurant-jazz-club-in-the-south-end
-END:VEVENT
-BEGIN:VEVENT
 UID:6a71fb1731981e0f2694cdd9cc3bc13a@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:Live Music at Mastro's Ocean Club | Seaport
@@ -287,7 +517,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-mastro-s-ocean-club-s
 END:VEVENT
 BEGIN:VEVENT
 UID:ed2528563e5053320891d3df8a087a61@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:Live Music at Capo
@@ -296,8 +526,18 @@ DESCRIPTION:Event info: Live Music at Capo\n\nInfo/Tickets: https://www.thebosto
 URL:https://www.thebostoncalendar.com/events/live-music-at-capo
 END:VEVENT
 BEGIN:VEVENT
+UID:4992b9f4838a7c15d016a05c78586fe0@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261017T110000
+DTEND;TZID=America/New_York:20261017T140000
+SUMMARY:The Beehive | Restaurant & Jazz Club in the South End
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: The Beehive | Restaurant & Jazz Club in the South End\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/the-beehive-restaurant-jazz-club-in-the-south-end
+URL:https://www.thebostoncalendar.com/events/the-beehive-restaurant-jazz-club-in-the-south-end
+END:VEVENT
+BEGIN:VEVENT
 UID:dc75cda738e55032e4ad6ea6cc9e41c7@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:Live Music at Wally's Café Jazz Club | South End
@@ -307,7 +547,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-wally-s-cafe-jazz-clu
 END:VEVENT
 BEGIN:VEVENT
 UID:60f4209ad1a361307a537229904dcc9a@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:The Beehive: Bohemian Eatery, Bar & Live Music | South End
@@ -317,7 +557,7 @@ URL:https://www.thebostoncalendar.com/events/the-beehive-bohemian-eatery-bar-liv
 END:VEVENT
 BEGIN:VEVENT
 UID:60774b50ddbe17098b848c4756ec7daa@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:Blue Bandana Relics | Vintage Store in Union Square
@@ -327,7 +567,7 @@ URL:https://www.thebostoncalendar.com/events/blue-bandana-relics-vintage-store-i
 END:VEVENT
 BEGIN:VEVENT
 UID:fd0373e15fec169f217735c143ab1e42@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:Live Music at Remnant Satellite
@@ -337,7 +577,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-remnant-satellite
 END:VEVENT
 BEGIN:VEVENT
 UID:07a603bc7bfd054be1d12f5a2fb52848@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:Grace by Nia | Supper Club & Live Music in Seaport
@@ -347,7 +587,7 @@ URL:https://www.thebostoncalendar.com/events/grace-by-nia-supper-club-live-music
 END:VEVENT
 BEGIN:VEVENT
 UID:faaf44db2217c262f935673ed10f6b43@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:Park City Southie: Outdoor Bar, Restaurant, & Music Venue Now Open
@@ -357,7 +597,7 @@ URL:https://www.thebostoncalendar.com/events/park-city-a-new-southie-bar-restaur
 END:VEVENT
 BEGIN:VEVENT
 UID:eda96adec0704ea2603f422be2cd1a41@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:Free Live Music Every Night of the Week at Burren Somerville
@@ -367,7 +607,7 @@ URL:https://www.thebostoncalendar.com/events/the-burren-live-music
 END:VEVENT
 BEGIN:VEVENT
 UID:bdfb8cc7e395c301bbd4cd0529f86327@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:Live Music at McCarthy's and Toad
@@ -377,7 +617,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-mccarthy-s-and-toad
 END:VEVENT
 BEGIN:VEVENT
 UID:415ce0d3d33bf0cc36fa6c84117c13e8@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:Live Music at Bostonia Public House | Downtown
@@ -387,7 +627,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-bostonia-public-house
 END:VEVENT
 BEGIN:VEVENT
 UID:88eafc11bc78a019aba7fef0f461954a@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:Live Music at The Bebop | Back Bay
@@ -397,7 +637,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-the-bebop-back-bay
 END:VEVENT
 BEGIN:VEVENT
 UID:c711c690382b28bb019c15526c1279d5@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:Live Music at The Burren | Davis Square
@@ -407,7 +647,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-the-burren-davis-squa
 END:VEVENT
 BEGIN:VEVENT
 UID:cb3334fb584539674911a23243b52f6c@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:Live Music at Aeronaut Brewing | Somerville
@@ -417,7 +657,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-aeronaut-brewery-some
 END:VEVENT
 BEGIN:VEVENT
 UID:2cdab54bf18fe1324eac68b1b13f1509@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:Live Music at Loretta's Last Call
@@ -427,7 +667,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-loretta-s-last-call
 END:VEVENT
 BEGIN:VEVENT
 UID:d3df3decb7a1071639191ab2d2f6442b@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:Red Room at Cafe 939: Free & Cheap Concerts at Berklee College of Music
@@ -437,7 +677,7 @@ URL:https://www.thebostoncalendar.com/events/red-room-at-cafe-939
 END:VEVENT
 BEGIN:VEVENT
 UID:3aca6f87066abe183fcc7403c78ed434@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T120000
 DTEND;TZID=America/New_York:20261017T150000
 SUMMARY:The Outlet: a concert series
@@ -447,7 +687,7 @@ URL:https://www.thebostoncalendar.com/events/the-outlet-a-concert-series
 END:VEVENT
 BEGIN:VEVENT
 UID:264194442b30d0bfdc57fd1e42294e2b@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T160000
 DTEND;TZID=America/New_York:20261017T190000
 SUMMARY:Traditional Irish Music Sessions at The Druid
@@ -457,7 +697,7 @@ URL:https://www.thebostoncalendar.com/events/traditional-irish-music-sessions-at
 END:VEVENT
 BEGIN:VEVENT
 UID:122285625d858f4d41701693f1c6177a@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T180000
 DTEND;TZID=America/New_York:20261017T210000
 SUMMARY:Matt Shore Does Songs at You: A Comedy Music Album Release Show
@@ -467,7 +707,7 @@ URL:https://www.thebostoncalendar.com/events/matt-shore-does-songs-at-you-a-come
 END:VEVENT
 BEGIN:VEVENT
 UID:20eb8ea804249e33bbd89c7547a5db31@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T190000
 DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:Beck - Ride Lonesome Tour
@@ -477,7 +717,7 @@ URL:https://www.thebostoncalendar.com/events/beck-ride-lonesome-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:bb86f1ca92396de2eafb8f1602aa11b8@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T190000
 DTEND;TZID=America/New_York:20261017T220000
 SUMMARY:The Tenderbellies - LIVE, in concert! Award-winning folk/bluegrass
@@ -487,7 +727,7 @@ URL:https://www.thebostoncalendar.com/events/the-tenderbellies-live-in-concert-a
 END:VEVENT
 BEGIN:VEVENT
 UID:eb182c4a164dbe08f467b36d0c584959@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T200000
 DTEND;TZID=America/New_York:20261017T230000
 SUMMARY:Saturday Live Music With Scott Damgaard
@@ -497,7 +737,7 @@ URL:https://www.thebostoncalendar.com/events/saturday-live-music-with-scott-damg
 END:VEVENT
 BEGIN:VEVENT
 UID:bc5d4d606327d1c69d54a4e4b3219157@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T200000
 DTEND;TZID=America/New_York:20261017T230000
 SUMMARY:Sin Bandera - Escenas US Tour
@@ -507,7 +747,7 @@ URL:https://www.thebostoncalendar.com/events/sin-bandera-escenas-us-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:8ff3168ad419b9aa773ca083ede39157@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261017T200000
 DTEND;TZID=America/New_York:20261017T230000
 SUMMARY:Animal Requiem | The Seraphim Singers | Wellesley Hills MA, October 17, 2026
@@ -517,7 +757,7 @@ URL:https://www.thebostoncalendar.com/events/animal-requiem-the-seraphim-singers
 END:VEVENT
 BEGIN:VEVENT
 UID:2436444ef4d22c7fc486f519cb5f05b0@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261018T103000
 DTEND;TZID=America/New_York:20261018T133000
 SUMMARY:FREE Little Groove Outdoor Music Classes at Lyrik Back Bay
@@ -527,7 +767,7 @@ URL:https://www.thebostoncalendar.com/events/free-little-groove-outdoor-music-cl
 END:VEVENT
 BEGIN:VEVENT
 UID:37d9d9df7fee5abb7cddda92b0ced1fa@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261018T113000
 DTEND;TZID=America/New_York:20261018T143000
 SUMMARY:Sunday Jazz Brunch
@@ -537,7 +777,7 @@ URL:https://www.thebostoncalendar.com/events/sunday-jazz-brunch--52
 END:VEVENT
 BEGIN:VEVENT
 UID:8216a1a6b2b96e73d4306a282262e96c@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261018T140000
 DTEND;TZID=America/New_York:20261018T170000
 SUMMARY:VOICES 4 UKRAINE! BENEFIT the WOUNDED 10/18 Winchester, MA Intriguing music, mass choir includes U!!
@@ -547,7 +787,7 @@ URL:https://www.thebostoncalendar.com/events/voices-4-ukraine-benefit-the-wounde
 END:VEVENT
 BEGIN:VEVENT
 UID:43b987728643799aa75312dfd84d1d1b@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261018T140000
 DTEND;TZID=America/New_York:20261018T170000
 SUMMARY:Live Music Sundays
@@ -557,7 +797,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-sundays--198
 END:VEVENT
 BEGIN:VEVENT
 UID:66088110f342e7e3b708df639c52f97f@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261018T150000
 DTEND;TZID=America/New_York:20261018T180000
 SUMMARY:Thirty-seventh Annual Cathedral Organ Benefit Concert
@@ -567,7 +807,7 @@ URL:https://www.thebostoncalendar.com/events/thirty-seventh-annual-cathedral-org
 END:VEVENT
 BEGIN:VEVENT
 UID:96fc3f21036e288a0b003aa8f015e4a8@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261018T150000
 DTEND;TZID=America/New_York:20261018T180000
 SUMMARY:Animal Requiem | The Seraphim Singers | Cambridge MA, October 18, 2026
@@ -577,7 +817,7 @@ URL:https://www.thebostoncalendar.com/events/animal-requiem-the-seraphim-singers
 END:VEVENT
 BEGIN:VEVENT
 UID:e809292ea894288c4de1458f4c19af7c@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261018T150000
 DTEND;TZID=America/New_York:20261018T180000
 SUMMARY:Vivo Performing Arts presents Bruce Liu, piano
@@ -587,7 +827,7 @@ URL:https://www.thebostoncalendar.com/events/vivo-performing-arts-presents-bruce
 END:VEVENT
 BEGIN:VEVENT
 UID:f0cb29bbf95b6a776d06b9b5f33f3a3c@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261018T150000
 DTEND;TZID=America/New_York:20261018T180000
 SUMMARY:Music: Friends & Lovers
@@ -597,7 +837,7 @@ URL:https://www.thebostoncalendar.com/events/music-friends-lovers
 END:VEVENT
 BEGIN:VEVENT
 UID:671fb23a6640874f97411c944e7cdd6b@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261018T163000
 DTEND;TZID=America/New_York:20261018T193000
 SUMMARY:An Evening with Evie Ladin: "Sing, Clap, Move: The Whole Body Music" Workshop, Potluck & Concert
@@ -607,7 +847,7 @@ URL:https://www.thebostoncalendar.com/events/an-evening-with-evie-ladin--2
 END:VEVENT
 BEGIN:VEVENT
 UID:605ad24899474170776aa82a13056736@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261018T170000
 DTEND;TZID=America/New_York:20261018T200000
 SUMMARY:Free Dolly Parton Tribute Concert on 9/25 (9 to 5!) in Somerville's Davis Sq
@@ -617,7 +857,7 @@ URL:https://www.thebostoncalendar.com/events/free-dolly-parton-tribute-concert-o
 END:VEVENT
 BEGIN:VEVENT
 UID:63588ed14b474086b31121a496fadf8f@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261020T180000
 DTEND;TZID=America/New_York:20261020T210000
 SUMMARY:Rough to Smooth: Using the Miter Saw, Bandsaw, Jointer, Planer and Sanders
@@ -627,7 +867,7 @@ URL:https://www.thebostoncalendar.com/events/rough-to-smooth-using-the-miter-saw
 END:VEVENT
 BEGIN:VEVENT
 UID:bb6de4a6f8ecb45f6a82b65066dee0c5@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261020T183000
 DTEND;TZID=America/New_York:20261020T213000
 SUMMARY:Beginner Jazz Dance Class
@@ -637,7 +877,7 @@ URL:https://www.thebostoncalendar.com/events/beginner-jazz-dance-class--7
 END:VEVENT
 BEGIN:VEVENT
 UID:d605bc30563202bb770d0470b37a0bef@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261020T190000
 DTEND;TZID=America/New_York:20261020T220000
 SUMMARY:Haggis X-1 (Epic Celtic Jam Band)
@@ -647,7 +887,7 @@ URL:https://www.thebostoncalendar.com/events/haggis-x-1-epic-celtic-jam-band
 END:VEVENT
 BEGIN:VEVENT
 UID:fc238c79af4ecbe5f7553d86f08ef15a@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261020T193000
 DTEND;TZID=America/New_York:20261020T223000
 SUMMARY:Live Music Tuesdays at Telegraph Hill
@@ -657,7 +897,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-tuesdays-at-telegraph-hi
 END:VEVENT
 BEGIN:VEVENT
 UID:77af29d82defdfa7d9da4672ecd71044@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261020T200000
 DTEND;TZID=America/New_York:20261020T230000
 SUMMARY:The Modernistics Concert, Gems from the Jazz Age
@@ -667,7 +907,7 @@ URL:https://www.thebostoncalendar.com/events/the-modernistics-concert-gems-from-
 END:VEVENT
 BEGIN:VEVENT
 UID:17f2300af1d9ef4890c14902dfe874f9@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261021T180000
 DTEND;TZID=America/New_York:20261021T210000
 SUMMARY:Music Bingo at CanalSide
@@ -677,7 +917,7 @@ URL:https://www.thebostoncalendar.com/events/music-bingo-at-canalside--8
 END:VEVENT
 BEGIN:VEVENT
 UID:c2f7aefaf058ed90629be94e9e4ae2d7@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261021T193000
 DTEND;TZID=America/New_York:20261021T223000
 SUMMARY:Music Bingo at An Sibin
@@ -687,7 +927,7 @@ URL:https://www.thebostoncalendar.com/events/music-bingo-at-an-sibin--29
 END:VEVENT
 BEGIN:VEVENT
 UID:381cb81337d6f3897355eb7ea2f00596@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261021T200000
 DTEND;TZID=America/New_York:20261021T230000
 SUMMARY:Live Band Line Dancing at Loretta's
@@ -697,7 +937,7 @@ URL:https://www.thebostoncalendar.com/events/live-band-line-dancing-at-loretta-s
 END:VEVENT
 BEGIN:VEVENT
 UID:3688ed8d0113f8b7596a334957d74a70@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261021T200000
 DTEND;TZID=America/New_York:20261021T230000
 SUMMARY:Christian McBride - Boston, MA - Live In Concert
@@ -707,7 +947,7 @@ URL:https://www.thebostoncalendar.com/events/christian-mcbride-boston-ma-live-in
 END:VEVENT
 BEGIN:VEVENT
 UID:ba50e044bf3b36d9983a0b04fedf800b@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261022T180000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Live Music Thursdays in Back Bay
@@ -717,7 +957,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-thursdays-in-back-bay--5
 END:VEVENT
 BEGIN:VEVENT
 UID:a5dc3c1dfa1dd86523ab1bf4794f3a16@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261022T180000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Jazz Night @ Long Live Roxbury
@@ -727,7 +967,7 @@ URL:https://www.thebostoncalendar.com/events/jazz-night-long-live-roxbury--146
 END:VEVENT
 BEGIN:VEVENT
 UID:b1b44d4f1420935580b2e0b750dca5c8@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261022T180000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:nuBingo Musical Extravaganza
@@ -737,7 +977,7 @@ URL:https://www.thebostoncalendar.com/events/nubingo-musical-extravaganza
 END:VEVENT
 BEGIN:VEVENT
 UID:f69b47e4ded1c4a1a690f76dd58acd5e@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261022T180000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Live Music at Michael's Harborside
@@ -747,7 +987,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-michael-s-harborside-
 END:VEVENT
 BEGIN:VEVENT
 UID:9be5f6942fe5d23b2b11e513a84e2aac@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261022T180000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:The Jazz Age: MHS Young Patron Party
@@ -757,7 +997,7 @@ URL:https://www.thebostoncalendar.com/events/the-jazz-age-mhs-young-patron-party
 END:VEVENT
 BEGIN:VEVENT
 UID:2bdc27428965e3de39439d5d96e3c82e@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261022T181000
 DTEND;TZID=America/New_York:20261022T211000
 SUMMARY:Adult Musical Theater Classes at Urbanity Dance!
@@ -767,7 +1007,7 @@ URL:https://www.thebostoncalendar.com/events/adult-musical-theater-classes-at-ur
 END:VEVENT
 BEGIN:VEVENT
 UID:31fe50e7dfde19777c4c54e98b935600@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261022T183000
 DTEND;TZID=America/New_York:20261022T213000
 SUMMARY:Jazz Square Celebration Feat. Gregory Groover  Jr
@@ -777,7 +1017,7 @@ URL:https://www.thebostoncalendar.com/events/jazz-square-celebration-feat-gregor
 END:VEVENT
 BEGIN:VEVENT
 UID:5d34ec433b60d2321c8443f6678f038f@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261022T183000
 DTEND;TZID=America/New_York:20261022T213000
 SUMMARY:Live Music Thursdays at Ward 4
@@ -787,7 +1027,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-thursdays-at-ward-4--194
 END:VEVENT
 BEGIN:VEVENT
 UID:b3b2fa9cc1c6aceaf73438d94df2b354@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261022T200000
 DTEND;TZID=America/New_York:20261022T230000
 SUMMARY:Guitar Night: Jazz and Blues Student Showcase
@@ -797,7 +1037,7 @@ URL:https://www.thebostoncalendar.com/events/guitar-night-jazz-and-blues-student
 END:VEVENT
 BEGIN:VEVENT
 UID:9b9f4dc7b0a2a70510c9b0e3b942d676@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T210000
 SUMMARY:Friday LIVE MUSIC • BBQ •DINNER
@@ -807,7 +1047,7 @@ URL:https://www.thebostoncalendar.com/events/friday-live-music--39
 END:VEVENT
 BEGIN:VEVENT
 UID:ad028e743504423e4750672f30324f19@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T210000
 SUMMARY:Friday Live Music & Dinner
@@ -817,7 +1057,7 @@ URL:https://www.thebostoncalendar.com/events/friday-live-music-dinner--4
 END:VEVENT
 BEGIN:VEVENT
 UID:d0e0237b78185251b5913a9e54a7556a@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261023T190000
 DTEND;TZID=America/New_York:20261023T220000
 SUMMARY:Live Music at Ula Cafe: singer-songwriter Jacob Edmister
@@ -827,7 +1067,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-ula-cafe-singer-songw
 END:VEVENT
 BEGIN:VEVENT
 UID:7ed212f65c88cab9846dd73cdb7a39b6@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261023T200000
 DTEND;TZID=America/New_York:20261023T230000
 SUMMARY:Jazz Sanctuary presents Jason Palmer and Kevin Harris
@@ -837,7 +1077,7 @@ URL:https://www.thebostoncalendar.com/events/jazz-sanctuary-presents-jason-palme
 END:VEVENT
 BEGIN:VEVENT
 UID:6fc28bba4ab036fac2d9c08f6a19eaf1@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261024T130000
 DTEND;TZID=America/New_York:20261024T160000
 SUMMARY:Nosferatu with Live Orchestra
@@ -847,7 +1087,7 @@ URL:https://www.thebostoncalendar.com/events/nosferatu-with-live-orchestra
 END:VEVENT
 BEGIN:VEVENT
 UID:e270b8831c3085473b6648e530b20630@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261024T160000
 DTEND;TZID=America/New_York:20261024T190000
 SUMMARY:19-Piece Compaq Big Band w/ Special Guest Vocalist Anaïs Reno at Concert & Mini-Master Class to Benefit David Bresnahan Scholarship for Music Education
@@ -857,7 +1097,7 @@ URL:https://www.thebostoncalendar.com/events/19-piece-compaq-big-band-w-special-
 END:VEVENT
 BEGIN:VEVENT
 UID:c4b104a8f070dae6b7607ee3c4317aa5@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261024T160000
 DTEND;TZID=America/New_York:20261024T190000
 SUMMARY:Traditional Irish Music Sessions at The Druid
@@ -867,7 +1107,7 @@ URL:https://www.thebostoncalendar.com/events/traditional-irish-music-sessions-at
 END:VEVENT
 BEGIN:VEVENT
 UID:c5a9394d8425705bb1c20f99398cd51c@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261024T193000
 DTEND;TZID=America/New_York:20261024T223000
 SUMMARY:Aardvark Jazz Orchestra Celebrates America250
@@ -877,7 +1117,7 @@ URL:https://www.thebostoncalendar.com/events/aardvark-jazz-orchestra-celebrates-
 END:VEVENT
 BEGIN:VEVENT
 UID:e113173e21bf0a6f36134e54578ed252@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261024T200000
 DTEND;TZID=America/New_York:20261024T230000
 SUMMARY:Disney’s Hocus Pocus In Concert Live to Film
@@ -887,7 +1127,7 @@ URL:https://www.thebostoncalendar.com/events/disney-s-hocus-pocus-in-concert-liv
 END:VEVENT
 BEGIN:VEVENT
 UID:716bac75d689e82b1c1380c833e5939a@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261024T200000
 DTEND;TZID=America/New_York:20261024T230000
 SUMMARY:Live Music: Vices inc, Stella Starfox, Wisterio, and Melted
@@ -897,7 +1137,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-vices-inc-stella-starfox
 END:VEVENT
 BEGIN:VEVENT
 UID:0aadadd79938530def822f565198f60f@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261025T103000
 DTEND;TZID=America/New_York:20261025T133000
 SUMMARY:FREE Little Groove Outdoor Music Classes at Lyrik Back Bay
@@ -907,7 +1147,7 @@ URL:https://www.thebostoncalendar.com/events/free-little-groove-outdoor-music-cl
 END:VEVENT
 BEGIN:VEVENT
 UID:fd5b68e360ba9a2b1013678047158094@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261025T113000
 DTEND;TZID=America/New_York:20261025T143000
 SUMMARY:Sunday Jazz Brunch
@@ -917,7 +1157,7 @@ URL:https://www.thebostoncalendar.com/events/sunday-jazz-brunch--53
 END:VEVENT
 BEGIN:VEVENT
 UID:d35315009ed49c59b3b918a01f5e6d72@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261025T140000
 DTEND;TZID=America/New_York:20261025T170000
 SUMMARY:EulipiaJazz Outisphere Ensemble at Mystic Open Studio
@@ -927,7 +1167,7 @@ URL:https://www.thebostoncalendar.com/events/eulipiajazz-outisphere-ensemble-at-
 END:VEVENT
 BEGIN:VEVENT
 UID:d04fcd5d8569014de8c117c8918c8002@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261025T140000
 DTEND;TZID=America/New_York:20261025T170000
 SUMMARY:Live Music Sundays
@@ -937,7 +1177,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-sundays--199
 END:VEVENT
 BEGIN:VEVENT
 UID:a4ecd667e399ccca345c9f46d8f9510d@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261025T150000
 DTEND;TZID=America/New_York:20261025T180000
 SUMMARY:Sunday Concert Series: Around the World on 88 Keys with Thomas Stumpf
@@ -947,7 +1187,7 @@ URL:https://www.thebostoncalendar.com/events/sunday-concert-series-around-the-wo
 END:VEVENT
 BEGIN:VEVENT
 UID:101ca176d52aa3bf13b31ac5fd2ecec4@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261025T150000
 DTEND;TZID=America/New_York:20261025T180000
 SUMMARY:Vivo Performing Arts presents Geneva Lewis, violin
@@ -957,7 +1197,7 @@ URL:https://www.thebostoncalendar.com/events/vivo-performing-arts-presents-genev
 END:VEVENT
 BEGIN:VEVENT
 UID:2510da9e291405340f3604000919be85@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261025T160000
 DTEND;TZID=America/New_York:20261025T190000
 SUMMARY:Musicians of the Old Post Road Presents: Playing it Forward
@@ -967,7 +1207,7 @@ URL:https://www.thebostoncalendar.com/events/musicians-of-the-old-post-road-pres
 END:VEVENT
 BEGIN:VEVENT
 UID:23c0f7ebd8b652ffa5afb441f736a4d9@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261025T160000
 DTEND;TZID=America/New_York:20261025T190000
 SUMMARY:QArts Gallery Jazz Series - Man On Land with Lihi Haruvi
@@ -977,7 +1217,7 @@ URL:https://www.thebostoncalendar.com/events/qarts-gallery-jazz-series-man-on-la
 END:VEVENT
 BEGIN:VEVENT
 UID:27d03ba1b21ab69d2277a106daa5eadf@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261027T183000
 DTEND;TZID=America/New_York:20261027T213000
 SUMMARY:Beginner Jazz Dance Class
@@ -987,7 +1227,7 @@ URL:https://www.thebostoncalendar.com/events/beginner-jazz-dance-class--8
 END:VEVENT
 BEGIN:VEVENT
 UID:4ac32c2db40ccec3dbd6f5bc3da7eff9@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261027T193000
 DTEND;TZID=America/New_York:20261027T223000
 SUMMARY:Live Music Tuesdays at Telegraph Hill
@@ -997,7 +1237,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-tuesdays-at-telegraph-hi
 END:VEVENT
 BEGIN:VEVENT
 UID:a04fcc563d4db8b2ab02686668c70432@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261027T200000
 DTEND;TZID=America/New_York:20261027T230000
 SUMMARY:Sonic Morphology – Perspectives on Contemporary German Music from Within and Without
@@ -1007,7 +1247,7 @@ URL:https://www.thebostoncalendar.com/events/sonic-morphology-perspectives-on-co
 END:VEVENT
 BEGIN:VEVENT
 UID:764ebbb19efbe078b088fba95872b6f2@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261028T190000
 DTEND;TZID=America/New_York:20261028T220000
 SUMMARY:New England Irish Harp Orchestra Carriage House Concerta
@@ -1017,7 +1257,7 @@ URL:https://www.thebostoncalendar.com/events/new-england-irish-harp-orchestra-ca
 END:VEVENT
 BEGIN:VEVENT
 UID:a0a37b952093b57e645b2e098a4be764@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261028T193000
 DTEND;TZID=America/New_York:20261028T223000
 SUMMARY:Music Bingo at An Sibin
@@ -1027,7 +1267,7 @@ URL:https://www.thebostoncalendar.com/events/music-bingo-at-an-sibin--30
 END:VEVENT
 BEGIN:VEVENT
 UID:7ac7031045c158f82a422b3d9177f1f8@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261028T193000
 DTEND;TZID=America/New_York:20261028T223000
 SUMMARY:The Music of Hey Arnold! Live! Feat. Jim Lang and The PS 118 AllStars with Special Guest Craig Bartlett
@@ -1037,7 +1277,7 @@ URL:https://www.thebostoncalendar.com/events/the-music-of-hey-arnold-live-feat-j
 END:VEVENT
 BEGIN:VEVENT
 UID:f89d7a09afad91327cfefc7a6ac3bf6d@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261028T200000
 DTEND;TZID=America/New_York:20261028T230000
 SUMMARY:Live Band Line Dancing at Loretta's
@@ -1047,7 +1287,7 @@ URL:https://www.thebostoncalendar.com/events/live-band-line-dancing-at-loretta-s
 END:VEVENT
 BEGIN:VEVENT
 UID:c6899850f9409e7394046f981583ad6f@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261028T200000
 DTEND;TZID=America/New_York:20261028T230000
 SUMMARY:Arcángel - La 8va Maravilla World Tour
@@ -1057,7 +1297,7 @@ URL:https://www.thebostoncalendar.com/events/arcangel-la-8va-maravilla-world-tou
 END:VEVENT
 BEGIN:VEVENT
 UID:e42c20d9794c80c528943f0bb968fea0@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261028T200000
 DTEND;TZID=America/New_York:20261028T230000
 SUMMARY:Toad The Wet Sprocket - Rings: The Acoustic Tour
@@ -1067,7 +1307,7 @@ URL:https://www.thebostoncalendar.com/events/toad-the-wet-sprocket-rings-the-aco
 END:VEVENT
 BEGIN:VEVENT
 UID:c05f457fc1ff2aa2067a6be6c581792c@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261029T180000
 DTEND;TZID=America/New_York:20261029T210000
 SUMMARY:Jazz Night @ Long Live Roxbury
@@ -1077,7 +1317,7 @@ URL:https://www.thebostoncalendar.com/events/jazz-night-long-live-roxbury--147
 END:VEVENT
 BEGIN:VEVENT
 UID:314a944c9c307ab104227c2de9b5bb6b@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261029T180000
 DTEND;TZID=America/New_York:20261029T210000
 SUMMARY:Live Music Thursdays in Back Bay
@@ -1087,7 +1327,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-thursdays-in-back-bay--5
 END:VEVENT
 BEGIN:VEVENT
 UID:2909eabc630e5c7c675ea67531f0264d@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261029T180000
 DTEND;TZID=America/New_York:20261029T210000
 SUMMARY:Live Music at Michael's Harborside
@@ -1097,7 +1337,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-michael-s-harborside-
 END:VEVENT
 BEGIN:VEVENT
 UID:570d844981035276fcc19f9ccdc42f8c@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261029T181000
 DTEND;TZID=America/New_York:20261029T211000
 SUMMARY:Adult Musical Theater Classes at Urbanity Dance!
@@ -1107,7 +1347,7 @@ URL:https://www.thebostoncalendar.com/events/adult-musical-theater-classes-at-ur
 END:VEVENT
 BEGIN:VEVENT
 UID:e9bffb40c472241a6ac6415d17f5d296@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261029T183000
 DTEND;TZID=America/New_York:20261029T213000
 SUMMARY:Live Music Thursdays at Ward 4
@@ -1117,7 +1357,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-thursdays-at-ward-4--195
 END:VEVENT
 BEGIN:VEVENT
 UID:421a026741fc538ddbdd9b51b1b951b9@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261029T200000
 DTEND;TZID=America/New_York:20261029T230000
 SUMMARY:2nd SHIFT Concert: Jenny Owen Youngs
@@ -1127,7 +1367,7 @@ URL:https://www.thebostoncalendar.com/events/2nd-shift-concert-jenny-owen-youngs
 END:VEVENT
 BEGIN:VEVENT
 UID:a443dcbedca436520ab07639e363b6bc@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T210000
 SUMMARY:Friday LIVE MUSIC • BBQ •DINNER
@@ -1137,7 +1377,7 @@ URL:https://www.thebostoncalendar.com/events/friday-live-music--40
 END:VEVENT
 BEGIN:VEVENT
 UID:023ff8df36cf2817556d6cc4a7aff2ce@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T210000
 SUMMARY:Friday Live Music & Dinner
@@ -1147,7 +1387,7 @@ URL:https://www.thebostoncalendar.com/events/friday-live-music-dinner--5
 END:VEVENT
 BEGIN:VEVENT
 UID:a7df5842a915c28b95bb6afb02b71644@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261030T190000
 DTEND;TZID=America/New_York:20261030T220000
 SUMMARY:Rawayana - ¿Dónde es el after? World Tour
@@ -1157,7 +1397,7 @@ URL:https://www.thebostoncalendar.com/events/rawayana-donde-es-el-after-world-to
 END:VEVENT
 BEGIN:VEVENT
 UID:8f42b775716efcfa510d4ff60a651ebd@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261030T200000
 DTEND;TZID=America/New_York:20261030T230000
 SUMMARY:Michael Feinstein: The Magical Music of Johnny Mathis & Henry Mancini
@@ -1167,7 +1407,7 @@ URL:https://www.thebostoncalendar.com/events/michael-feinstein-the-magical-music
 END:VEVENT
 BEGIN:VEVENT
 UID:d5a6b5ac8924349db85f7e1ad2508cab@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261030T200000
 DTEND;TZID=America/New_York:20261030T230000
 SUMMARY:Cambridge Symphony Orchestra: Brahms, Bach, and Poulenc
@@ -1177,7 +1417,7 @@ URL:https://www.thebostoncalendar.com/events/cambridge-symphony-orchestra-brahms
 END:VEVENT
 BEGIN:VEVENT
 UID:4f8b64ff14fbd4911ae8f53d3b9e120d@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261031T150000
 DTEND;TZID=America/New_York:20261031T180000
 SUMMARY:South Coast Chamber Music Series: All Souls
@@ -1187,7 +1427,7 @@ URL:https://www.thebostoncalendar.com/events/south-coast-chamber-music-series-al
 END:VEVENT
 BEGIN:VEVENT
 UID:d1866f4966db27cd08d04c2b432c5730@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261031T160000
 DTEND;TZID=America/New_York:20261031T190000
 SUMMARY:Traditional Irish Music Sessions at The Druid
@@ -1197,7 +1437,7 @@ URL:https://www.thebostoncalendar.com/events/traditional-irish-music-sessions-at
 END:VEVENT
 BEGIN:VEVENT
 UID:07e6d8c5761b08e122dd84a60939f9fb@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261031T190000
 DTEND;TZID=America/New_York:20261031T220000
 SUMMARY:Family Halloween Concert
@@ -1207,7 +1447,7 @@ URL:https://www.thebostoncalendar.com/events/family-halloween-concert
 END:VEVENT
 BEGIN:VEVENT
 UID:4496de32b4abb21c97898903d0ba5b6a@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261031T190000
 DTEND;TZID=America/New_York:20261031T220000
 SUMMARY:Blade Runner - Live In Concert
@@ -1217,7 +1457,7 @@ URL:https://www.thebostoncalendar.com/events/blade-runner-live-in-concert
 END:VEVENT
 BEGIN:VEVENT
 UID:c3b7b153c35daef8838ac4e73469d9bd@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261031T200000
 DTEND;TZID=America/New_York:20261031T230000
 SUMMARY:Halloween Rock and Soul Party featuring Debo Ray and the Band of Bros with Kemp Harris
@@ -1227,7 +1467,7 @@ URL:https://www.thebostoncalendar.com/events/halloween-rock-and-soul-party-featu
 END:VEVENT
 BEGIN:VEVENT
 UID:0460ad2ccfc20125b244b31ad08e6626@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261031T200000
 DTEND;TZID=America/New_York:20261031T230000
 SUMMARY:Broadway Rave
@@ -1237,7 +1477,7 @@ URL:https://www.thebostoncalendar.com/events/broadway-rave--5
 END:VEVENT
 BEGIN:VEVENT
 UID:dcc1e105d18db969f35c664f4193088c@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261031T200000
 DTEND;TZID=America/New_York:20261031T230000
 SUMMARY:Halloween Party with XS Dance Band
@@ -1247,7 +1487,7 @@ URL:https://www.thebostoncalendar.com/events/halloween-party-with-xs-dance-band
 END:VEVENT
 BEGIN:VEVENT
 UID:9c2bb32c6e5b1d1109103fd497b27efc@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261031T220000
 DTEND;TZID=America/New_York:20261101T010000
 SUMMARY:MOCHAKK — Halloween Weekend at Big Night Live Boston - House Music
@@ -1257,7 +1497,7 @@ URL:https://www.thebostoncalendar.com/events/mochakk-halloween-weekend-at-big-ni
 END:VEVENT
 BEGIN:VEVENT
 UID:f0a4baa750a4c2b92d4fd5f99987d0df@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261031T220000
 DTEND;TZID=America/New_York:20261101T010000
 SUMMARY:Pauly D — Halloween Night at Big Night Live Boston - House Music
@@ -1267,7 +1507,7 @@ URL:https://www.thebostoncalendar.com/events/pauly-d-halloween-night-at-big-nigh
 END:VEVENT
 BEGIN:VEVENT
 UID:a3bdd000addb315645f956adf05990e3@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261101T113000
 DTEND;TZID=America/New_York:20261101T143000
 SUMMARY:Sunday Jazz Brunch
@@ -1277,7 +1517,7 @@ URL:https://www.thebostoncalendar.com/events/sunday-jazz-brunch--54
 END:VEVENT
 BEGIN:VEVENT
 UID:ca4bf15e7fb252d17dde2b0863880609@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261101T140000
 DTEND;TZID=America/New_York:20261101T170000
 SUMMARY:Live Music Sundays
@@ -1287,7 +1527,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-sundays--200
 END:VEVENT
 BEGIN:VEVENT
 UID:559bc01b29bb948dcfd0f53c60e75f25@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261101T150000
 DTEND;TZID=America/New_York:20261101T180000
 SUMMARY:South Coast Chamber Music Series: All Souls
@@ -1297,7 +1537,7 @@ URL:https://www.thebostoncalendar.com/events/south-coast-chamber-music-series-al
 END:VEVENT
 BEGIN:VEVENT
 UID:8bcf861a76dfc0b800ab8f149349f9cb@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261101T160000
 DTEND;TZID=America/New_York:20261101T190000
 SUMMARY:The Master Singers of Lexington Present " Water: Music of Rain, Rivers, Lakes, and the Sea"
@@ -1307,7 +1547,7 @@ URL:https://www.thebostoncalendar.com/events/the-master-singers-of-lexington-pre
 END:VEVENT
 BEGIN:VEVENT
 UID:bf1e62a5c2b1df8732caf2dbd5295171@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261102T190000
 DTEND;TZID=America/New_York:20261102T220000
 SUMMARY:JazzReach’s METTA QUINTET
@@ -1317,7 +1557,7 @@ URL:https://www.thebostoncalendar.com/events/jazzreach-s-metta-quintet
 END:VEVENT
 BEGIN:VEVENT
 UID:37402b6455f8b2c423777ac1876fbc2b@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261102T190000
 DTEND;TZID=America/New_York:20261102T220000
 SUMMARY:ThotBot Remediation: Immersive Theater & Live Music
@@ -1327,7 +1567,7 @@ URL:https://www.thebostoncalendar.com/events/remediation-immersive-theater-from-
 END:VEVENT
 BEGIN:VEVENT
 UID:8f2b734b4e7e434266fa72cf638a9ced@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261102T193000
 DTEND;TZID=America/New_York:20261102T223000
 SUMMARY:The Music of Hey Arnold! Live! Feat. Jim Lang and The PS 118 AllStars with Special Guest Craig Bartlett
@@ -1337,7 +1577,7 @@ URL:https://www.thebostoncalendar.com/events/the-music-of-hey-arnold-live-feat-j
 END:VEVENT
 BEGIN:VEVENT
 UID:0779f332852aabbf0c248733ba72c2dd@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261103T193000
 DTEND;TZID=America/New_York:20261103T223000
 SUMMARY:Live Music Tuesdays at Telegraph Hill
@@ -1347,7 +1587,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-tuesdays-at-telegraph-hi
 END:VEVENT
 BEGIN:VEVENT
 UID:5f92b336ab456c21a81eb72e2f46788b@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261103T200000
 DTEND;TZID=America/New_York:20261103T230000
 SUMMARY:Berklee Asia Rising: Celebrating Asian and Asian American Voices in Contemporary Music
@@ -1357,7 +1597,7 @@ URL:https://www.thebostoncalendar.com/events/berklee-asia-rising-celebrating-asi
 END:VEVENT
 BEGIN:VEVENT
 UID:fb1c2631d56b3e094db942d7f1becf30@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261104T180000
 DTEND;TZID=America/New_York:20261104T210000
 SUMMARY:Music Bingo at CanalSide
@@ -1367,7 +1607,7 @@ URL:https://www.thebostoncalendar.com/events/music-bingo-at-canalside--9
 END:VEVENT
 BEGIN:VEVENT
 UID:6e78001274248fa312a19db396036f18@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261104T190000
 DTEND;TZID=America/New_York:20261104T220000
 SUMMARY:Rocky™ in Concert
@@ -1377,7 +1617,7 @@ URL:https://www.thebostoncalendar.com/events/rocky-in-concert
 END:VEVENT
 BEGIN:VEVENT
 UID:0adf105c38cefc57128e44629066ac7c@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261104T190000
 DTEND;TZID=America/New_York:20261104T220000
 SUMMARY:Rocky In Concert - Celebrating 50 Years of Rocky
@@ -1387,7 +1627,7 @@ URL:https://www.thebostoncalendar.com/events/rocky-in-concert-celebrating-50-yea
 END:VEVENT
 BEGIN:VEVENT
 UID:25ac1652d0370e9ce28c0447e44530b3@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261104T200000
 DTEND;TZID=America/New_York:20261104T230000
 SUMMARY:Live Band Line Dancing at Loretta's
@@ -1397,7 +1637,7 @@ URL:https://www.thebostoncalendar.com/events/live-band-line-dancing-at-loretta-s
 END:VEVENT
 BEGIN:VEVENT
 UID:9ac8bd4eece433c6f8da9fd16f5cf674@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261105T180000
 DTEND;TZID=America/New_York:20261105T210000
 SUMMARY:Jazz Night @ Long Live Roxbury
@@ -1407,7 +1647,7 @@ URL:https://www.thebostoncalendar.com/events/jazz-night-long-live-roxbury--148
 END:VEVENT
 BEGIN:VEVENT
 UID:f4e3b07947f1f9dda71887d53a878220@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261105T180000
 DTEND;TZID=America/New_York:20261105T210000
 SUMMARY:Live Music Thursdays in Back Bay
@@ -1417,7 +1657,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-thursdays-in-back-bay--5
 END:VEVENT
 BEGIN:VEVENT
 UID:abbcbb1029e363d3cb90476694620a59@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261105T181000
 DTEND;TZID=America/New_York:20261105T211000
 SUMMARY:Adult Musical Theater Classes at Urbanity Dance!
@@ -1427,7 +1667,7 @@ URL:https://www.thebostoncalendar.com/events/adult-musical-theater-classes-at-ur
 END:VEVENT
 BEGIN:VEVENT
 UID:4bf08f10768a64bd0a1422095e40cf3f@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261105T183000
 DTEND;TZID=America/New_York:20261105T213000
 SUMMARY:Live Music Thursdays at Ward 4
@@ -1437,7 +1677,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-thursdays-at-ward-4--196
 END:VEVENT
 BEGIN:VEVENT
 UID:1c340e3a031d7bdb99dab57aa199fd58@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261106T173000
 DTEND;TZID=America/New_York:20261106T203000
 SUMMARY:Beginning Jewelry: Sterling Silver Band Ring *In-Person*
@@ -1447,7 +1687,7 @@ URL:https://www.thebostoncalendar.com/events/beginning-jewelry-sterling-silver-b
 END:VEVENT
 BEGIN:VEVENT
 UID:bd8d96e0eab1c5906398e4665e5890f2@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261106T180000
 DTEND;TZID=America/New_York:20261106T210000
 SUMMARY:Friday LIVE MUSIC • BBQ •DINNER
@@ -1457,7 +1697,7 @@ URL:https://www.thebostoncalendar.com/events/friday-live-music--41
 END:VEVENT
 BEGIN:VEVENT
 UID:d4a7ac56e581989fb3717be226b8f8a5@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261106T180000
 DTEND;TZID=America/New_York:20261106T210000
 SUMMARY:Friday Live Music & Dinner
@@ -1467,7 +1707,7 @@ URL:https://www.thebostoncalendar.com/events/friday-live-music-dinner--6
 END:VEVENT
 BEGIN:VEVENT
 UID:b3569b5392b5bf1f46818db412688ccb@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261106T190000
 DTEND;TZID=America/New_York:20261106T220000
 SUMMARY:FIRE!!: A Celebration of Radical Black Expression
@@ -1477,7 +1717,7 @@ URL:https://www.thebostoncalendar.com/events/fire-a-celebration-of-radical-black
 END:VEVENT
 BEGIN:VEVENT
 UID:5f32e9a2c8e61e626d05e264864396c0@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261106T193000
 DTEND;TZID=America/New_York:20261106T223000
 SUMMARY:Boston Modern Orchestra Project in Concert featuring soprano Julia Bullock
@@ -1487,7 +1727,7 @@ URL:https://www.thebostoncalendar.com/events/boston-modern-orchestra-project-in-
 END:VEVENT
 BEGIN:VEVENT
 UID:71843f1c9ecad531690f0ee48aa785b5@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261106T193000
 DTEND;TZID=America/New_York:20261106T223000
 SUMMARY:CSEM Presents Trio Langostino in Concert
@@ -1497,7 +1737,7 @@ URL:https://www.thebostoncalendar.com/events/csem-presents-trio-langostino-in-co
 END:VEVENT
 BEGIN:VEVENT
 UID:ce3a2cc9c98a6a63da16bb36f3258382@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261106T200000
 DTEND;TZID=America/New_York:20261106T230000
 SUMMARY:BEAT - Boston, MA - The Music of King Crimson
@@ -1507,7 +1747,7 @@ URL:https://www.thebostoncalendar.com/events/beat-boston-ma-the-music-of-king-cr
 END:VEVENT
 BEGIN:VEVENT
 UID:8ce92ca8f1e1a55fb3815f4c06619d6f@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261107T100000
 DTEND;TZID=America/New_York:20261107T130000
 SUMMARY:Music Explorers
@@ -1517,7 +1757,7 @@ URL:https://www.thebostoncalendar.com/events/music-explorers--2
 END:VEVENT
 BEGIN:VEVENT
 UID:05749eb8f484b25b9dbe8b9bbc5c549c@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261107T160000
 DTEND;TZID=America/New_York:20261107T190000
 SUMMARY:Traditional Irish Music Sessions at The Druid
@@ -1527,7 +1767,7 @@ URL:https://www.thebostoncalendar.com/events/traditional-irish-music-sessions-at
 END:VEVENT
 BEGIN:VEVENT
 UID:627b2f658b1c2fb7ea9a82ba94597ac7@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261107T160000
 DTEND;TZID=America/New_York:20261107T190000
 SUMMARY:CSEM Presents Trio Langostino in Concert
@@ -1537,7 +1777,7 @@ URL:https://www.thebostoncalendar.com/events/csem-presents-trio-langostino-in-co
 END:VEVENT
 BEGIN:VEVENT
 UID:4e7324a13292ebd7cf0f3bf492490482@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261107T200000
 DTEND;TZID=America/New_York:20261107T230000
 SUMMARY:Best of Times: The Music of Styx, Foreigner & REO Speedwagon
@@ -1547,7 +1787,7 @@ URL:https://www.thebostoncalendar.com/events/best-of-times-the-music-of-styx-for
 END:VEVENT
 BEGIN:VEVENT
 UID:b96596fdaddb7d3accc1c97ae908a25d@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261108T113000
 DTEND;TZID=America/New_York:20261108T143000
 SUMMARY:Sunday Jazz Brunch
@@ -1557,7 +1797,7 @@ URL:https://www.thebostoncalendar.com/events/sunday-jazz-brunch--55
 END:VEVENT
 BEGIN:VEVENT
 UID:8a47036d5e01eaed52d908928ad6ca09@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261108T130000
 DTEND;TZID=America/New_York:20261108T160000
 SUMMARY:String Day at Powers Music School
@@ -1567,7 +1807,7 @@ URL:https://www.thebostoncalendar.com/events/string-day-at-powers-music-school
 END:VEVENT
 BEGIN:VEVENT
 UID:d7e4c39a217f6782398ae601811745f1@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261108T140000
 DTEND;TZID=America/New_York:20261108T170000
 SUMMARY:Live Music Sundays
@@ -1577,7 +1817,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-sundays--201
 END:VEVENT
 BEGIN:VEVENT
 UID:179fb1f2b023f37e4e75ac8c498d0566@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261108T150000
 DTEND;TZID=America/New_York:20261108T180000
 SUMMARY:Vivo Performing Arts presents All-Cello Orchestra: Pablo Casals 150th Birthday Tribute
@@ -1587,7 +1827,7 @@ URL:https://www.thebostoncalendar.com/events/vivo-performing-arts-presents-all-c
 END:VEVENT
 BEGIN:VEVENT
 UID:73ae8099ec8935cf865bc4e6a3169e24@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261108T160000
 DTEND;TZID=America/New_York:20261108T190000
 SUMMARY:Cambridge Symphony Orchestra: Brahms, Bach, and Poulenc
@@ -1597,7 +1837,7 @@ URL:https://www.thebostoncalendar.com/events/cambridge-symphony-orchestra-brahms
 END:VEVENT
 BEGIN:VEVENT
 UID:c6b0d6c1193c1e7d0b3e59deabf2e5aa@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261108T160000
 DTEND;TZID=America/New_York:20261108T190000
 SUMMARY:Ray Marie Johnson, Mary Leissinger, Rachel Marie at McCarthy's Sunday Nov 8
@@ -1607,7 +1847,7 @@ URL:https://www.thebostoncalendar.com/events/ray-marie-johnson-mary-leissinger-r
 END:VEVENT
 BEGIN:VEVENT
 UID:c3fecb7353e9cf7743d4e3e39b871183@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261108T160000
 DTEND;TZID=America/New_York:20261108T190000
 SUMMARY:CSEM Presents Trio Langostino in Concert
@@ -1617,7 +1857,7 @@ URL:https://www.thebostoncalendar.com/events/csem-presents-trio-langostino-in-co
 END:VEVENT
 BEGIN:VEVENT
 UID:ce20405cd8d17e80f592bfe5c4100e7f@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261108T160000
 DTEND;TZID=America/New_York:20261108T190000
 SUMMARY:QArts Gallery Jazz Series - Ron Reid Liberty Quartet
@@ -1627,7 +1867,7 @@ URL:https://www.thebostoncalendar.com/events/qarts-gallery-jazz-series-ron-reid-
 END:VEVENT
 BEGIN:VEVENT
 UID:a5037274907a1d8af4600a93de071dad@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261109T200000
 DTEND;TZID=America/New_York:20261109T230000
 SUMMARY:Jazz Composers Alliance Orchestra in Concert
@@ -1637,7 +1877,7 @@ URL:https://www.thebostoncalendar.com/events/jazz-composers-alliance-orchestra-i
 END:VEVENT
 BEGIN:VEVENT
 UID:e6bbfc0f66ec97c6269cac946b18d76c@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261110T193000
 DTEND;TZID=America/New_York:20261110T223000
 SUMMARY:HADESTOWN - The Tony-Winning Best Musical
@@ -1647,7 +1887,7 @@ URL:https://www.thebostoncalendar.com/events/hadestown-the-tony-winning-best-mus
 END:VEVENT
 BEGIN:VEVENT
 UID:637b8a8a6441e82adb0a8b671222763d@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261110T193000
 DTEND;TZID=America/New_York:20261110T223000
 SUMMARY:Live Music Tuesdays at Telegraph Hill
@@ -1657,7 +1897,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-tuesdays-at-telegraph-hi
 END:VEVENT
 BEGIN:VEVENT
 UID:380aba84f1ab3aec693581275b20582c@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261111T180000
 DTEND;TZID=America/New_York:20261111T210000
 SUMMARY:Music Bingo at CanalSide
@@ -1667,7 +1907,7 @@ URL:https://www.thebostoncalendar.com/events/music-bingo-at-canalside--10
 END:VEVENT
 BEGIN:VEVENT
 UID:95e0219ad3617a8583ae409c98880c6f@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261111T183000
 DTEND;TZID=America/New_York:20261111T213000
 SUMMARY:Beartooth - Pure Ecstasy World Tour
@@ -1677,7 +1917,7 @@ URL:https://www.thebostoncalendar.com/events/beartooth-pure-ecstasy-world-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:263630e45f2bdb63db31a815f8066d22@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261111T200000
 DTEND;TZID=America/New_York:20261111T230000
 SUMMARY:Live Band Line Dancing at Loretta's
@@ -1687,7 +1927,7 @@ URL:https://www.thebostoncalendar.com/events/live-band-line-dancing-at-loretta-s
 END:VEVENT
 BEGIN:VEVENT
 UID:8675032a6ca2d1006528354c2571e16a@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261112T180000
 DTEND;TZID=America/New_York:20261112T210000
 SUMMARY:Live Music Thursdays in Back Bay
@@ -1697,7 +1937,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-thursdays-in-back-bay--5
 END:VEVENT
 BEGIN:VEVENT
 UID:9535278ad10dc246bf747a107f603b8c@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261112T180000
 DTEND;TZID=America/New_York:20261112T210000
 SUMMARY:Jazz Night @ Long Live Roxbury
@@ -1707,7 +1947,7 @@ URL:https://www.thebostoncalendar.com/events/jazz-night-long-live-roxbury--149
 END:VEVENT
 BEGIN:VEVENT
 UID:806a2842eff81d6d7182701ca43e2613@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261112T181000
 DTEND;TZID=America/New_York:20261112T211000
 SUMMARY:Adult Musical Theater Classes at Urbanity Dance!
@@ -1717,7 +1957,7 @@ URL:https://www.thebostoncalendar.com/events/adult-musical-theater-classes-at-ur
 END:VEVENT
 BEGIN:VEVENT
 UID:4a4192048a51d93a5b085f5ffb451ee2@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261112T183000
 DTEND;TZID=America/New_York:20261112T213000
 SUMMARY:Live Music Thursdays at Ward 4
@@ -1727,7 +1967,7 @@ URL:https://www.thebostoncalendar.com/events/live-music-thursdays-at-ward-4--197
 END:VEVENT
 BEGIN:VEVENT
 UID:a2f60ad369f0c8d9f7073ebeba0039e2@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261113T180000
 DTEND;TZID=America/New_York:20261113T210000
 SUMMARY:Friday LIVE MUSIC • BBQ •DINNER
@@ -1737,7 +1977,7 @@ URL:https://www.thebostoncalendar.com/events/friday-live-music--42
 END:VEVENT
 BEGIN:VEVENT
 UID:4998aa2eb644a678513803c661a32942@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261113T180000
 DTEND;TZID=America/New_York:20261113T210000
 SUMMARY:Friday Live Music & Dinner
@@ -1747,7 +1987,7 @@ URL:https://www.thebostoncalendar.com/events/friday-live-music-dinner--7
 END:VEVENT
 BEGIN:VEVENT
 UID:edca1f4f967be435e2aea93d3b7ecaa6@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261113T190000
 DTEND;TZID=America/New_York:20261113T220000
 SUMMARY:Musicians Playground November Open Mic Performance
@@ -1757,7 +1997,7 @@ URL:https://www.thebostoncalendar.com/events/musicians-playground-november-open-
 END:VEVENT
 BEGIN:VEVENT
 UID:6b620d261561779f93d5dcd94fb2161c@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261113T193000
 DTEND;TZID=America/New_York:20261113T223000
 SUMMARY:Live Music at Ula Cafe: Somebody's Cousin
@@ -1767,12 +2007,82 @@ URL:https://www.thebostoncalendar.com/events/live-music-at-ula-cafe-somebody-s-c
 END:VEVENT
 BEGIN:VEVENT
 UID:f93acda18681efc53f1cb7c38fc9d7f6@bostonevents
-DTSTAMP:20261014T015139Z
+DTSTAMP:20261014T165140Z
 DTSTART;TZID=America/New_York:20261113T200000
 DTEND;TZID=America/New_York:20261113T230000
 SUMMARY:Victoria Monét - Boston, MA - Frequency of Love Tour
 LOCATION:Greater Boston, MA
 DESCRIPTION:Event info: Victoria Monét - Boston, MA - Frequency of Love Tour\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/victoria-monet-boston-ma-frequency-of-love-tour
 URL:https://www.thebostoncalendar.com/events/victoria-monet-boston-ma-frequency-of-love-tour
+END:VEVENT
+BEGIN:VEVENT
+UID:beaf7e5ae3d92901efd08c0ea2036daf@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261114T130000
+DTEND;TZID=America/New_York:20261114T160000
+SUMMARY:Family and Children's Concert: Not-So-Small Jazz Ensemble
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Family and Children's Concert: Not-So-Small Jazz Ensemble\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/family-and-children-s-concert-not-so-small-jazz-ensemble
+URL:https://www.thebostoncalendar.com/events/family-and-children-s-concert-not-so-small-jazz-ensemble
+END:VEVENT
+BEGIN:VEVENT
+UID:5a22ebc1edb384a3b338b024e145aab1@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261114T160000
+DTEND;TZID=America/New_York:20261114T190000
+SUMMARY:Traditional Irish Music Sessions at The Druid
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Traditional Irish Music Sessions at The Druid\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/traditional-irish-music-sessions-at-the-druid--1288
+URL:https://www.thebostoncalendar.com/events/traditional-irish-music-sessions-at-the-druid--1288
+END:VEVENT
+BEGIN:VEVENT
+UID:439daddff189ce0a5fec1a1455ab0d39@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261114T190000
+DTEND;TZID=America/New_York:20261114T220000
+SUMMARY:African Import Album Concert
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: African Import Album Concert\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/african-import-album-concert
+URL:https://www.thebostoncalendar.com/events/african-import-album-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:2ae2b4ef878d5b7121480fa5665c9d9d@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261114T190000
+DTEND;TZID=America/New_York:20261114T220000
+SUMMARY:Nordic Circle: Scandinavian Chamber Music
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Nordic Circle: Scandinavian Chamber Music\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/nordic-circle-scandinavian-chamber-music
+URL:https://www.thebostoncalendar.com/events/nordic-circle-scandinavian-chamber-music
+END:VEVENT
+BEGIN:VEVENT
+UID:327cf97acd0f736dd96bfa54b792e019@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261114T193000
+DTEND;TZID=America/New_York:20261114T223000
+SUMMARY:American Premiere of "Requiem for America" in Concert
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: American Premiere of "Requiem for America" in Concert\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/american-premiere-of-requiem-for-america-in-concert
+URL:https://www.thebostoncalendar.com/events/american-premiere-of-requiem-for-america-in-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:68671344aa3354036a64dfc0ede4778f@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261114T200000
+DTEND;TZID=America/New_York:20261114T230000
+SUMMARY:That Motown Band
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: That Motown Band\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/that-motown-band
+URL:https://www.thebostoncalendar.com/events/that-motown-band
+END:VEVENT
+BEGIN:VEVENT
+UID:2a5b2476646d7a446fc97baa65289a58@bostonevents
+DTSTAMP:20261014T165140Z
+DTSTART;TZID=America/New_York:20261114T200000
+DTEND;TZID=America/New_York:20261114T230000
+SUMMARY:Petty Larceny: A Tribute to the Music of Tom Petty
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Petty Larceny: A Tribute to the Music of Tom Petty\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/petty-larceny-a-tribute-to-the-music-of-tom-petty--3
+URL:https://www.thebostoncalendar.com/events/petty-larceny-a-tribute-to-the-music-of-tom-petty--3
 END:VEVENT
 END:VCALENDAR
