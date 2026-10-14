@@ -1,14 +1,20 @@
 #!/usr/bin/env python3
 """
-Boston Events Calendar Generator (100% Dynamic)
-Fetches live event data, filters by criteria, and writes three .ics files:
-  - music.ics        (Music & Performing Arts: 90-day horizon)
-  - outdoors.ics     (Outdoors & Recreation: 30-day horizon)
-  - community.ics    (Social & Community: 30-day horizon)
+Boston Events Calendar Generator (100% Dynamic & Curated)
+Generates three iCalendar (.ics) files:
+  1. music.ics        (Music & Performing Arts: 90-day horizon)
+  2. outdoors.ics     (Outdoors & Recreation: 30-day horizon)
+  3. community.ics    (Social & Community: 30-day horizon, capped at 15 events/day)
+
+Filters:
+  - Weekday evenings (17:00 / 5:00 PM onwards) or anytime on weekends (Sat/Sun)
+  - Ticket / admission price <= $80 (or free/donation)
+  - Within ~30 miles of Boston
 """
 
 import datetime
 from datetime import timedelta
+from collections import defaultdict
 import hashlib
 import html
 import re
@@ -17,7 +23,7 @@ from bs4 import BeautifulSoup
 
 
 def is_valid_time_slot(dt):
-    """Weekday after 5:00 PM (17:00) or anytime on Saturday/Sunday."""
+    """Checks if the event is a weekday evening (>= 17:00) or anytime on a weekend."""
     if dt.weekday() in (5, 6):  # Saturday or Sunday
         return True
     return dt.hour >= 17        # Weekday 5:00 PM onwards
@@ -34,8 +40,24 @@ def parse_price(text):
     return min(float(p) for p in prices) <= 80.0
 
 
+def is_recurring_event(ev):
+    """
+    Detects if an event is recurring or ongoing based on common keywords
+    in the title, description, or raw card text.
+    """
+    text = f"{ev.get('title', '')} {ev.get('description', '')} {ev.get('raw_text', '')}".lower()
+    recurring_signals = [
+        "weekly", "bi-weekly", "biweekly", "recurring", "ongoing", "daily",
+        "every week", "each week", "every monday", "every tuesday",
+        "every wednesday", "every thursday", "every friday",
+        "every saturday", "every sunday", "regularly scheduled"
+    ]
+    return any(signal in text for signal in recurring_signals)
+
+
 def parse_event_datetime(text):
-    """Extracts genuine event datetimes. Returns None if unparseable."""
+    """Extracts authentic event datetime. Returns None if unparseable."""
+    # Normalize 8:00p -> 8:00 PM, 7a -> 7:00 AM
     clean = re.sub(r'(\d{1,2}):(\d{2})p\b', r'\1:\2 PM', text, flags=re.I)
     clean = re.sub(r'(\d{1,2}):(\d{2})a\b', r'\1:\2 AM', clean, flags=re.I)
     clean = re.sub(r'(\d{1,2})p\b', r'\1:00 PM', clean, flags=re.I)
@@ -70,7 +92,6 @@ def fetch_live_boston_events():
     events = []
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
     
-    # Query main page and upcoming date buckets
     target_urls = [
         "https://www.thebostoncalendar.com/",
         "https://www.thebostoncalendar.com/events?this_weekend=1",
@@ -93,11 +114,11 @@ def fetch_live_boston_events():
                     parent = a.find_parent(["li", "div"])
                     text_block = parent.get_text(" ", strip=True) if parent else title
 
-                    # Filter: price ceiling
+                    # Price ceiling check (<= $80)
                     if not parse_price(text_block):
                         continue
 
-                    # Filter: exact date extraction (skips if date is missing/invalid)
+                    # Strict date extraction: omit if datetime cannot be verified
                     event_dt = parse_event_datetime(text_block)
                     if not event_dt or not is_valid_time_slot(event_dt):
                         continue
@@ -160,11 +181,11 @@ def main():
     cutoff_30 = now + timedelta(days=30)
     cutoff_90 = now + timedelta(days=90)
 
-    # 1. Fetch only live events
+    # 1. Fetch live events dynamically
     live_events = fetch_live_boston_events()
     print(f"Parsed {len(live_events)} live events with verified dates.")
 
-    # 2. Categorize and apply lookahead windows
+    # 2. Categorize events and apply time horizons
     music_events = []
     outdoor_events = []
     community_events = []
@@ -181,18 +202,43 @@ def main():
             if now <= ev["start"] <= cutoff_30:
                 community_events.append(ev)
 
-    # 3. Write .ics files
+    # 3. Write music.ics (90-day horizon)
+    unique_music = list({ev["uid"]: ev for ev in music_events}.values())
+    unique_music.sort(key=lambda x: x["start"])
     with open("music.ics", "w", encoding="utf-8") as f:
-        f.write(create_ics("Boston: Music & Performing Arts", music_events))
-    print(f"Generated music.ics ({len(music_events)} events)")
+        f.write(create_ics("Boston: Music & Performing Arts", unique_music))
+    print(f"Generated music.ics ({len(unique_music)} events).")
 
+    # 4. Write outdoors.ics (30-day horizon)
+    unique_outdoors = list({ev["uid"]: ev for ev in outdoor_events}.values())
+    unique_outdoors.sort(key=lambda x: x["start"])
     with open("outdoors.ics", "w", encoding="utf-8") as f:
-        f.write(create_ics("Boston: Outdoors & Recreation", outdoor_events))
-    print(f"Generated outdoors.ics ({len(outdoor_events)} events)")
+        f.write(create_ics("Boston: Outdoors & Recreation", unique_outdoors))
+    print(f"Generated outdoors.ics ({len(unique_outdoors)} events).")
+
+    # 5. Process community.ics with 15 events/day cap (prioritizing non-recurring events)
+    events_by_date = defaultdict(list)
+    for ev in community_events:
+        events_by_date[ev["start"].date()].append(ev)
+
+    selected_community = []
+    for event_date in sorted(events_by_date.keys()):
+        day_events = events_by_date[event_date]
+
+        one_off = [ev for ev in day_events if not is_recurring_event(ev)]
+        recurring = [ev for ev in day_events if is_recurring_event(ev)]
+
+        one_off.sort(key=lambda x: x["start"])
+        recurring.sort(key=lambda x: x["start"])
+
+        # Prioritize one-off events for this specific date, filling up to 15 with recurring
+        day_selected = (one_off + recurring)[:15]
+        day_selected.sort(key=lambda x: x["start"])
+        selected_community.extend(day_selected)
 
     with open("community.ics", "w", encoding="utf-8") as f:
-        f.write(create_ics("Boston: Social & Community", community_events))
-    print(f"Generated community.ics ({len(community_events)} events)")
+        f.write(create_ics("Boston: Social & Community", selected_community))
+    print(f"Generated community.ics ({len(selected_community)} total events, capped at 15 events/day).")
 
     print("Dynamic sync complete.")
 
