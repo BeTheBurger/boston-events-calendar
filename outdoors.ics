@@ -7,7 +7,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:bc24e1f690a4223a84c3a1435b5d37bf@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261101T180000
 DTEND;TZID=America/New_York:20261101T210000
 SUMMARY:Jack-O-Lantern Spectacular: Last Call (21+)
@@ -17,7 +17,7 @@ URL:https://www.thebostoncalendar.com/events/jack-o-lantern-spectacular-last-cal
 END:VEVENT
 BEGIN:VEVENT
 UID:a0e72c8c57e33185f33b11f186a72799@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261101T190000
 DTEND;TZID=America/New_York:20261101T220000
 SUMMARY:National Park After Dark: Your Neck of the Woods Tour
@@ -27,7 +27,7 @@ URL:https://www.thebostoncalendar.com/events/national-park-after-dark-your-neck-
 END:VEVENT
 BEGIN:VEVENT
 UID:c059a70f59b77ce43180c9f335f22002@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261103T190000
 DTEND;TZID=America/New_York:20261103T220000
 SUMMARY:MIDNIGHT RUNNERS 5K Bootcamp Run
@@ -37,7 +37,7 @@ URL:https://www.thebostoncalendar.com/events/midnight-runners-5k-bootcamp-run--2
 END:VEVENT
 BEGIN:VEVENT
 UID:086a231b1880e8ceabb122b00d5d3c32@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261106T173000
 DTEND;TZID=America/New_York:20261106T203000
 SUMMARY:Walking Talking Men Boston
@@ -47,7 +47,7 @@ URL:https://www.thebostoncalendar.com/events/walking-talking-men-boston--8
 END:VEVENT
 BEGIN:VEVENT
 UID:f29b29504f9a35ac1f92d095a9d2dbe9@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261106T190000
 DTEND;TZID=America/New_York:20261106T220000
 SUMMARY:Skip the Small Talk Millennial Speed-Dating at Park-9 Dog Bar (Monogamous)
@@ -57,7 +57,7 @@ URL:https://www.thebostoncalendar.com/events/skip-the-small-talk-millennial-spee
 END:VEVENT
 BEGIN:VEVENT
 UID:716decd6354f562ca46a0a9cc1423cd9@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T083000
 DTEND;TZID=America/New_York:20261107T113000
 SUMMARY:Fall Cider Run 5K & Donut Dash
@@ -67,7 +67,7 @@ URL:https://www.thebostoncalendar.com/events/fall-cider-run-5k-donut-dash
 END:VEVENT
 BEGIN:VEVENT
 UID:ca0822b89c6818646b0484538e8ba8e7@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T090000
 DTEND;TZID=America/New_York:20261107T120000
 SUMMARY:Roslindale Farmers Market
@@ -77,7 +77,7 @@ URL:https://www.thebostoncalendar.com/events/roslindale-farmers-market--264
 END:VEVENT
 BEGIN:VEVENT
 UID:0b87af5efe9cf3b4b909ea76d59831e0@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T090000
 DTEND;TZID=America/New_York:20261107T120000
 SUMMARY:Roslindale Summer Farmers Market
@@ -87,7 +87,7 @@ URL:https://www.thebostoncalendar.com/events/roslindale-summer-farmers-market--2
 END:VEVENT
 BEGIN:VEVENT
 UID:3ea8bc2631d0573a31542dc0a0c93aa0@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T100000
 DTEND;TZID=America/New_York:20261107T130000
 SUMMARY:Painted Burro Davis Square Bottomless Brunch!!
@@ -97,7 +97,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-davis-square-bottomle
 END:VEVENT
 BEGIN:VEVENT
 UID:6a765bbd33ec14127101af8a57d48093@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T100000
 DTEND;TZID=America/New_York:20261107T130000
 SUMMARY:Painted Burro Harvard Square Square Bottomless Brunch!!
@@ -107,7 +107,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-harvard-square-square
 END:VEVENT
 BEGIN:VEVENT
 UID:9deea79d1ca28dc58bde15310792934d@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T100000
 DTEND;TZID=America/New_York:20261107T130000
 SUMMARY:Painted Burro Waltham Bottomless Brunch!!
@@ -117,7 +117,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-waltham-bottomless-br
 END:VEVENT
 BEGIN:VEVENT
 UID:a7b0b8cd3a0bcc01ddb5213e1500889c@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T101500
 DTEND;TZID=America/New_York:20261107T131500
 SUMMARY:PhotoWalks Beacon Hill Tour
@@ -127,7 +127,7 @@ URL:https://www.thebostoncalendar.com/events/photowalks-beacon-hill-tour--508
 END:VEVENT
 BEGIN:VEVENT
 UID:1bc3cfc8efecc7833db2c708410c2023@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T103000
 DTEND;TZID=America/New_York:20261107T133000
 SUMMARY:Mahjong Brunch with MahjPit & Boston Mahjong
@@ -137,7 +137,7 @@ URL:https://www.thebostoncalendar.com/events/mahjong-brunch-with-mahjpit-boston-
 END:VEVENT
 BEGIN:VEVENT
 UID:ace644523d41eb7f9984c1ebb394cfef@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T110000
 DTEND;TZID=America/New_York:20261107T140000
 SUMMARY:Bottomless Bubbles, Bites & Flights Brunch at Flight Club | Boston Seaport
@@ -147,7 +147,7 @@ URL:https://www.thebostoncalendar.com/events/bottomless-bubbles-bites-flights-br
 END:VEVENT
 BEGIN:VEVENT
 UID:c033607239be1b88ae54659cf14aad80@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T110000
 DTEND;TZID=America/New_York:20261107T140000
 SUMMARY:A Middle Eastern Brunch Feast *In-Person* *NEW*
@@ -157,7 +157,7 @@ URL:https://www.thebostoncalendar.com/events/a-middle-eastern-brunch-feast-in-pe
 END:VEVENT
 BEGIN:VEVENT
 UID:49ac0fe28c6660a0222fe746adeaf639@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T110000
 DTEND;TZID=America/New_York:20261107T140000
 SUMMARY:Saturday Reunion Brunch: $29 All-You-Can-Eat BBQ Brunch & Live DJ Ballack
@@ -167,7 +167,7 @@ URL:https://www.thebostoncalendar.com/events/saturday-reunion-brunch-29-all-you-
 END:VEVENT
 BEGIN:VEVENT
 UID:bd835ee6bb2ceaf91dfd91fc86810dfe@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T113000
 DTEND;TZID=America/New_York:20261107T143000
 SUMMARY:The Anastasio Sisters brunch cabaret at club cafe boston Mom’s 90th Birthday Cabaret starring The Anastasio Sisters!
@@ -177,7 +177,7 @@ URL:https://www.thebostoncalendar.com/events/the-anastasio-sisters-brunch-cabare
 END:VEVENT
 BEGIN:VEVENT
 UID:181d38289e20a5f7471c774d38b47897@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T120000
 DTEND;TZID=America/New_York:20261107T150000
 SUMMARY:Beer Garden Season at Remnant Brewing (Outdoor Patio & Beer Garden)
@@ -187,7 +187,7 @@ URL:https://www.thebostoncalendar.com/events/beer-garden-season-at-remnant-brewi
 END:VEVENT
 BEGIN:VEVENT
 UID:673d20eb5bf55bed133c31e3e0101f44@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T120000
 DTEND;TZID=America/New_York:20261107T150000
 SUMMARY:Line Dancing Brunch - ALL AGES!
@@ -197,7 +197,7 @@ URL:https://www.thebostoncalendar.com/events/line-dancing-brunch-all-ages--3
 END:VEVENT
 BEGIN:VEVENT
 UID:7c19347fe35aaf96aa2afc42eab64c9a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T131500
 DTEND;TZID=America/New_York:20261107T161500
 SUMMARY:PhotoWalks Freedom Trail tour
@@ -207,7 +207,7 @@ URL:https://www.thebostoncalendar.com/events/photowalks-freedom-trail-tour--361
 END:VEVENT
 BEGIN:VEVENT
 UID:0478a40448c5bbcd0ee5e9955edd5343@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T140000
 DTEND;TZID=America/New_York:20261107T170000
 SUMMARY:Science Spotlights: Walking Fish and Photosynthesizing Sea Slugs
@@ -217,7 +217,7 @@ URL:https://www.thebostoncalendar.com/events/science-spotlights-walking-fish-and
 END:VEVENT
 BEGIN:VEVENT
 UID:7ee557d057d4af302a9f666af515b95c@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T193000
 DTEND;TZID=America/New_York:20261107T223000
 SUMMARY:Comedy at Summer Shack ($15 + Free Parking)
@@ -227,7 +227,7 @@ URL:https://www.thebostoncalendar.com/events/salesmen-comedy-feature-film-premie
 END:VEVENT
 BEGIN:VEVENT
 UID:aff8a33ddad3f5dab0879b98413d8025@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T090000
 DTEND;TZID=America/New_York:20261108T120000
 SUMMARY:Boston River Run
@@ -237,7 +237,7 @@ URL:https://www.thebostoncalendar.com/events/boston-river-run--8
 END:VEVENT
 BEGIN:VEVENT
 UID:42069144b5ff87fee58903625ff3a27d@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T100000
 DTEND;TZID=America/New_York:20261108T130000
 SUMMARY:Painted Burro Waltham Bottomless Brunch!!
@@ -247,7 +247,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-waltham-bottomless-br
 END:VEVENT
 BEGIN:VEVENT
 UID:f46459fb9c80e7fa9c7acceb4c0dc78f@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T100000
 DTEND;TZID=America/New_York:20261108T130000
 SUMMARY:Painted Burro Davis Square Bottomless Brunch!!
@@ -257,7 +257,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-davis-square-bottomle
 END:VEVENT
 BEGIN:VEVENT
 UID:abab902c13167c602624f7bd74911a15@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T100000
 DTEND;TZID=America/New_York:20261108T130000
 SUMMARY:Painted Burro Harvard Square Square Bottomless Brunch!!
@@ -267,7 +267,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-harvard-square-square
 END:VEVENT
 BEGIN:VEVENT
 UID:058e6fcccbb18fb6963dba65c6ec293f@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T101500
 DTEND;TZID=America/New_York:20261108T131500
 SUMMARY:PhotoWalks North End Tour
@@ -277,7 +277,7 @@ URL:https://www.thebostoncalendar.com/events/photowalks-north-end-tour--298
 END:VEVENT
 BEGIN:VEVENT
 UID:620338cf4b2fcff9b4e74b22e113d37d@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T110000
 DTEND;TZID=America/New_York:20261108T140000
 SUMMARY:Drag Me To Brunch
@@ -287,7 +287,7 @@ URL:https://www.thebostoncalendar.com/events/drag-me-to-brunch--20
 END:VEVENT
 BEGIN:VEVENT
 UID:1a1a1c667b3d8af239e664e7f7a46f83@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T110000
 DTEND;TZID=America/New_York:20261108T140000
 SUMMARY:The KBFR Sunday Run at Medford Brewing Company
@@ -297,7 +297,7 @@ URL:https://www.thebostoncalendar.com/events/the-kbfr-sunday-run-at-medford-brew
 END:VEVENT
 BEGIN:VEVENT
 UID:5990c68bebb439b4acaad25dd8c93627@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T110000
 DTEND;TZID=America/New_York:20261108T140000
 SUMMARY:The Sunday Reunion: All-You-Can-Eat BBQ Brunch & Live DJ Virgo
@@ -307,7 +307,7 @@ URL:https://www.thebostoncalendar.com/events/the-sunday-reunion-all-you-can-eat-
 END:VEVENT
 BEGIN:VEVENT
 UID:bef5daa869c39e139f2d29b25fa73aaf@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T110000
 DTEND;TZID=America/New_York:20261108T140000
 SUMMARY:Sunday Run
@@ -317,7 +317,7 @@ URL:https://www.thebostoncalendar.com/events/sunday-run--2
 END:VEVENT
 BEGIN:VEVENT
 UID:b08997c41b7995cafb8c5663e820113e@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T120000
 DTEND;TZID=America/New_York:20261108T150000
 SUMMARY:The Sunday Reunion: All-You-Can-Eat BBQ Brunch & Live DJ
@@ -327,7 +327,7 @@ URL:https://www.thebostoncalendar.com/events/the-sunday-reunion-all-you-can-eat-
 END:VEVENT
 BEGIN:VEVENT
 UID:6448e7edb9bbb41cc4341999c594d5c9@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261113T173000
 DTEND;TZID=America/New_York:20261113T203000
 SUMMARY:Walking Talking Men Boston
@@ -337,7 +337,7 @@ URL:https://www.thebostoncalendar.com/events/walking-talking-men-boston--9
 END:VEVENT
 BEGIN:VEVENT
 UID:d7a4e155346cd00ca7bcfcb208331e9a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T090000
 DTEND;TZID=America/New_York:20261114T120000
 SUMMARY:Roslindale Farmers Market
@@ -347,7 +347,7 @@ URL:https://www.thebostoncalendar.com/events/roslindale-farmers-market--265
 END:VEVENT
 BEGIN:VEVENT
 UID:ef2c84980ff5cacdc8f0fb9779bcf018@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T090000
 DTEND;TZID=America/New_York:20261114T120000
 SUMMARY:Roslindale Summer Farmers Market
@@ -357,7 +357,7 @@ URL:https://www.thebostoncalendar.com/events/roslindale-summer-farmers-market--2
 END:VEVENT
 BEGIN:VEVENT
 UID:cff7149221d4d12d20c429f7e114a329@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T100000
 DTEND;TZID=America/New_York:20261114T130000
 SUMMARY:Painted Burro Harvard Square Square Bottomless Brunch!!
@@ -367,7 +367,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-harvard-square-square
 END:VEVENT
 BEGIN:VEVENT
 UID:f79c4882f2f7b9331a225cdbe994c52a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T100000
 DTEND;TZID=America/New_York:20261114T130000
 SUMMARY:Painted Burro Waltham Bottomless Brunch!!
@@ -377,7 +377,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-waltham-bottomless-br
 END:VEVENT
 BEGIN:VEVENT
 UID:b058897df5d3d8c096661654b3e3312d@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T100000
 DTEND;TZID=America/New_York:20261114T130000
 SUMMARY:Mindfulness Walk at Mount Auburn
@@ -387,7 +387,7 @@ URL:https://www.thebostoncalendar.com/events/mindfulness-walk-at-mount-auburn--6
 END:VEVENT
 BEGIN:VEVENT
 UID:73c788fe987f8eaceecf51f51e6f89cb@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T100000
 DTEND;TZID=America/New_York:20261114T130000
 SUMMARY:Painted Burro Davis Square Bottomless Brunch!!
@@ -397,7 +397,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-davis-square-bottomle
 END:VEVENT
 BEGIN:VEVENT
 UID:063118add2b13f028cadd2af2ddfae05@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T101500
 DTEND;TZID=America/New_York:20261114T131500
 SUMMARY:PhotoWalks Beacon Hill Tour
@@ -407,7 +407,7 @@ URL:https://www.thebostoncalendar.com/events/photowalks-beacon-hill-tour--509
 END:VEVENT
 BEGIN:VEVENT
 UID:2c40eb52d8c36dfb48c3877544de3369@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T110000
 DTEND;TZID=America/New_York:20261114T140000
 SUMMARY:Bottomless Bubbles, Bites & Flights Brunch at Flight Club | Boston Seaport
@@ -417,7 +417,7 @@ URL:https://www.thebostoncalendar.com/events/bottomless-bubbles-bites-flights-br
 END:VEVENT
 BEGIN:VEVENT
 UID:13fdef68356001a74f658b78a095d243@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T110000
 DTEND;TZID=America/New_York:20261114T140000
 SUMMARY:The Ink & Cobblestones Tour: A Walk Through Boston’s Literary Past
@@ -427,7 +427,7 @@ URL:https://www.thebostoncalendar.com/events/the-ink-cobblestones-tour-a-walk-th
 END:VEVENT
 BEGIN:VEVENT
 UID:e0ae7eb30d5f55a68f5f70046c4dcb8c@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T110000
 DTEND;TZID=America/New_York:20261114T140000
 SUMMARY:Audrius Krulis Personal Appearance and Trunk Show
@@ -437,7 +437,7 @@ URL:https://www.thebostoncalendar.com/events/audrius-krulis-personal-appearance-
 END:VEVENT
 BEGIN:VEVENT
 UID:7a248b19a27950beecc05e893e282901@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T120000
 DTEND;TZID=America/New_York:20261114T150000
 SUMMARY:PureSoul Presents: 90s R&B Soul Brunch
@@ -447,7 +447,7 @@ URL:https://www.thebostoncalendar.com/events/puresoul-presents-90s-r-b-soul-brun
 END:VEVENT
 BEGIN:VEVENT
 UID:8136c97002d884766375e7a41aa2d115@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T120000
 DTEND;TZID=America/New_York:20261114T150000
 SUMMARY:Beer Garden Season at Remnant Brewing (Outdoor Patio & Beer Garden)
@@ -457,7 +457,7 @@ URL:https://www.thebostoncalendar.com/events/beer-garden-season-at-remnant-brewi
 END:VEVENT
 BEGIN:VEVENT
 UID:a21ff8dfc4d8fb53c60716adb95cf43c@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T130000
 DTEND;TZID=America/New_York:20261114T160000
 SUMMARY:Brockton Bikes Friends & Family Ride in the Park
@@ -467,7 +467,7 @@ URL:https://www.thebostoncalendar.com/events/brockton-bikes-friends-family-ride-
 END:VEVENT
 BEGIN:VEVENT
 UID:92099af6f4dbb2f226370fbdb21d13ff@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T131500
 DTEND;TZID=America/New_York:20261114T161500
 SUMMARY:PhotoWalks Freedom Trail tour
@@ -477,7 +477,7 @@ URL:https://www.thebostoncalendar.com/events/photowalks-freedom-trail-tour--362
 END:VEVENT
 BEGIN:VEVENT
 UID:888f6199dc3cc7b07d064e18e97494bf@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T150000
 DTEND;TZID=America/New_York:20261114T180000
 SUMMARY:Introduction to Bicycle Maintenance and Repair
@@ -487,7 +487,7 @@ URL:https://www.thebostoncalendar.com/events/introduction-to-bicycle-maintenance
 END:VEVENT
 BEGIN:VEVENT
 UID:7a24a76267b2b317a2faa221d5ea1e22@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T193000
 DTEND;TZID=America/New_York:20261114T223000
 SUMMARY:Comedy at Summer Shack ($15 + Free Parking)
@@ -497,7 +497,7 @@ URL:https://www.thebostoncalendar.com/events/comedy-at-summer-shack-15-free-park
 END:VEVENT
 BEGIN:VEVENT
 UID:4793c398467b9e6ca585985ed10813a1@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T100000
 DTEND;TZID=America/New_York:20261115T130000
 SUMMARY:Painted Burro Waltham Bottomless Brunch!!
@@ -507,7 +507,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-waltham-bottomless-br
 END:VEVENT
 BEGIN:VEVENT
 UID:b68dc81a06ccf77bedfc9df96c61bcf9@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T100000
 DTEND;TZID=America/New_York:20261115T130000
 SUMMARY:Painted Burro Davis Square Bottomless Brunch!!
@@ -517,7 +517,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-davis-square-bottomle
 END:VEVENT
 BEGIN:VEVENT
 UID:dc62867a857d4c1136f2466c99018ad7@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T100000
 DTEND;TZID=America/New_York:20261115T130000
 SUMMARY:Painted Burro Harvard Square Square Bottomless Brunch!!
@@ -527,7 +527,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-harvard-square-square
 END:VEVENT
 BEGIN:VEVENT
 UID:e5901f1df2e752f04abf4c7152748b00@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T101500
 DTEND;TZID=America/New_York:20261115T131500
 SUMMARY:PhotoWalks North End Tour
@@ -537,7 +537,7 @@ URL:https://www.thebostoncalendar.com/events/photowalks-north-end-tour--299
 END:VEVENT
 BEGIN:VEVENT
 UID:c2b4b27982cbfeda2ea4b68c5b5a8bd9@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T101500
 DTEND;TZID=America/New_York:20261115T131500
 SUMMARY:DeCordova Sculpture Park & Museum Day Trip from Boston
@@ -547,7 +547,7 @@ URL:https://www.thebostoncalendar.com/events/decordova-sculpture-park-museum-day
 END:VEVENT
 BEGIN:VEVENT
 UID:55c71a90e4cf3ca3b696dd836ef48704@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T110000
 DTEND;TZID=America/New_York:20261115T140000
 SUMMARY:Lou's Drag Brunch: 90s Party!
@@ -557,7 +557,7 @@ URL:https://www.thebostoncalendar.com/events/lou-s-drag-brunch-divas-live--8
 END:VEVENT
 BEGIN:VEVENT
 UID:d5d123f4f10620db45665829b6617805@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T110000
 DTEND;TZID=America/New_York:20261115T140000
 SUMMARY:Drag Me To Brunch
@@ -567,7 +567,7 @@ URL:https://www.thebostoncalendar.com/events/drag-me-to-brunch--21
 END:VEVENT
 BEGIN:VEVENT
 UID:3fbbe00e4530b0c32bd23f686896a7cb@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T110000
 DTEND;TZID=America/New_York:20261115T140000
 SUMMARY:The KBFR Sunday Run at Medford Brewing Company
@@ -577,7 +577,7 @@ URL:https://www.thebostoncalendar.com/events/the-kbfr-sunday-run-at-medford-brew
 END:VEVENT
 BEGIN:VEVENT
 UID:8c708282e5f0ef564715ca5d987ed8eb@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T110000
 DTEND;TZID=America/New_York:20261115T140000
 SUMMARY:The Sunday Reunion: All-You-Can-Eat BBQ Brunch & Live DJ Virgo
@@ -587,7 +587,7 @@ URL:https://www.thebostoncalendar.com/events/the-sunday-reunion-all-you-can-eat-
 END:VEVENT
 BEGIN:VEVENT
 UID:48104946943e8028a0e6ffdee292e942@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T120000
 DTEND;TZID=America/New_York:20261115T150000
 SUMMARY:The Sunday Reunion: All-You-Can-Eat BBQ Brunch & Live DJ
@@ -597,7 +597,7 @@ URL:https://www.thebostoncalendar.com/events/the-sunday-reunion-all-you-can-eat-
 END:VEVENT
 BEGIN:VEVENT
 UID:f7910c05164c4a57c26a69233d4e7eb2@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261116T170000
 DTEND;TZID=America/New_York:20261116T200000
 SUMMARY:Sustainable Sparkles Night with Alex Makes Art
@@ -607,7 +607,7 @@ URL:https://www.thebostoncalendar.com/events/sustainable-sparkles-night-with-ale
 END:VEVENT
 BEGIN:VEVENT
 UID:cb4493da67d1a0dc71465c58a0ae75b2@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261116T170000
 DTEND;TZID=America/New_York:20261116T200000
 SUMMARY:Dog-Friendly Holiday Pop-up Bar
@@ -617,7 +617,7 @@ URL:https://www.thebostoncalendar.com/events/dog-friendly-holiday-pop-up-bar
 END:VEVENT
 BEGIN:VEVENT
 UID:2ed2408bb15537d1fa81282ffdf5394e@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261117T180000
 DTEND;TZID=America/New_York:20261117T210000
 SUMMARY:Upcycle Your Basic Work Shirt Workshop
@@ -627,7 +627,7 @@ URL:https://www.thebostoncalendar.com/events/tumbling-block-shirt-workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:e5e6a10688acb10ed8e11ffe59a980b5@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261118T180000
 DTEND;TZID=America/New_York:20261118T210000
 SUMMARY:The Festivals of Drunkenness in the Temple of Mut
@@ -637,7 +637,7 @@ URL:https://www.thebostoncalendar.com/events/the-festivals-of-drunkenness-in-the
 END:VEVENT
 BEGIN:VEVENT
 UID:190ba645c245f0ec865a36576f2161de@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261120T173000
 DTEND;TZID=America/New_York:20261120T203000
 SUMMARY:Walking Talking Men Boston
@@ -647,7 +647,7 @@ URL:https://www.thebostoncalendar.com/events/walking-talking-men-boston--10
 END:VEVENT
 BEGIN:VEVENT
 UID:b310242b8c49e1005317e572030f897a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T083000
 DTEND;TZID=America/New_York:20261121T113000
 SUMMARY:Half Marathon: Livestrong at the Y
@@ -657,7 +657,7 @@ URL:https://www.thebostoncalendar.com/events/half-marathon-livestrong-at-the-y
 END:VEVENT
 BEGIN:VEVENT
 UID:42c2817fee3f4efb7fd07b180a7af51c@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T083000
 DTEND;TZID=America/New_York:20261121T113000
 SUMMARY:Livestrong at the Y 5K
@@ -667,7 +667,7 @@ URL:https://www.thebostoncalendar.com/events/livestrong-at-the-y-5k
 END:VEVENT
 BEGIN:VEVENT
 UID:11a2449a3a91b540f637728fe023895b@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T120000
 SUMMARY:Roslindale Farmers Market
@@ -677,7 +677,7 @@ URL:https://www.thebostoncalendar.com/events/roslindale-farmers-market--266
 END:VEVENT
 BEGIN:VEVENT
 UID:9f1ead5f638c528c5dc28a74dd315320@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T120000
 SUMMARY:Roslindale Summer Farmers Market
@@ -687,7 +687,7 @@ URL:https://www.thebostoncalendar.com/events/roslindale-summer-farmers-market--2
 END:VEVENT
 BEGIN:VEVENT
 UID:abfa1158dd5d3168088f33927468d722@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T100000
 DTEND;TZID=America/New_York:20261121T130000
 SUMMARY:Painted Burro Davis Square Bottomless Brunch!!
@@ -697,7 +697,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-davis-square-bottomle
 END:VEVENT
 BEGIN:VEVENT
 UID:01fadf32a719d7d5f8297514ced35d12@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T100000
 DTEND;TZID=America/New_York:20261121T130000
 SUMMARY:Painted Burro Harvard Square Square Bottomless Brunch!!
@@ -707,7 +707,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-harvard-square-square
 END:VEVENT
 BEGIN:VEVENT
 UID:6f7a0de7a6937168d45b9665b0887447@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T100000
 DTEND;TZID=America/New_York:20261121T130000
 SUMMARY:Painted Burro Waltham Bottomless Brunch!!
@@ -717,7 +717,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-waltham-bottomless-br
 END:VEVENT
 BEGIN:VEVENT
 UID:8fbd73ec558556f19df91a10a8960e63@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T101500
 DTEND;TZID=America/New_York:20261121T131500
 SUMMARY:PhotoWalks Beacon Hill Tour
@@ -727,7 +727,7 @@ URL:https://www.thebostoncalendar.com/events/photowalks-beacon-hill-tour--510
 END:VEVENT
 BEGIN:VEVENT
 UID:a7e8382d7d67fa536b7192374345e118@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T110000
 DTEND;TZID=America/New_York:20261121T140000
 SUMMARY:Bottomless Bubbles, Bites & Flights Brunch at Flight Club | Boston Seaport
@@ -737,7 +737,7 @@ URL:https://www.thebostoncalendar.com/events/bottomless-bubbles-bites-flights-br
 END:VEVENT
 BEGIN:VEVENT
 UID:4c44e6daab33f707b78d5e11677e6c7d@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T113000
 DTEND;TZID=America/New_York:20261121T143000
 SUMMARY:The Ladies Who Brunch with Kai Clifton, Ricardo "Ricky" Holguin and Anthony Pires, Jr.
@@ -747,7 +747,7 @@ URL:https://www.thebostoncalendar.com/events/the-ladies-who-brunch-with-kai-clif
 END:VEVENT
 BEGIN:VEVENT
 UID:89070cfe1e91db6f27d2fb7c3f3dba37@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T120000
 DTEND;TZID=America/New_York:20261121T150000
 SUMMARY:Beer Garden Season at Remnant Brewing (Outdoor Patio & Beer Garden)
@@ -757,7 +757,7 @@ URL:https://www.thebostoncalendar.com/events/beer-garden-season-at-remnant-brewi
 END:VEVENT
 BEGIN:VEVENT
 UID:d2b88e987527cc602da56aade9acefce@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T131500
 DTEND;TZID=America/New_York:20261121T161500
 SUMMARY:PhotoWalks Freedom Trail tour
@@ -767,7 +767,7 @@ URL:https://www.thebostoncalendar.com/events/photowalks-freedom-trail-tour--363
 END:VEVENT
 BEGIN:VEVENT
 UID:b9c8ecc905c9933c6563b05409396158@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T150000
 DTEND;TZID=America/New_York:20261121T180000
 SUMMARY:Stocking Stuffer Holiday Market
@@ -777,7 +777,7 @@ URL:https://www.thebostoncalendar.com/events/stocking-stuffer-holiday-market
 END:VEVENT
 BEGIN:VEVENT
 UID:607a45f4a9f2f53d49f4785e97f9d22f@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T193000
 DTEND;TZID=America/New_York:20261121T223000
 SUMMARY:Comedy at Summer Shack ($15 + Free Parking)
@@ -787,7 +787,7 @@ URL:https://www.thebostoncalendar.com/events/comedy-at-summer-shack-15-free-park
 END:VEVENT
 BEGIN:VEVENT
 UID:d7abf08d0738fdab9dfec0366e2e19cf@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T100000
 DTEND;TZID=America/New_York:20261122T130000
 SUMMARY:Painted Burro Waltham Bottomless Brunch!!
@@ -797,7 +797,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-waltham-bottomless-br
 END:VEVENT
 BEGIN:VEVENT
 UID:193ad8bf05d6adf89c4e04c78f15a3b2@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T100000
 DTEND;TZID=America/New_York:20261122T130000
 SUMMARY:Painted Burro Davis Square Bottomless Brunch!!
@@ -807,7 +807,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-davis-square-bottomle
 END:VEVENT
 BEGIN:VEVENT
 UID:a77b2cf61df1e94cd151b840a3a37626@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T100000
 DTEND;TZID=America/New_York:20261122T130000
 SUMMARY:Painted Burro Harvard Square Square Bottomless Brunch!!
@@ -817,7 +817,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-harvard-square-square
 END:VEVENT
 BEGIN:VEVENT
 UID:a8345ab5dc3016c4335a10576d046e57@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T101500
 DTEND;TZID=America/New_York:20261122T131500
 SUMMARY:PhotoWalks North End Tour
@@ -827,7 +827,7 @@ URL:https://www.thebostoncalendar.com/events/photowalks-north-end-tour--300
 END:VEVENT
 BEGIN:VEVENT
 UID:c402549cb28ba72797542e94dfed6a7d@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T110000
 DTEND;TZID=America/New_York:20261122T140000
 SUMMARY:The Sunday Reunion: All-You-Can-Eat BBQ Brunch & Live DJ Virgo
@@ -837,7 +837,7 @@ URL:https://www.thebostoncalendar.com/events/the-sunday-reunion-all-you-can-eat-
 END:VEVENT
 BEGIN:VEVENT
 UID:11ce8d5296fa359dd0cbb5c0a942c7b4@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T110000
 DTEND;TZID=America/New_York:20261122T140000
 SUMMARY:Drag Me To Brunch
@@ -847,7 +847,7 @@ URL:https://www.thebostoncalendar.com/events/drag-me-to-brunch--22
 END:VEVENT
 BEGIN:VEVENT
 UID:bbdc6df31d64e742960c6cdab03dcbeb@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T110000
 DTEND;TZID=America/New_York:20261122T140000
 SUMMARY:The KBFR Sunday Run at Medford Brewing Company
@@ -857,7 +857,7 @@ URL:https://www.thebostoncalendar.com/events/the-kbfr-sunday-run-at-medford-brew
 END:VEVENT
 BEGIN:VEVENT
 UID:c09609d83fd30e4fd6efcb8db4ac550c@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T120000
 DTEND;TZID=America/New_York:20261122T150000
 SUMMARY:The Sunday Reunion: All-You-Can-Eat BBQ Brunch & Live DJ
@@ -867,7 +867,7 @@ URL:https://www.thebostoncalendar.com/events/the-sunday-reunion-all-you-can-eat-
 END:VEVENT
 BEGIN:VEVENT
 UID:6fe2bf641a2a648ef52b9834943f9836@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T150000
 DTEND;TZID=America/New_York:20261122T180000
 SUMMARY:The Ladies Who Brunch with Stephanie Cotton-Snell, Faith Kasparian and Lauren Schultes
@@ -877,7 +877,7 @@ URL:https://www.thebostoncalendar.com/events/the-ladies-who-brunch-with-stephani
 END:VEVENT
 BEGIN:VEVENT
 UID:79fb03e70dfff6b891fdaaade730d7e5@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261123T170000
 DTEND;TZID=America/New_York:20261123T200000
 SUMMARY:2026 Annual Trellis Lighting at Christopher Columbus Park
@@ -887,7 +887,7 @@ URL:https://www.thebostoncalendar.com/events/2022-annual-trellis-lighting-at-chr
 END:VEVENT
 BEGIN:VEVENT
 UID:272bc71df4b7f67efa66d00972a27678@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261127T173000
 DTEND;TZID=America/New_York:20261127T203000
 SUMMARY:Walking Talking Men Boston
@@ -897,7 +897,7 @@ URL:https://www.thebostoncalendar.com/events/walking-talking-men-boston--11
 END:VEVENT
 BEGIN:VEVENT
 UID:5e3b5c844c584075b445006126306cd9@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T100000
 DTEND;TZID=America/New_York:20261128T130000
 SUMMARY:Painted Burro Davis Square Bottomless Brunch!!
@@ -907,7 +907,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-davis-square-bottomle
 END:VEVENT
 BEGIN:VEVENT
 UID:de3d437a4364dc7232606310eb89fe31@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T100000
 DTEND;TZID=America/New_York:20261128T130000
 SUMMARY:Painted Burro Harvard Square Square Bottomless Brunch!!
@@ -917,7 +917,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-harvard-square-square
 END:VEVENT
 BEGIN:VEVENT
 UID:ff40dcb3394f42853a5c783bd5e19351@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T100000
 DTEND;TZID=America/New_York:20261128T130000
 SUMMARY:Painted Burro Waltham Bottomless Brunch!!
@@ -927,7 +927,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-waltham-bottomless-br
 END:VEVENT
 BEGIN:VEVENT
 UID:0a79e87ac9a0e5914912edbd47037132@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T101500
 DTEND;TZID=America/New_York:20261128T131500
 SUMMARY:PhotoWalks Beacon Hill Tour
@@ -937,7 +937,7 @@ URL:https://www.thebostoncalendar.com/events/photowalks-beacon-hill-tour--511
 END:VEVENT
 BEGIN:VEVENT
 UID:8cd635f7b3d73c30f432e0e4688deb40@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T110000
 DTEND;TZID=America/New_York:20261128T140000
 SUMMARY:Bottomless Bubbles, Bites & Flights Brunch at Flight Club | Boston Seaport
@@ -947,7 +947,7 @@ URL:https://www.thebostoncalendar.com/events/bottomless-bubbles-bites-flights-br
 END:VEVENT
 BEGIN:VEVENT
 UID:ff6d66b622b12024ceaa5a5efb0f29bd@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T110000
 DTEND;TZID=America/New_York:20261128T140000
 SUMMARY:The Ink & Cobblestones Tour: A Walk Through Boston’s Literary Past
@@ -957,7 +957,7 @@ URL:https://www.thebostoncalendar.com/events/the-ink-cobblestones-tour-a-walk-th
 END:VEVENT
 BEGIN:VEVENT
 UID:3266d92c91919ab7e74c9b9a3a276484@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T120000
 DTEND;TZID=America/New_York:20261128T150000
 SUMMARY:Beer Garden Season at Remnant Brewing (Outdoor Patio & Beer Garden)
@@ -967,7 +967,7 @@ URL:https://www.thebostoncalendar.com/events/beer-garden-season-at-remnant-brewi
 END:VEVENT
 BEGIN:VEVENT
 UID:61362c0089ab9ecadb001a5c1bf12856@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T131500
 DTEND;TZID=America/New_York:20261128T161500
 SUMMARY:PhotoWalks Freedom Trail tour
@@ -977,7 +977,7 @@ URL:https://www.thebostoncalendar.com/events/photowalks-freedom-trail-tour--364
 END:VEVENT
 BEGIN:VEVENT
 UID:e2068681ec8bcf5063c408f220d26312@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T160000
 DTEND;TZID=America/New_York:20261128T190000
 SUMMARY:6th Annual Holiday Ship Lighting at Martin's Park in Seaport
@@ -987,7 +987,7 @@ URL:https://www.thebostoncalendar.com/events/3rd-annual-holiday-ship-lighting-at
 END:VEVENT
 BEGIN:VEVENT
 UID:55550084652964c73dfa72317eb57279@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T193000
 DTEND;TZID=America/New_York:20261128T223000
 SUMMARY:Comedy at Summer Shack ($15 + Free Parking)
@@ -997,7 +997,7 @@ URL:https://www.thebostoncalendar.com/events/comedy-at-summer-shack-15-free-park
 END:VEVENT
 BEGIN:VEVENT
 UID:13e49f9210407f79bd6ec87c262ff48b@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T100000
 DTEND;TZID=America/New_York:20261129T130000
 SUMMARY:Painted Burro Waltham Bottomless Brunch!!
@@ -1007,7 +1007,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-waltham-bottomless-br
 END:VEVENT
 BEGIN:VEVENT
 UID:40144eb4182f717ecec467455f55f3df@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T100000
 DTEND;TZID=America/New_York:20261129T130000
 SUMMARY:Painted Burro Harvard Square Square Bottomless Brunch!!
@@ -1017,7 +1017,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-harvard-square-square
 END:VEVENT
 BEGIN:VEVENT
 UID:c92569a9cd2f4e4fe8658407939acce2@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T100000
 DTEND;TZID=America/New_York:20261129T130000
 SUMMARY:Painted Burro Davis Square Bottomless Brunch!!
@@ -1027,7 +1027,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-davis-square-bottomle
 END:VEVENT
 BEGIN:VEVENT
 UID:e0e1b346bd67094dc4f00ebda48d607d@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T101500
 DTEND;TZID=America/New_York:20261129T131500
 SUMMARY:PhotoWalks North End Tour
@@ -1037,7 +1037,7 @@ URL:https://www.thebostoncalendar.com/events/photowalks-north-end-tour--301
 END:VEVENT
 BEGIN:VEVENT
 UID:98b65b37ddecfef8cad02218540223fd@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T110000
 DTEND;TZID=America/New_York:20261129T140000
 SUMMARY:The KBFR Sunday Run at Medford Brewing Company
@@ -1047,7 +1047,7 @@ URL:https://www.thebostoncalendar.com/events/the-kbfr-sunday-run-at-medford-brew
 END:VEVENT
 BEGIN:VEVENT
 UID:da9aab708ca4a4436365047e92177944@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T110000
 DTEND;TZID=America/New_York:20261129T140000
 SUMMARY:The Sunday Reunion: All-You-Can-Eat BBQ Brunch & Live DJ Virgo
@@ -1057,7 +1057,7 @@ URL:https://www.thebostoncalendar.com/events/the-sunday-reunion-all-you-can-eat-
 END:VEVENT
 BEGIN:VEVENT
 UID:ede58efb7417d3e88a24432c3fb2839f@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T110000
 DTEND;TZID=America/New_York:20261129T140000
 SUMMARY:Drag Me To Brunch
@@ -1067,7 +1067,7 @@ URL:https://www.thebostoncalendar.com/events/drag-me-to-brunch--23
 END:VEVENT
 BEGIN:VEVENT
 UID:d34a29df08ea96a039e01872263f2c6e@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T120000
 DTEND;TZID=America/New_York:20261129T150000
 SUMMARY:The Sunday Reunion: All-You-Can-Eat BBQ Brunch & Live DJ
@@ -1077,7 +1077,7 @@ URL:https://www.thebostoncalendar.com/events/the-sunday-reunion-all-you-can-eat-
 END:VEVENT
 BEGIN:VEVENT
 UID:2a3c190da6b79b19c0e7eed8e2c8adc5@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T140000
 DTEND;TZID=America/New_York:20261129T170000
 SUMMARY:Touching the Portal: A Dance Performance with Mar Parrilla

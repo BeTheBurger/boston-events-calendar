@@ -6,18 +6,8 @@ X-WR-TIMEZONE:America/New_York
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:2ffeb079ff3237bf35975889d61a76b7@bostonevents
-DTSTAMP:20261101T172835Z
-DTSTART;TZID=America/New_York:20261101T173000
-DTEND;TZID=America/New_York:20261101T203000
-SUMMARY:Intro to Watercolors
-LOCATION:Greater Boston, MA
-DESCRIPTION:Event info: Intro to Watercolors\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/intro-to-watercolors--19
-URL:https://www.thebostoncalendar.com/events/intro-to-watercolors--19
-END:VEVENT
-BEGIN:VEVENT
 UID:59e0186448e06b73a2d37e88cf23e3b7@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261101T180000
 DTEND;TZID=America/New_York:20261101T210000
 SUMMARY:New England Revolution vs. Inter Miami CF
@@ -27,7 +17,7 @@ URL:https://www.thebostoncalendar.com/events/new-england-revolution-vs-inter-mia
 END:VEVENT
 BEGIN:VEVENT
 UID:78218fccd17655e2ca6db28448ca9882@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261101T180000
 DTEND;TZID=America/New_York:20261101T210000
 SUMMARY:Dodgeball Open Gym
@@ -37,7 +27,7 @@ URL:https://www.thebostoncalendar.com/events/dodgeball-open-gym--42
 END:VEVENT
 BEGIN:VEVENT
 UID:b4e4cef564420b8a219e7e6c2b5dd289@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261101T180000
 DTEND;TZID=America/New_York:20261101T210000
 SUMMARY:Sunday Best Comedy
@@ -47,7 +37,7 @@ URL:https://www.thebostoncalendar.com/events/sunday-best-comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:6261681fb7cbdb5ad2114adf9e56e7da@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261101T190000
 DTEND;TZID=America/New_York:20261101T220000
 SUMMARY:McCarthys Irish Session
@@ -57,7 +47,7 @@ URL:https://www.thebostoncalendar.com/events/mccarthys-irish-session--56
 END:VEVENT
 BEGIN:VEVENT
 UID:22f919af7f40bd03385d08af2fa426c8@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261101T190000
 DTEND;TZID=America/New_York:20261101T220000
 SUMMARY:Poetry Open Mic at Trident
@@ -67,7 +57,7 @@ URL:https://www.thebostoncalendar.com/events/poetry-open-mic-at-trident--151
 END:VEVENT
 BEGIN:VEVENT
 UID:7ff266b25d619b83cd6372c93755cd1a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261101T190000
 DTEND;TZID=America/New_York:20261101T220000
 SUMMARY:First Sunday Taizé Evening Service
@@ -77,7 +67,7 @@ URL:https://www.thebostoncalendar.com/events/first-sunday-taize-evening-service-
 END:VEVENT
 BEGIN:VEVENT
 UID:087bd0ba11083a9114ce43cbdcec006f@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261101T190000
 DTEND;TZID=America/New_York:20261101T220000
 SUMMARY:Inheritance: A Litany
@@ -87,7 +77,7 @@ URL:https://www.thebostoncalendar.com/events/inheritance-a-litany
 END:VEVENT
 BEGIN:VEVENT
 UID:2da0daa09aad53592b60288e4b9d13b8@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261101T190000
 DTEND;TZID=America/New_York:20261101T220000
 SUMMARY:An Evening with Aaron Tveit - Boston, MA
@@ -97,7 +87,7 @@ URL:https://www.thebostoncalendar.com/events/an-evening-with-aaron-tveit-boston-
 END:VEVENT
 BEGIN:VEVENT
 UID:7a8241468cd297bddf515571643cdea9@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261101T190000
 DTEND;TZID=America/New_York:20261101T220000
 SUMMARY:An Evening with Aaron Tveit
@@ -107,7 +97,7 @@ URL:https://www.thebostoncalendar.com/events/an-evening-with-aaron-tviet
 END:VEVENT
 BEGIN:VEVENT
 UID:01eec2433d638f72f6914c4b1ec98816@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261101T193000
 DTEND;TZID=America/New_York:20261101T223000
 SUMMARY:Patrick Droney
@@ -117,7 +107,7 @@ URL:https://www.thebostoncalendar.com/events/patrick-droney
 END:VEVENT
 BEGIN:VEVENT
 UID:3ef761a8f7cb7fb24417a25f00cd75e8@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261101T193000
 DTEND;TZID=America/New_York:20261101T223000
 SUMMARY:Consent of the Governed: Singing 250 Years Toward Democracy
@@ -127,7 +117,7 @@ URL:https://www.thebostoncalendar.com/events/consent-of-the-governed-singing-250
 END:VEVENT
 BEGIN:VEVENT
 UID:d9d7174cf8936a3b9693f1848f50690f@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261101T193000
 DTEND;TZID=America/New_York:20261101T223000
 SUMMARY:Patrick Droney - Made You Look Tour
@@ -137,7 +127,7 @@ URL:https://www.thebostoncalendar.com/events/patrick-droney-made-you-look-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:2c7f3656004481f95bc655781ec53aef@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261101T193000
 DTEND;TZID=America/New_York:20261101T223000
 SUMMARY:Comedy at The 88 Club (Free!)
@@ -147,7 +137,7 @@ URL:https://www.thebostoncalendar.com/events/comedy-at-the-88-club-free--25
 END:VEVENT
 BEGIN:VEVENT
 UID:28d88a5c94bfba7a010416879b302e03@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261101T193000
 DTEND;TZID=America/New_York:20261101T223000
 SUMMARY:Sunday Live Blues with Jeff Taylor!
@@ -156,8 +146,18 @@ DESCRIPTION:Event info: Sunday Live Blues with Jeff Taylor!\n\nInfo/Tickets: htt
 URL:https://www.thebostoncalendar.com/events/sunday-live-blues-with-jeff-taylor
 END:VEVENT
 BEGIN:VEVENT
+UID:19af39a046e2fb80e7521835d684b8d1@bostonevents
+DTSTAMP:20261101T174708Z
+DTSTART;TZID=America/New_York:20261101T200000
+DTEND;TZID=America/New_York:20261101T230000
+SUMMARY:Sunday Line Dancing at Loretta's
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Sunday Line Dancing at Loretta's\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/sunday-line-dancing-at-loretta-s--29
+URL:https://www.thebostoncalendar.com/events/sunday-line-dancing-at-loretta-s--29
+END:VEVENT
+BEGIN:VEVENT
 UID:c22442141c6cf12db968560080d99650@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261102T170000
 DTEND;TZID=America/New_York:20261102T200000
 SUMMARY:Posto South End- Happy Hour Deals!
@@ -167,7 +167,7 @@ URL:https://www.thebostoncalendar.com/events/posto-south-end-happy-hour-deals--2
 END:VEVENT
 BEGIN:VEVENT
 UID:5e7562132d6805e16033c1340c86f7ac@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261102T170000
 DTEND;TZID=America/New_York:20261102T200000
 SUMMARY:$10 Martinis at Petula's
@@ -177,7 +177,7 @@ URL:https://www.thebostoncalendar.com/events/10-martinis-at-petula-s--118
 END:VEVENT
 BEGIN:VEVENT
 UID:56509394ee57d166858d193845ef0213@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261102T170000
 DTEND;TZID=America/New_York:20261102T200000
 SUMMARY:$7 Martinis at Rebel's Guild
@@ -187,7 +187,7 @@ URL:https://www.thebostoncalendar.com/events/7-martinis-at-rebel-s-guild--67
 END:VEVENT
 BEGIN:VEVENT
 UID:ecf37ae8aae27dd59c83fef3105c7236@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261102T170000
 DTEND;TZID=America/New_York:20261102T200000
 SUMMARY:$1 Oysters in Downtown Boston
@@ -197,7 +197,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-in-downtown-boston--48
 END:VEVENT
 BEGIN:VEVENT
 UID:b063bf3ae2b4535aeb3f765f8112f7bf@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261102T170000
 DTEND;TZID=America/New_York:20261102T200000
 SUMMARY:Painted Burro Davis Square- Happy Hour Deals!
@@ -207,7 +207,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-davis-square-happy-ho
 END:VEVENT
 BEGIN:VEVENT
 UID:2957ac3eb9f959bdca03a172729a3fbd@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261102T171500
 DTEND;TZID=America/New_York:20261102T201500
 SUMMARY:Peaceful Posture Yoga Pop-Up Class
@@ -217,7 +217,7 @@ URL:https://www.thebostoncalendar.com/events/peaceful-posture-yoga-pop-up-class
 END:VEVENT
 BEGIN:VEVENT
 UID:c3957203f552ce7b737c38270b1421c2@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261102T173000
 DTEND;TZID=America/New_York:20261102T203000
 SUMMARY:Sponsored
@@ -227,7 +227,7 @@ URL:https://www.thebostoncalendar.com/events/affordable-spanish-classes-in-bosto
 END:VEVENT
 BEGIN:VEVENT
 UID:e2db4847267e4f8536c41259a2870d69@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261102T173000
 DTEND;TZID=America/New_York:20261102T203000
 SUMMARY:Spanish Classes in Boston (in-person and online courses) | BASE
@@ -237,7 +237,7 @@ URL:https://www.thebostoncalendar.com/events/affordable-spanish-classes-in-bosto
 END:VEVENT
 BEGIN:VEVENT
 UID:ccbebc6e97a2324b08f13f4fd164e6b0@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261102T173000
 DTEND;TZID=America/New_York:20261102T203000
 SUMMARY:Bingo Time with Willy P!
@@ -247,7 +247,7 @@ URL:https://www.thebostoncalendar.com/events/bingo-time-with-willy-p
 END:VEVENT
 BEGIN:VEVENT
 UID:4c2fedbccaaafe4e5d4f33d8b307cd95@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261102T173000
 DTEND;TZID=America/New_York:20261102T203000
 SUMMARY:Register: Affordable Portuguese Classes in Boston (in-person and online courses)
@@ -257,7 +257,7 @@ URL:https://www.thebostoncalendar.com/events/register-affordable-portuguese-clas
 END:VEVENT
 BEGIN:VEVENT
 UID:dc84e5e61ae0138778de41386bc693bc@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261102T173000
 DTEND;TZID=America/New_York:20261102T203000
 SUMMARY:Free Rock Climbing- Central Rock Cambridge
@@ -267,7 +267,7 @@ URL:https://www.thebostoncalendar.com/events/free-rock-climbing-central-rock-cam
 END:VEVENT
 BEGIN:VEVENT
 UID:659a200f9457a42e2ffd1b0bfc3c5fe8@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261102T173000
 DTEND;TZID=America/New_York:20261102T203000
 SUMMARY:Prenatal Yoga 6-Week Series
@@ -277,7 +277,7 @@ URL:https://www.thebostoncalendar.com/events/prenatal-yoga-6-week-series--27
 END:VEVENT
 BEGIN:VEVENT
 UID:d9b825e1ef365f41f3bb8a6cc571a41e@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261102T180000
 DTEND;TZID=America/New_York:20261102T210000
 SUMMARY:Introduction to SketchUp *In-Person*
@@ -287,7 +287,7 @@ URL:https://www.thebostoncalendar.com/events/introduction-to-sketchup-in-person-
 END:VEVENT
 BEGIN:VEVENT
 UID:550353642a56c6fc473e5758ecfe15c8@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261102T180000
 DTEND;TZID=America/New_York:20261102T210000
 SUMMARY:A Trip To Burgundy *In-Person* *NEW*
@@ -297,7 +297,7 @@ URL:https://www.thebostoncalendar.com/events/a-trip-to-burgundy-in-person-new
 END:VEVENT
 BEGIN:VEVENT
 UID:e4266232dfec7c1571590565ac14ec41@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261102T180000
 DTEND;TZID=America/New_York:20261102T210000
 SUMMARY:Yoga for Creativity
@@ -307,7 +307,7 @@ URL:https://www.thebostoncalendar.com/events/yoga-for-creativity
 END:VEVENT
 BEGIN:VEVENT
 UID:1319a343d05f6fb51765f9bbde5e7459@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261103T170000
 DTEND;TZID=America/New_York:20261103T200000
 SUMMARY:Posto South End- Happy Hour Deals!
@@ -317,7 +317,7 @@ URL:https://www.thebostoncalendar.com/events/posto-south-end-happy-hour-deals--2
 END:VEVENT
 BEGIN:VEVENT
 UID:ce723e05dc4048bafb8ab849ab841481@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261103T170000
 DTEND;TZID=America/New_York:20261103T200000
 SUMMARY:Painted Burro Davis Square- Happy Hour Deals!
@@ -327,7 +327,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-davis-square-happy-ho
 END:VEVENT
 BEGIN:VEVENT
 UID:8816d1c1de5ad6605f634d484c798a3e@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261103T170000
 DTEND;TZID=America/New_York:20261103T200000
 SUMMARY:Seaport Sketch
@@ -337,7 +337,7 @@ URL:https://www.thebostoncalendar.com/events/seaport-sketch--47
 END:VEVENT
 BEGIN:VEVENT
 UID:f0b3167b237b0dcbb9623b8b7535078a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261103T170000
 DTEND;TZID=America/New_York:20261103T200000
 SUMMARY:$1 Oysters at Vera's!
@@ -347,7 +347,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-at-vera-s--353
 END:VEVENT
 BEGIN:VEVENT
 UID:1214e1f680f909b7a49bcd15d14c924c@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261103T173000
 DTEND;TZID=America/New_York:20261103T203000
 SUMMARY:Free Rock Climbing- Central Rock Cambridge
@@ -357,7 +357,7 @@ URL:https://www.thebostoncalendar.com/events/free-rock-climbing-central-rock-cam
 END:VEVENT
 BEGIN:VEVENT
 UID:cb5e2e657eeda154311c16e3b1ffd615@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261103T180000
 DTEND;TZID=America/New_York:20261103T210000
 SUMMARY:An Icon of One's Own
@@ -367,7 +367,7 @@ URL:https://www.thebostoncalendar.com/events/an-icon-of-one-s-own--7
 END:VEVENT
 BEGIN:VEVENT
 UID:84f517f198c72d7052cbff1b2fd52f95@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261103T180000
 DTEND;TZID=America/New_York:20261103T210000
 SUMMARY:Time’s Second Arrow: Evolution, Order, and a New Law of Nature
@@ -377,7 +377,7 @@ URL:https://www.thebostoncalendar.com/events/time-s-second-arrow-evolution-order
 END:VEVENT
 BEGIN:VEVENT
 UID:b9f3e05500b64badb67218fc1b505cf0@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261103T180000
 DTEND;TZID=America/New_York:20261103T210000
 SUMMARY:Test Print Tuesday
@@ -387,7 +387,7 @@ URL:https://www.thebostoncalendar.com/events/test-print-tuesday--26
 END:VEVENT
 BEGIN:VEVENT
 UID:cd970912ecf4cf146a98fd1aaf1ef2a8@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261103T180000
 DTEND;TZID=America/New_York:20261103T210000
 SUMMARY:Signal Summit 2026: Watch Politics Move Markets in Real Time
@@ -397,7 +397,7 @@ URL:https://www.thebostoncalendar.com/events/signal-summit-2026-watch-politics-m
 END:VEVENT
 BEGIN:VEVENT
 UID:b5f9d5c463d06c56318c4cc546f32344@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261103T180000
 DTEND;TZID=America/New_York:20261103T210000
 SUMMARY:Trivia at High Street Place
@@ -407,7 +407,7 @@ URL:https://www.thebostoncalendar.com/events/trivia-at-high-street-place--195
 END:VEVENT
 BEGIN:VEVENT
 UID:61585c874107a34e3f05bfaf8afa4fb6@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261103T180000
 DTEND;TZID=America/New_York:20261103T210000
 SUMMARY:Geeks Who Drink Trivia Night at Sam Adams Downtown Boston Taproom
@@ -417,7 +417,7 @@ URL:https://www.thebostoncalendar.com/events/geeks-who-drink-trivia-night-at-sam
 END:VEVENT
 BEGIN:VEVENT
 UID:c66c16c95fdbff42e1dfa625b8e54951@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261103T180000
 DTEND;TZID=America/New_York:20261103T210000
 SUMMARY:Disney Descendants & Zombies: Worlds Collide
@@ -427,7 +427,7 @@ URL:https://www.thebostoncalendar.com/events/disney-descendants-zombies-worlds-c
 END:VEVENT
 BEGIN:VEVENT
 UID:70ea0e81eb74a0d5c2b2a02cff81e146@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261103T180000
 DTEND;TZID=America/New_York:20261103T210000
 SUMMARY:Holiday Cheese: Guided Cheese and Wine Tasting
@@ -437,7 +437,7 @@ URL:https://www.thebostoncalendar.com/events/holiday-cheese-guided-cheese-and-wi
 END:VEVENT
 BEGIN:VEVENT
 UID:b7fa6b1d0f16cb4af099c75da6d3bfd3@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261103T181000
 DTEND;TZID=America/New_York:20261103T211000
 SUMMARY:Beginner Ballet Classes for Adults!
@@ -447,7 +447,7 @@ URL:https://www.thebostoncalendar.com/events/beginner-ballet-classes-for-adults-
 END:VEVENT
 BEGIN:VEVENT
 UID:f8735e39062a480f0a7f545fb1a0810c@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261103T183000
 DTEND;TZID=America/New_York:20261103T213000
 SUMMARY:Mahjong Night!
@@ -457,7 +457,7 @@ URL:https://www.thebostoncalendar.com/events/mahjong-night--8
 END:VEVENT
 BEGIN:VEVENT
 UID:7b601cd2ab4915e5ae3fa9fcbe6299ab@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261104T170000
 DTEND;TZID=America/New_York:20261104T200000
 SUMMARY:Zero Waste Wednesday
@@ -467,7 +467,7 @@ URL:https://www.thebostoncalendar.com/events/zero-waste-wednesday--55
 END:VEVENT
 BEGIN:VEVENT
 UID:1d19c97e1f1bdc1809790bf5f0e16e92@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261104T170000
 DTEND;TZID=America/New_York:20261104T200000
 SUMMARY:Wing Wednesdays
@@ -477,7 +477,7 @@ URL:https://www.thebostoncalendar.com/events/wing-wednesdays--88
 END:VEVENT
 BEGIN:VEVENT
 UID:2a05cfae8532e4b4efd121ec99984891@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261104T170000
 DTEND;TZID=America/New_York:20261104T200000
 SUMMARY:Wednesday Night Wine Flights
@@ -487,7 +487,7 @@ URL:https://www.thebostoncalendar.com/events/wednesday-night-wine-flights--35
 END:VEVENT
 BEGIN:VEVENT
 UID:8a8e158b2909e56ddc98fd387595c81c@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261104T170000
 DTEND;TZID=America/New_York:20261104T200000
 SUMMARY:$1 Oysters at Vera's!
@@ -497,7 +497,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-at-vera-s--407
 END:VEVENT
 BEGIN:VEVENT
 UID:bcf35eb6226ff4847177c3fd7db24b8e@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261104T170000
 DTEND;TZID=America/New_York:20261104T200000
 SUMMARY:Martini Night
@@ -507,7 +507,7 @@ URL:https://www.thebostoncalendar.com/events/martini-night--26
 END:VEVENT
 BEGIN:VEVENT
 UID:6a139f4424960fe4d7baa78a67f28ce4@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261104T170000
 DTEND;TZID=America/New_York:20261104T200000
 SUMMARY:Painted Burro Davis Square- Happy Hour Deals!
@@ -517,7 +517,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-davis-square-happy-ho
 END:VEVENT
 BEGIN:VEVENT
 UID:ecc94e3108a8e9105b918d3f7e2f250c@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261104T170000
 DTEND;TZID=America/New_York:20261104T200000
 SUMMARY:New England Prize Show Artist Talks
@@ -527,7 +527,7 @@ URL:https://www.thebostoncalendar.com/events/new-england-prize-show-artist-talks
 END:VEVENT
 BEGIN:VEVENT
 UID:4a719370cc77baf00140ccd238de2ee2@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261104T170000
 DTEND;TZID=America/New_York:20261104T200000
 SUMMARY:$25 Girl Dinner at Waverly Charlestown
@@ -537,7 +537,7 @@ URL:https://www.thebostoncalendar.com/events/25-girl-dinner-at-waverly-charlesto
 END:VEVENT
 BEGIN:VEVENT
 UID:aeb9a1307ff9648433bb42307bcd6b9c@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261104T170000
 DTEND;TZID=America/New_York:20261104T200000
 SUMMARY:Posto South End- Half-priced Appetizers
@@ -547,7 +547,7 @@ URL:https://www.thebostoncalendar.com/events/posto-south-end-happy-hour-deals--1
 END:VEVENT
 BEGIN:VEVENT
 UID:aa4d7dac3faa86e26aa65780923efb89@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261104T173000
 DTEND;TZID=America/New_York:20261104T203000
 SUMMARY:Free Rock Climbing- Central Rock Cambridge
@@ -557,7 +557,7 @@ URL:https://www.thebostoncalendar.com/events/free-rock-climbing-central-rock-cam
 END:VEVENT
 BEGIN:VEVENT
 UID:f8aeae1829153198d518846fc6c3300c@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261104T173000
 DTEND;TZID=America/New_York:20261104T203000
 SUMMARY:24th Annual Leave No One Behind Gala to Benefit the New England Center and Home for Veterans
@@ -567,7 +567,7 @@ URL:https://www.thebostoncalendar.com/events/24th-annual-leave-no-one-behind-gal
 END:VEVENT
 BEGIN:VEVENT
 UID:f625e17b36777a38bc07e42f61641d7f@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261104T180000
 DTEND;TZID=America/New_York:20261104T210000
 SUMMARY:Free Open Mic and Karaoke
@@ -577,7 +577,7 @@ URL:https://www.thebostoncalendar.com/events/free-open-mic-and-karaoke--102
 END:VEVENT
 BEGIN:VEVENT
 UID:650b3c11a7d05452c9c18a5988cae2a2@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261104T180000
 DTEND;TZID=America/New_York:20261104T210000
 SUMMARY:Trivia at Michael's Harborside
@@ -587,7 +587,7 @@ URL:https://www.thebostoncalendar.com/events/trivia-at-michael-s-harborside--10
 END:VEVENT
 BEGIN:VEVENT
 UID:a0b0e1595217feee3e3c063a854f7ba9@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261104T180000
 DTEND;TZID=America/New_York:20261104T210000
 SUMMARY:Trivia at City Tap House
@@ -597,7 +597,7 @@ URL:https://www.thebostoncalendar.com/events/trivia-at-city-tap-house--121
 END:VEVENT
 BEGIN:VEVENT
 UID:6965794f1c36e9d340d85563b72195b7@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261104T180000
 DTEND;TZID=America/New_York:20261104T210000
 SUMMARY:Newbury Yarns Knit Circle
@@ -607,7 +607,7 @@ URL:https://www.thebostoncalendar.com/events/newbury-yarns-knit-circle--43
 END:VEVENT
 BEGIN:VEVENT
 UID:f3a6852944184610bd698e76e992c5a6@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261105T170000
 DTEND;TZID=America/New_York:20261105T200000
 SUMMARY:Posto South End- Happy Hour Deals!
@@ -617,7 +617,7 @@ URL:https://www.thebostoncalendar.com/events/posto-south-end-happy-hour-deals--1
 END:VEVENT
 BEGIN:VEVENT
 UID:92a1b7db566099ae98838314b1d5a762@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261105T170000
 DTEND;TZID=America/New_York:20261105T200000
 SUMMARY:Secure the Bag Cornhole Mixer - Club Volo
@@ -627,7 +627,7 @@ URL:https://www.thebostoncalendar.com/events/secure-the-bag-cornhole-mixer-club-
 END:VEVENT
 BEGIN:VEVENT
 UID:feca976ccd51eb2100659cd0dda5385f@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261105T170000
 DTEND;TZID=America/New_York:20261105T200000
 SUMMARY:$1 Oysters at Vera's!
@@ -637,7 +637,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-at-vera-s--189
 END:VEVENT
 BEGIN:VEVENT
 UID:7a3e47d362dd34aca733ef7ded93f793@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261105T170000
 DTEND;TZID=America/New_York:20261105T200000
 SUMMARY:Personal Altars
@@ -647,7 +647,7 @@ URL:https://www.thebostoncalendar.com/events/personal-altars
 END:VEVENT
 BEGIN:VEVENT
 UID:5f6f481c3d733c5ee76189961b83a346@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261105T170000
 DTEND;TZID=America/New_York:20261105T200000
 SUMMARY:Painted Burro Davis Square- Happy Hour Deals!
@@ -657,7 +657,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-somerville-weekly-hap
 END:VEVENT
 BEGIN:VEVENT
 UID:afb3ef771e5243a6220c1bf73aef2521@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261105T170000
 DTEND;TZID=America/New_York:20261105T200000
 SUMMARY:The Phoenix Boston - Rock Climbing
@@ -667,7 +667,7 @@ URL:https://www.thebostoncalendar.com/events/the-phoenix-boston-rock-climbing--6
 END:VEVENT
 BEGIN:VEVENT
 UID:94d38fb0ea344377a4249db9a9091d69@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261105T170000
 DTEND;TZID=America/New_York:20261105T200000
 SUMMARY:Free Thursdays at the Isabella Stewart Gardner Museum
@@ -677,7 +677,7 @@ URL:https://www.thebostoncalendar.com/events/free-thursdays-at-the-isabella-stew
 END:VEVENT
 BEGIN:VEVENT
 UID:69252bc88377a858ee916034ca167987@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261105T173000
 DTEND;TZID=America/New_York:20261105T203000
 SUMMARY:Harvard Square French Fry & Pairings Food Tour
@@ -687,7 +687,7 @@ URL:https://www.thebostoncalendar.com/events/harvard-square-french-fry-pairings-
 END:VEVENT
 BEGIN:VEVENT
 UID:ed5692d82e15b0ed86a437e170ebfe7a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261105T173000
 DTEND;TZID=America/New_York:20261105T203000
 SUMMARY:Young Professionals Fall Mixer
@@ -697,7 +697,7 @@ URL:https://www.thebostoncalendar.com/events/young-professionals-fall-mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:3ea53b2742b5cb0aa5e174b59ea0198a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261105T173000
 DTEND;TZID=America/New_York:20261105T203000
 SUMMARY:2026 Celebration of Design
@@ -707,7 +707,7 @@ URL:https://www.thebostoncalendar.com/events/2026-celebration-of-design
 END:VEVENT
 BEGIN:VEVENT
 UID:c7fdabd497771fd4adbe3c876dd16efb@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261105T173000
 DTEND;TZID=America/New_York:20261105T203000
 SUMMARY:Free Rock Climbing- Central Rock Cambridge
@@ -717,7 +717,7 @@ URL:https://www.thebostoncalendar.com/events/learn-to-rock-climb--23
 END:VEVENT
 BEGIN:VEVENT
 UID:41d53848b05b8f0de3792bf19a773837@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261105T180000
 DTEND;TZID=America/New_York:20261105T210000
 SUMMARY:Thursday Trivia at Brownstone!
@@ -727,7 +727,7 @@ URL:https://www.thebostoncalendar.com/events/thursday-trivia-at-brownstone--49
 END:VEVENT
 BEGIN:VEVENT
 UID:5b7a63e01facd034ea4db636f9cd46a6@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261105T180000
 DTEND;TZID=America/New_York:20261105T210000
 SUMMARY:¿How Lovely Are We? evening of yoga, open mic, teach in, and ecstatic dance
@@ -737,7 +737,7 @@ URL:https://www.thebostoncalendar.com/events/how-lovely-are-we-evening-of-yoga-o
 END:VEVENT
 BEGIN:VEVENT
 UID:afac9f794dd5186207ba9e4ea03600d1@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261105T180000
 DTEND;TZID=America/New_York:20261105T210000
 SUMMARY:BIG Teen Media Showcase
@@ -747,7 +747,7 @@ URL:https://www.thebostoncalendar.com/events/big-teen-media-showcase
 END:VEVENT
 BEGIN:VEVENT
 UID:e1c11f59ab8c2ae194fab8b23ac530b0@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261105T180000
 DTEND;TZID=America/New_York:20261105T210000
 SUMMARY:Trivia at CanalSide
@@ -757,7 +757,7 @@ URL:https://www.thebostoncalendar.com/events/trivia-at-canalside--5
 END:VEVENT
 BEGIN:VEVENT
 UID:2d22b63b35345e1931cb30e2f748f6d5@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261106T170000
 DTEND;TZID=America/New_York:20261106T200000
 SUMMARY:$1 Oysters at Vera's!
@@ -767,7 +767,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-at-vera-s--244
 END:VEVENT
 BEGIN:VEVENT
 UID:8587bcc8226223678d1b7a74f1dfdfc5@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261106T170000
 DTEND;TZID=America/New_York:20261106T200000
 SUMMARY:Whispers of the Andes
@@ -777,7 +777,7 @@ URL:https://www.thebostoncalendar.com/events/whispers-of-the-andes
 END:VEVENT
 BEGIN:VEVENT
 UID:9a0785cfb1e7a34f97d09d84663f8f44@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261106T170000
 DTEND;TZID=America/New_York:20261106T200000
 SUMMARY:Posto South End- Happy Hour Deals!
@@ -787,7 +787,7 @@ URL:https://www.thebostoncalendar.com/events/posto-south-end-happy-hour-deals--9
 END:VEVENT
 BEGIN:VEVENT
 UID:d19997b74fbced019547bcd0e302900b@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261106T170000
 DTEND;TZID=America/New_York:20261106T200000
 SUMMARY:SoWa First Friday
@@ -797,7 +797,7 @@ URL:https://www.thebostoncalendar.com/events/sowa-first-friday--108
 END:VEVENT
 BEGIN:VEVENT
 UID:a239a6cbe556d6b0763a8c36ce89fd35@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261106T170000
 DTEND;TZID=America/New_York:20261106T200000
 SUMMARY:Workshop: Past Life Compass
@@ -807,7 +807,7 @@ URL:https://www.thebostoncalendar.com/events/workshop-past-life-compass--2
 END:VEVENT
 BEGIN:VEVENT
 UID:5c829d16697b39b244b1d9236b225a7d@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261106T170000
 DTEND;TZID=America/New_York:20261106T200000
 SUMMARY:Italian Advanced: Cineforum italiano *In-Person* *NEW*
@@ -817,7 +817,7 @@ URL:https://www.thebostoncalendar.com/events/italian-advanced-cineforum-italiano
 END:VEVENT
 BEGIN:VEVENT
 UID:2d7cc73769eebeab1ff206b6ba47d7a3@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261106T173000
 DTEND;TZID=America/New_York:20261106T203000
 SUMMARY:Free Rock Climbing- Central Rock Cambridge
@@ -827,7 +827,7 @@ URL:https://www.thebostoncalendar.com/events/free-rock-climbing-central-rock-cam
 END:VEVENT
 BEGIN:VEVENT
 UID:5fed638f79b7390ee45ca6d8c764499d@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261106T173000
 DTEND;TZID=America/New_York:20261106T203000
 SUMMARY:Wealth, Power and Politics: A Conversation with Nathaniel Philbrick
@@ -837,7 +837,7 @@ URL:https://www.thebostoncalendar.com/events/wealth-power-and-politics-a-convers
 END:VEVENT
 BEGIN:VEVENT
 UID:7fa3379ac70ce57d848f702cf6b00696@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261106T173000
 DTEND;TZID=America/New_York:20261106T203000
 SUMMARY:Minni Tween Workshop - Cozy Creatures
@@ -847,7 +847,7 @@ URL:https://www.thebostoncalendar.com/events/minni-tween-workshop-cozy-creatures
 END:VEVENT
 BEGIN:VEVENT
 UID:99747449bc0cdbe07423e9252fba4c0b@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261106T173000
 DTEND;TZID=America/New_York:20261106T203000
 SUMMARY:Italian High Beginner/Low Intermediate Ripasso Passato Prossimo e Imperfetto *In-Person* *NEW*
@@ -857,7 +857,7 @@ URL:https://www.thebostoncalendar.com/events/italian-high-beginner-low-intermedi
 END:VEVENT
 BEGIN:VEVENT
 UID:f64a89300f2910c1a0e46dab651e24e8@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261106T180000
 DTEND;TZID=America/New_York:20261106T210000
 SUMMARY:Fresh Pasta From Scratch *In-Person*
@@ -867,7 +867,7 @@ URL:https://www.thebostoncalendar.com/events/fresh-pasta-from-scratch-in-person
 END:VEVENT
 BEGIN:VEVENT
 UID:e936b8965917b07b1e41f9145f5a5fe8@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261106T180000
 DTEND;TZID=America/New_York:20261106T210000
 SUMMARY:Hump! Film Fest - Fall Season 2026
@@ -877,7 +877,7 @@ URL:https://www.thebostoncalendar.com/events/hump-film-fest-fall-season-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:4c719e34e120cea51ea7d37e63bf30df@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261106T180000
 DTEND;TZID=America/New_York:20261106T210000
 SUMMARY:Cider days
@@ -887,7 +887,7 @@ URL:https://www.thebostoncalendar.com/events/cider-days
 END:VEVENT
 BEGIN:VEVENT
 UID:ce63f86a604bae7960181a248a617f07@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261106T180000
 DTEND;TZID=America/New_York:20261106T210000
 SUMMARY:The Sopranos Trivia Night
@@ -897,7 +897,7 @@ URL:https://www.thebostoncalendar.com/events/the-sopranos-trivia-night
 END:VEVENT
 BEGIN:VEVENT
 UID:f63e4ea3b1be94c3bb1ae21afe716f0f@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261106T180000
 DTEND;TZID=America/New_York:20261106T210000
 SUMMARY:Dumpling Making Party In Massachusetts (Fridays)
@@ -907,7 +907,7 @@ URL:https://www.thebostoncalendar.com/events/dumpling-making-party-in-massachuse
 END:VEVENT
 BEGIN:VEVENT
 UID:2e66df6eb36b601d88d88c916044830e@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T000000
 DTEND;TZID=America/New_York:20261107T030000
 SUMMARY:Volunteer Opportunities Everyday!
@@ -917,7 +917,7 @@ URL:https://www.thebostoncalendar.com/events/volunteer-opportunities-everyday--4
 END:VEVENT
 BEGIN:VEVENT
 UID:a0aa9690484c56ab45c8f180e71aef74@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T050000
 DTEND;TZID=America/New_York:20261107T080000
 SUMMARY:$10 Commuter Rail Weekends and Holidays
@@ -927,7 +927,7 @@ URL:https://www.thebostoncalendar.com/events/10-commuter-rail-weekends-and-holid
 END:VEVENT
 BEGIN:VEVENT
 UID:d723679bb2b848ecb3c3e87115e08ea0@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T080000
 DTEND;TZID=America/New_York:20261107T110000
 SUMMARY:Yogasanas Yoga Class
@@ -937,7 +937,7 @@ URL:https://www.thebostoncalendar.com/events/yogasanas-yoga-class
 END:VEVENT
 BEGIN:VEVENT
 UID:1a6955cdd6e8c120ff71bec2f2af15cb@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T080000
 DTEND;TZID=America/New_York:20261107T110000
 SUMMARY:All-Inclusive Car-Free  Day Trips & Adventures from Boston
@@ -947,7 +947,7 @@ URL:https://www.thebostoncalendar.com/events/all-inclusive-day-trips-adventures-
 END:VEVENT
 BEGIN:VEVENT
 UID:1b65b680c9bf4a0f6169984ee73d8f04@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T080000
 DTEND;TZID=America/New_York:20261107T110000
 SUMMARY:Easy All-Inclusive Day Trips and Adventures  Departing from North Station
@@ -957,7 +957,7 @@ URL:https://www.thebostoncalendar.com/events/easy-all-inclusive-day-trips-and-ad
 END:VEVENT
 BEGIN:VEVENT
 UID:60940c681ede281f11b7bcfec9d68061@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T080000
 DTEND;TZID=America/New_York:20261107T110000
 SUMMARY:32nd Harvard Business School Asia Business Conference
@@ -967,7 +967,7 @@ URL:https://www.thebostoncalendar.com/events/32nd-harvard-business-school-asia-b
 END:VEVENT
 BEGIN:VEVENT
 UID:13b635ca8878a8243f0ecdc590687a57@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T080000
 DTEND;TZID=America/New_York:20261107T110000
 SUMMARY:Skip the Traffic—All-Inclusive Day Trips from Boston's North Station
@@ -977,7 +977,7 @@ URL:https://www.thebostoncalendar.com/events/easy-all-inclusive-day-trips-and-ad
 END:VEVENT
 BEGIN:VEVENT
 UID:8841d4a5ff53dae62746c9e401ba7f84@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T080000
 DTEND;TZID=America/New_York:20261107T110000
 SUMMARY:2026 Asian American Women in Leadership Conference
@@ -987,7 +987,7 @@ URL:https://www.thebostoncalendar.com/events/2026-asian-american-women-in-leader
 END:VEVENT
 BEGIN:VEVENT
 UID:2562d082db848a1dd563e942cb17f51b@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T090000
 DTEND;TZID=America/New_York:20261107T120000
 SUMMARY:Museums on Us from Bank of America
@@ -997,7 +997,7 @@ URL:https://www.thebostoncalendar.com/events/museums-on-us-from-bank-of-america-
 END:VEVENT
 BEGIN:VEVENT
 UID:c20b94371c3d5b799e934513d635983f@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T090000
 DTEND;TZID=America/New_York:20261107T120000
 SUMMARY:Eliot-Pearson Children's School 2026 Open House
@@ -1007,7 +1007,7 @@ URL:https://www.thebostoncalendar.com/events/eliot-pearson-children-s-school-202
 END:VEVENT
 BEGIN:VEVENT
 UID:4f72eaefdffe8c8e1dc96cf6e51a02cb@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T090000
 DTEND;TZID=America/New_York:20261107T120000
 SUMMARY:Rubies
@@ -1017,7 +1017,7 @@ URL:https://www.thebostoncalendar.com/events/rubies--26
 END:VEVENT
 BEGIN:VEVENT
 UID:82142e45a0a4363d72869f4af31f3d8a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T090000
 DTEND;TZID=America/New_York:20261107T120000
 SUMMARY:Renaissance Faire at Hammond Castle Museum
@@ -1027,7 +1027,7 @@ URL:https://www.thebostoncalendar.com/events/renaissance-faire-at-hammond-castle
 END:VEVENT
 BEGIN:VEVENT
 UID:37e38f8acab44636fc6f694f71cc1c36@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T090000
 DTEND;TZID=America/New_York:20261107T120000
 SUMMARY:Puritans in the 21st Century: A Symposium
@@ -1037,7 +1037,7 @@ URL:https://www.thebostoncalendar.com/events/the-long-legacy-the-cost-and-contin
 END:VEVENT
 BEGIN:VEVENT
 UID:b5ce767900fb3f5d5b0f10e4960628f8@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T090000
 DTEND;TZID=America/New_York:20261107T120000
 SUMMARY:Pilates in the Sky with Boston Body Pilates at View Boston
@@ -1047,7 +1047,7 @@ URL:https://www.thebostoncalendar.com/events/pilates-in-the-sky-with-boston-body
 END:VEVENT
 BEGIN:VEVENT
 UID:51fcda14d8f4be30e642e1895ea87c8c@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261107T090000
 DTEND;TZID=America/New_York:20261107T120000
 SUMMARY:SWENext Innovation Expo
@@ -1057,7 +1057,7 @@ URL:https://www.thebostoncalendar.com/events/swenext-innovation-expo
 END:VEVENT
 BEGIN:VEVENT
 UID:5f1cbd786e11ce68a04a4233ed403e59@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T000000
 DTEND;TZID=America/New_York:20261108T030000
 SUMMARY:Volunteer Opportunities Everyday!
@@ -1067,7 +1067,7 @@ URL:https://www.thebostoncalendar.com/events/volunteer-opportunities-everyday--5
 END:VEVENT
 BEGIN:VEVENT
 UID:9a7205982cbdb469d7f0a83a33d4c518@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T083000
 DTEND;TZID=America/New_York:20261108T113000
 SUMMARY:Hyrox and Obstacles Race Course
@@ -1077,7 +1077,7 @@ URL:https://www.thebostoncalendar.com/events/hyrox-and-obstacles-race-course--90
 END:VEVENT
 BEGIN:VEVENT
 UID:395a7b03432dbb6d35cd01426d1825c3@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T084000
 DTEND;TZID=America/New_York:20261108T114000
 SUMMARY:Experience Historic Plymouth: Day Trip from Boston with Plimoth Patuxet & Mayflower II
@@ -1087,7 +1087,7 @@ URL:https://www.thebostoncalendar.com/events/experience-historic-plymouth-day-tr
 END:VEVENT
 BEGIN:VEVENT
 UID:ad67f8d15d3bd83529b32cc908d4be5d@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T090000
 DTEND;TZID=America/New_York:20261108T120000
 SUMMARY:Renaissance Faire at Hammond Castle Museum
@@ -1097,7 +1097,7 @@ URL:https://www.thebostoncalendar.com/events/renaissance-faire-at-hammond-castle
 END:VEVENT
 BEGIN:VEVENT
 UID:70f50e4717c9736c7a93647b55a6f077@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T090000
 DTEND;TZID=America/New_York:20261108T120000
 SUMMARY:Pop Quiz: 1776
@@ -1107,7 +1107,7 @@ URL:https://www.thebostoncalendar.com/events/pop-quiz-1776--171
 END:VEVENT
 BEGIN:VEVENT
 UID:e273790c90db8b3bf49009d0ac631361@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T090000
 DTEND;TZID=America/New_York:20261108T120000
 SUMMARY:Rubies
@@ -1117,7 +1117,7 @@ URL:https://www.thebostoncalendar.com/events/rubies--76
 END:VEVENT
 BEGIN:VEVENT
 UID:e8b68292809698fd22aa0c6a45586d40@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T090000
 DTEND;TZID=America/New_York:20261108T120000
 SUMMARY:Collecting Wonders: Tomorrow’s Discoveries
@@ -1127,7 +1127,7 @@ URL:https://www.thebostoncalendar.com/events/collecting-wonders-tomorrow-s-disco
 END:VEVENT
 BEGIN:VEVENT
 UID:58a4727f4c16c1c6c517ceb016e8f552@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T090000
 DTEND;TZID=America/New_York:20261108T120000
 SUMMARY:Sculpt with (the) MOVE Studio at View Boston
@@ -1137,7 +1137,7 @@ URL:https://www.thebostoncalendar.com/events/sculpt-with-the-move-studio-at-view
 END:VEVENT
 BEGIN:VEVENT
 UID:b990215ca9f11b9b3d44855442211539@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T100000
 DTEND;TZID=America/New_York:20261108T130000
 SUMMARY:$1 Oysters at 224 Boston
@@ -1147,7 +1147,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-at-224-boston--191
 END:VEVENT
 BEGIN:VEVENT
 UID:6b8bf9b04928a36b77d04cda7b9cc2c2@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T100000
 DTEND;TZID=America/New_York:20261108T130000
 SUMMARY:Round Ornament Needlepoint Finishing Class
@@ -1157,7 +1157,7 @@ URL:https://www.thebostoncalendar.com/events/round-ornament-needlepoint-finishin
 END:VEVENT
 BEGIN:VEVENT
 UID:7f9454b0bad9b446c45b0cbd4386f1b4@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T100000
 DTEND;TZID=America/New_York:20261108T130000
 SUMMARY:Handweaving Workshop
@@ -1167,7 +1167,7 @@ URL:https://www.thebostoncalendar.com/events/handweaving-workshop--2
 END:VEVENT
 BEGIN:VEVENT
 UID:2130c8b989e0cdd5df491fd91df216f2@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T100000
 DTEND;TZID=America/New_York:20261108T130000
 SUMMARY:The Mill Contemporary Art Holiday Pop-Up Market
@@ -1177,7 +1177,7 @@ URL:https://www.thebostoncalendar.com/events/the-mill-contemporary-art-holiday-p
 END:VEVENT
 BEGIN:VEVENT
 UID:a9e84967df8c7628a2a735c0251f1f88@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T100000
 DTEND;TZID=America/New_York:20261108T130000
 SUMMARY:Introduction to Permaculture Design at New England Botanic Garden
@@ -1187,7 +1187,7 @@ URL:https://www.thebostoncalendar.com/events/introduction-to-permaculture-design
 END:VEVENT
 BEGIN:VEVENT
 UID:2aec178fbab8d8ac741bf43e5e0350d8@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T100000
 DTEND;TZID=America/New_York:20261108T130000
 SUMMARY:Seaport Smalls
@@ -1197,7 +1197,7 @@ URL:https://www.thebostoncalendar.com/events/seaport-smalls--159
 END:VEVENT
 BEGIN:VEVENT
 UID:1b197217ecfa042fcdaebfd9ee575e9c@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261108T100000
 DTEND;TZID=America/New_York:20261108T130000
 SUMMARY:The Phoenix Boston - Crossfit
@@ -1207,7 +1207,7 @@ URL:https://www.thebostoncalendar.com/events/the-phoenix-boston-crossfit--43
 END:VEVENT
 BEGIN:VEVENT
 UID:f85a412faee49a56b6cb4e9892a7ede1@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261109T170000
 DTEND;TZID=America/New_York:20261109T200000
 SUMMARY:$7 Martinis at Rebel's Guild
@@ -1217,7 +1217,7 @@ URL:https://www.thebostoncalendar.com/events/7-martinis-at-rebel-s-guild--68
 END:VEVENT
 BEGIN:VEVENT
 UID:625e9ad0e96b6c621c214101c5c8f2a2@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261109T170000
 DTEND;TZID=America/New_York:20261109T200000
 SUMMARY:Posto South End- Happy Hour Deals!
@@ -1227,7 +1227,7 @@ URL:https://www.thebostoncalendar.com/events/posto-south-end-happy-hour-deals--2
 END:VEVENT
 BEGIN:VEVENT
 UID:f13dd55517a0c2c1f9f0d532c00b964f@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261109T170000
 DTEND;TZID=America/New_York:20261109T200000
 SUMMARY:$10 Martinis at Petula's
@@ -1237,7 +1237,7 @@ URL:https://www.thebostoncalendar.com/events/10-martinis-at-petula-s--119
 END:VEVENT
 BEGIN:VEVENT
 UID:4eb1faf884ec526411185f2b5618adc7@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261109T170000
 DTEND;TZID=America/New_York:20261109T200000
 SUMMARY:$1 Oysters in Downtown Boston
@@ -1247,7 +1247,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-in-downtown-boston--49
 END:VEVENT
 BEGIN:VEVENT
 UID:fc833b23e46fab04f95ec4b3f48a2266@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261109T170000
 DTEND;TZID=America/New_York:20261109T200000
 SUMMARY:Painted Burro Davis Square- Happy Hour Deals!
@@ -1257,7 +1257,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-davis-square-happy-ho
 END:VEVENT
 BEGIN:VEVENT
 UID:40c019d890018bd69b8717f720b26c05@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261109T173000
 DTEND;TZID=America/New_York:20261109T203000
 SUMMARY:Free Rock Climbing- Central Rock Cambridge
@@ -1267,7 +1267,7 @@ URL:https://www.thebostoncalendar.com/events/free-rock-climbing-central-rock-cam
 END:VEVENT
 BEGIN:VEVENT
 UID:84e5aa2ec02b138e3d0d503b99e19ae7@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261109T173000
 DTEND;TZID=America/New_York:20261109T203000
 SUMMARY:Prenatal Yoga 6-Week Series
@@ -1277,7 +1277,7 @@ URL:https://www.thebostoncalendar.com/events/prenatal-yoga-6-week-series--28
 END:VEVENT
 BEGIN:VEVENT
 UID:2e2a7a880443ebbfde88f384a6ef47db@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261109T180000
 DTEND;TZID=America/New_York:20261109T210000
 SUMMARY:Investing in Uncertain Times *In-Person* *NEW*
@@ -1287,7 +1287,7 @@ URL:https://www.thebostoncalendar.com/events/investing-in-uncertain-times-in-per
 END:VEVENT
 BEGIN:VEVENT
 UID:2c1a925546b65f04924023288cfc746e@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261109T180000
 DTEND;TZID=America/New_York:20261109T210000
 SUMMARY:Cooking with Cast Iron *In-Person*
@@ -1297,7 +1297,7 @@ URL:https://www.thebostoncalendar.com/events/cooking-with-cast-iron-in-person--2
 END:VEVENT
 BEGIN:VEVENT
 UID:3e7f8988c8bf1986dc024cec8f8d05e0@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261109T180000
 DTEND;TZID=America/New_York:20261109T210000
 SUMMARY:Yoga for Creativity
@@ -1307,7 +1307,7 @@ URL:https://www.thebostoncalendar.com/events/yoga-for-creativity--2
 END:VEVENT
 BEGIN:VEVENT
 UID:b52650b9b52ff9ac2df981a2a9b23812@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261109T180000
 DTEND;TZID=America/New_York:20261109T210000
 SUMMARY:Exploratory Choral Meditations: FALLing
@@ -1317,7 +1317,7 @@ URL:https://www.thebostoncalendar.com/events/exploratory-choral-meditations-fall
 END:VEVENT
 BEGIN:VEVENT
 UID:cf1dfc3e035d38159004b86c894f2bd5@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261109T181000
 DTEND;TZID=America/New_York:20261109T211000
 SUMMARY:Beginner/Intermediate Adult Hip Hop Dance Class at Urbanity Dance!
@@ -1327,7 +1327,7 @@ URL:https://www.thebostoncalendar.com/events/beginner-intermediate-adult-hip-hop
 END:VEVENT
 BEGIN:VEVENT
 UID:ffb990b9bee3c63ea23d7938a748af04@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261109T183000
 DTEND;TZID=America/New_York:20261109T213000
 SUMMARY:Major Mondays at the Liberty Hotel
@@ -1337,7 +1337,7 @@ URL:https://www.thebostoncalendar.com/events/major-mondays-at-the-liberty-hotel-
 END:VEVENT
 BEGIN:VEVENT
 UID:d02ffd12d8be9678893c60a206e6abbd@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261109T190000
 DTEND;TZID=America/New_York:20261109T220000
 SUMMARY:Trivia Mondays
@@ -1347,7 +1347,7 @@ URL:https://www.thebostoncalendar.com/events/trivia-mondays--10
 END:VEVENT
 BEGIN:VEVENT
 UID:ce3b3ae6638e5896a7997b2c86eee76a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261109T190000
 DTEND;TZID=America/New_York:20261109T220000
 SUMMARY:Capoeira class in Somerville
@@ -1357,7 +1357,7 @@ URL:https://www.thebostoncalendar.com/events/capoeira-class-in-somerville--126
 END:VEVENT
 BEGIN:VEVENT
 UID:644eeb2a773f1fa056cb955ebcb39516@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261110T170000
 DTEND;TZID=America/New_York:20261110T200000
 SUMMARY:$1 Oysters at Vera's!
@@ -1367,7 +1367,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-at-vera-s--354
 END:VEVENT
 BEGIN:VEVENT
 UID:3995ccdc4346a088db02bd7c9e1df585@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261110T170000
 DTEND;TZID=America/New_York:20261110T200000
 SUMMARY:Posto South End- Happy Hour Deals!
@@ -1377,7 +1377,7 @@ URL:https://www.thebostoncalendar.com/events/posto-south-end-happy-hour-deals--2
 END:VEVENT
 BEGIN:VEVENT
 UID:ba02797aec2d789450d7057b703e2862@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261110T170000
 DTEND;TZID=America/New_York:20261110T200000
 SUMMARY:Hand Lettering with Kenji Nakayama
@@ -1387,7 +1387,7 @@ URL:https://www.thebostoncalendar.com/events/hand-lettering-with-kenji-nakayama
 END:VEVENT
 BEGIN:VEVENT
 UID:c8d5c9ced2ec285124b05caad511c47e@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261110T170000
 DTEND;TZID=America/New_York:20261110T200000
 SUMMARY:Painted Burro Davis Square- Happy Hour Deals!
@@ -1397,7 +1397,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-davis-square-happy-ho
 END:VEVENT
 BEGIN:VEVENT
 UID:d88c47bf8f1e47213fd989108094df70@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261110T173000
 DTEND;TZID=America/New_York:20261110T203000
 SUMMARY:Free Rock Climbing- Central Rock Cambridge
@@ -1407,7 +1407,7 @@ URL:https://www.thebostoncalendar.com/events/free-rock-climbing-central-rock-cam
 END:VEVENT
 BEGIN:VEVENT
 UID:3fbca9723bb25bbd4206f36720c87ae1@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261110T173000
 DTEND;TZID=America/New_York:20261110T203000
 SUMMARY:Mah Jongg Madness Lesson & Open Play
@@ -1417,7 +1417,7 @@ URL:https://www.thebostoncalendar.com/events/mah-jongg-madness-lesson-open-play
 END:VEVENT
 BEGIN:VEVENT
 UID:1f223f504231ff59e72068136462cd5a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261110T180000
 DTEND;TZID=America/New_York:20261110T210000
 SUMMARY:An Icon of One's Own
@@ -1427,7 +1427,7 @@ URL:https://www.thebostoncalendar.com/events/an-icon-of-one-s-own--8
 END:VEVENT
 BEGIN:VEVENT
 UID:13c08dcf1d4b313e2a30d38a97b3d064@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261110T180000
 DTEND;TZID=America/New_York:20261110T210000
 SUMMARY:Trivia at High Street Place
@@ -1437,7 +1437,7 @@ URL:https://www.thebostoncalendar.com/events/trivia-at-high-street-place--196
 END:VEVENT
 BEGIN:VEVENT
 UID:14992dde6240c7a23affc9d44e43cc22@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261110T180000
 DTEND;TZID=America/New_York:20261110T210000
 SUMMARY:Geeks Who Drink Trivia Night at Sam Adams Downtown Boston Taproom
@@ -1447,7 +1447,7 @@ URL:https://www.thebostoncalendar.com/events/geeks-who-drink-trivia-night-at-sam
 END:VEVENT
 BEGIN:VEVENT
 UID:50ec4657dda61f3c9e9ce397e33a6ded@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261110T180000
 DTEND;TZID=America/New_York:20261110T210000
 SUMMARY:When the Weather Becomes a Health Emergency: Climate Change and the Future of Healthcare
@@ -1457,7 +1457,7 @@ URL:https://www.thebostoncalendar.com/events/when-the-weather-becomes-a-health-e
 END:VEVENT
 BEGIN:VEVENT
 UID:d7f88395752769675836c0c01759d410@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261110T180000
 DTEND;TZID=America/New_York:20261110T210000
 SUMMARY:Dungeons & Dragons Social Hour
@@ -1467,7 +1467,7 @@ URL:https://www.thebostoncalendar.com/events/dungeons-dragons-social-hour--6
 END:VEVENT
 BEGIN:VEVENT
 UID:ebad2c13ef81cba88236e601154b8bc1@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261110T180000
 DTEND;TZID=America/New_York:20261110T210000
 SUMMARY:Test Print Tuesday
@@ -1477,7 +1477,7 @@ URL:https://www.thebostoncalendar.com/events/test-print-tuesday--27
 END:VEVENT
 BEGIN:VEVENT
 UID:28e1e0c9a69e79d1489395a6347a0ea6@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261110T181000
 DTEND;TZID=America/New_York:20261110T211000
 SUMMARY:Beginner Ballet Classes for Adults!
@@ -1487,7 +1487,7 @@ URL:https://www.thebostoncalendar.com/events/beginner-ballet-classes-for-adults-
 END:VEVENT
 BEGIN:VEVENT
 UID:317d6af1223a1cdcdd9b8b16add1c0ab@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261110T183000
 DTEND;TZID=America/New_York:20261110T213000
 SUMMARY:Pumpkin Patch: A Cake Decorating Experience
@@ -1497,7 +1497,7 @@ URL:https://www.thebostoncalendar.com/events/pumpkin-patch-a-cake-decorating-exp
 END:VEVENT
 BEGIN:VEVENT
 UID:9216542eb16c562977f576457bae5cb7@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261110T183000
 DTEND;TZID=America/New_York:20261110T213000
 SUMMARY:The Strummerville Ukulele Club 2nd Tuesdays in Brookline
@@ -1507,7 +1507,7 @@ URL:https://www.thebostoncalendar.com/events/the-strummerville-ukulele-club-2nd-
 END:VEVENT
 BEGIN:VEVENT
 UID:c9aeee434689a0696948345ad2660b50@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261111T170000
 DTEND;TZID=America/New_York:20261111T200000
 SUMMARY:Wednesday Night Wine Flights
@@ -1517,7 +1517,7 @@ URL:https://www.thebostoncalendar.com/events/wednesday-night-wine-flights--36
 END:VEVENT
 BEGIN:VEVENT
 UID:c0f4cfb877e37b9c30b4efae670e37fc@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261111T170000
 DTEND;TZID=America/New_York:20261111T200000
 SUMMARY:$1 Oysters at Vera's!
@@ -1527,7 +1527,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-at-vera-s--408
 END:VEVENT
 BEGIN:VEVENT
 UID:6e39ff6fc6e35c0c8937b99eb9cb64c8@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261111T170000
 DTEND;TZID=America/New_York:20261111T200000
 SUMMARY:$25 Girl Dinner at Waverly Charlestown
@@ -1537,7 +1537,7 @@ URL:https://www.thebostoncalendar.com/events/25-girl-dinner-at-waverly-charlesto
 END:VEVENT
 BEGIN:VEVENT
 UID:3fc2b4eda6080e3abb84fb85016ed6f7@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261111T170000
 DTEND;TZID=America/New_York:20261111T200000
 SUMMARY:Zero Waste Wednesday
@@ -1547,7 +1547,7 @@ URL:https://www.thebostoncalendar.com/events/zero-waste-wednesday--56
 END:VEVENT
 BEGIN:VEVENT
 UID:bf61c5ea9d0b8ed882785e9217d35e74@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261111T170000
 DTEND;TZID=America/New_York:20261111T200000
 SUMMARY:Martini Night
@@ -1557,7 +1557,7 @@ URL:https://www.thebostoncalendar.com/events/martini-night--27
 END:VEVENT
 BEGIN:VEVENT
 UID:98c43d9ddeaf721a24f290d00d6f4855@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261111T170000
 DTEND;TZID=America/New_York:20261111T200000
 SUMMARY:Wing Wednesdays
@@ -1567,7 +1567,7 @@ URL:https://www.thebostoncalendar.com/events/wing-wednesdays--89
 END:VEVENT
 BEGIN:VEVENT
 UID:190475eb36ce5b5a4cba1126e3424dda@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261111T170000
 DTEND;TZID=America/New_York:20261111T200000
 SUMMARY:Painted Burro Davis Square- Happy Hour Deals!
@@ -1577,7 +1577,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-davis-square-happy-ho
 END:VEVENT
 BEGIN:VEVENT
 UID:93ce35ffdd0112824a1487e4a7b70909@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261111T170000
 DTEND;TZID=America/New_York:20261111T200000
 SUMMARY:Posto South End- Half-priced Appetizers
@@ -1587,7 +1587,7 @@ URL:https://www.thebostoncalendar.com/events/posto-south-end-happy-hour-deals--1
 END:VEVENT
 BEGIN:VEVENT
 UID:992209c155f5c23291b9f5f07de98933@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261111T173000
 DTEND;TZID=America/New_York:20261111T203000
 SUMMARY:Free Rock Climbing- Central Rock Cambridge
@@ -1597,7 +1597,7 @@ URL:https://www.thebostoncalendar.com/events/free-rock-climbing-central-rock-cam
 END:VEVENT
 BEGIN:VEVENT
 UID:3a45d5be1282e2087d2e7e475ee67138@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261111T180000
 DTEND;TZID=America/New_York:20261111T210000
 SUMMARY:Free Open Mic and Karaoke
@@ -1607,7 +1607,7 @@ URL:https://www.thebostoncalendar.com/events/free-open-mic-and-karaoke--103
 END:VEVENT
 BEGIN:VEVENT
 UID:c65fcffb132c71d4a5c49426b65d27c3@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261111T180000
 DTEND;TZID=America/New_York:20261111T210000
 SUMMARY:Wesleaf Wellness Wednesdays
@@ -1617,7 +1617,7 @@ URL:https://www.thebostoncalendar.com/events/wesleaf-wellness-wednesdays--18
 END:VEVENT
 BEGIN:VEVENT
 UID:73aab9cdb7beb995014f6a41c3dfc312@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261111T180000
 DTEND;TZID=America/New_York:20261111T210000
 SUMMARY:Trivia at Michael's Harborside
@@ -1627,7 +1627,7 @@ URL:https://www.thebostoncalendar.com/events/trivia-at-michael-s-harborside--11
 END:VEVENT
 BEGIN:VEVENT
 UID:2097ca6496cf9585dc0b2c05be5eeb2d@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261111T180000
 DTEND;TZID=America/New_York:20261111T210000
 SUMMARY:Trivia at City Tap House
@@ -1637,7 +1637,7 @@ URL:https://www.thebostoncalendar.com/events/trivia-at-city-tap-house--122
 END:VEVENT
 BEGIN:VEVENT
 UID:96076b847df8c1a62b3ba12a3049c779@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261111T180000
 DTEND;TZID=America/New_York:20261111T210000
 SUMMARY:Newbury Yarns Knit Circle
@@ -1647,7 +1647,7 @@ URL:https://www.thebostoncalendar.com/events/newbury-yarns-knit-circle--44
 END:VEVENT
 BEGIN:VEVENT
 UID:63e13dfc6979f82c96f03cce4868c104@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261111T180000
 DTEND;TZID=America/New_York:20261111T210000
 SUMMARY:Passport Series - France: The Wines of Beaujolais
@@ -1657,7 +1657,7 @@ URL:https://www.thebostoncalendar.com/events/passport-series-france-the-wines-of
 END:VEVENT
 BEGIN:VEVENT
 UID:69268f5aa5349ca4a646d0cde2153e93@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261112T170000
 DTEND;TZID=America/New_York:20261112T200000
 SUMMARY:$1 Oysters at Vera's!
@@ -1667,7 +1667,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-at-vera-s--190
 END:VEVENT
 BEGIN:VEVENT
 UID:273c63ccd2d7762b57853aa720deca08@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261112T170000
 DTEND;TZID=America/New_York:20261112T200000
 SUMMARY:Posto South End- Happy Hour Deals!
@@ -1677,7 +1677,7 @@ URL:https://www.thebostoncalendar.com/events/posto-south-end-happy-hour-deals--1
 END:VEVENT
 BEGIN:VEVENT
 UID:52e6213d52b1493e9039b5fae7d90281@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261112T170000
 DTEND;TZID=America/New_York:20261112T200000
 SUMMARY:The Phoenix Boston - Rock Climbing
@@ -1687,7 +1687,7 @@ URL:https://www.thebostoncalendar.com/events/the-phoenix-boston-rock-climbing--6
 END:VEVENT
 BEGIN:VEVENT
 UID:bedbf2ee689113356432c85f2efa1a43@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261112T170000
 DTEND;TZID=America/New_York:20261112T200000
 SUMMARY:Painted Burro Davis Square- Happy Hour Deals!
@@ -1697,7 +1697,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-somerville-weekly-hap
 END:VEVENT
 BEGIN:VEVENT
 UID:33356fdeacda14fb3720565622188716@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261112T170000
 DTEND;TZID=America/New_York:20261112T200000
 SUMMARY:Free Thursdays at the Isabella Stewart Gardner Museum
@@ -1707,7 +1707,7 @@ URL:https://www.thebostoncalendar.com/events/free-thursdays-at-the-isabella-stew
 END:VEVENT
 BEGIN:VEVENT
 UID:7ab451b635882a173d0cfad10fac1265@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261112T173000
 DTEND;TZID=America/New_York:20261112T203000
 SUMMARY:Harvard Square French Fry & Pairings Food Tour
@@ -1717,7 +1717,7 @@ URL:https://www.thebostoncalendar.com/events/harvard-square-french-fry-pairings-
 END:VEVENT
 BEGIN:VEVENT
 UID:1b22843790301e67e9a990902e48c767@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261112T173000
 DTEND;TZID=America/New_York:20261112T203000
 SUMMARY:Free Rock Climbing- Central Rock Cambridge
@@ -1727,7 +1727,7 @@ URL:https://www.thebostoncalendar.com/events/learn-to-rock-climb--24
 END:VEVENT
 BEGIN:VEVENT
 UID:c68c0c74730bb86b715eb5aab343271b@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261112T180000
 DTEND;TZID=America/New_York:20261112T210000
 SUMMARY:Hiawatha Performances and the Garden River First Nation
@@ -1737,7 +1737,7 @@ URL:https://www.thebostoncalendar.com/events/hiawatha-performances-and-the-garde
 END:VEVENT
 BEGIN:VEVENT
 UID:9a455f5b6c17df1d7881bb36b0b27f49@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261112T180000
 DTEND;TZID=America/New_York:20261112T210000
 SUMMARY:Harry Potter Themed Trivia
@@ -1747,7 +1747,7 @@ URL:https://www.thebostoncalendar.com/events/harry-potter-themed-trivia--2
 END:VEVENT
 BEGIN:VEVENT
 UID:98222cf1b00b8f668b051a9a53292e2b@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261112T180000
 DTEND;TZID=America/New_York:20261112T210000
 SUMMARY:Thanksgiving Sides: Adult Cooking Class
@@ -1757,7 +1757,7 @@ URL:https://www.thebostoncalendar.com/events/thanksgiving-sides-adult-cooking-cl
 END:VEVENT
 BEGIN:VEVENT
 UID:8c4267c3f623e1f24588b5cd1dfd14fa@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261112T180000
 DTEND;TZID=America/New_York:20261112T210000
 SUMMARY:Murder in a Nutshell Book Talk with Frances McNamara
@@ -1767,7 +1767,7 @@ URL:https://www.thebostoncalendar.com/events/murder-in-a-nutshell-book-talk-with
 END:VEVENT
 BEGIN:VEVENT
 UID:7bd8298e6821fbfdf95da439320ab3c7@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261112T180000
 DTEND;TZID=America/New_York:20261112T210000
 SUMMARY:Trivia at CanalSide
@@ -1777,7 +1777,7 @@ URL:https://www.thebostoncalendar.com/events/trivia-at-canalside--6
 END:VEVENT
 BEGIN:VEVENT
 UID:83384ac58747ac4d2ec506c8dcc3c43c@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261112T180000
 DTEND;TZID=America/New_York:20261112T210000
 SUMMARY:Texture Painting Thursday Night Out
@@ -1787,7 +1787,7 @@ URL:https://www.thebostoncalendar.com/events/texture-painting-thursday-night-out
 END:VEVENT
 BEGIN:VEVENT
 UID:5e29782724fd725631d1e0fc88a6fc86@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261112T180000
 DTEND;TZID=America/New_York:20261112T210000
 SUMMARY:Trivia at Sam Adams Boston Brewery
@@ -1797,7 +1797,7 @@ URL:https://www.thebostoncalendar.com/events/trivia-at-sam-adams-boston-brewery-
 END:VEVENT
 BEGIN:VEVENT
 UID:34f4db8b8979790d53756b3b1567cfdd@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261112T180000
 DTEND;TZID=America/New_York:20261112T210000
 SUMMARY:Thursday Trivia at Brownstone!
@@ -1807,7 +1807,7 @@ URL:https://www.thebostoncalendar.com/events/thursday-trivia-at-brownstone--50
 END:VEVENT
 BEGIN:VEVENT
 UID:2fbecf82543fdc52ed4c9ef1e2df7756@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261113T170000
 DTEND;TZID=America/New_York:20261113T200000
 SUMMARY:$1 Oysters at Vera's!
@@ -1817,7 +1817,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-at-vera-s--245
 END:VEVENT
 BEGIN:VEVENT
 UID:d65da0a5497974f6a6843beb5029b2d1@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261113T170000
 DTEND;TZID=America/New_York:20261113T200000
 SUMMARY:Posto South End- Happy Hour Deals!
@@ -1827,7 +1827,7 @@ URL:https://www.thebostoncalendar.com/events/posto-south-end-happy-hour-deals--9
 END:VEVENT
 BEGIN:VEVENT
 UID:57f3d556870cd87cdbd949017996ae6b@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261113T173000
 DTEND;TZID=America/New_York:20261113T203000
 SUMMARY:Free Rock Climbing- Central Rock Cambridge
@@ -1837,7 +1837,7 @@ URL:https://www.thebostoncalendar.com/events/free-rock-climbing-central-rock-cam
 END:VEVENT
 BEGIN:VEVENT
 UID:9ab8b2b6bf8a4b6d3943c5b1c36b50b4@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261113T173000
 DTEND;TZID=America/New_York:20261113T203000
 SUMMARY:Beginning Jewelry: Bangle Bracelets *In-Person*
@@ -1847,7 +1847,7 @@ URL:https://www.thebostoncalendar.com/events/beginning-jewelry-bangle-bracelets-
 END:VEVENT
 BEGIN:VEVENT
 UID:604a5a9916d13513340d7e0a0b553ea9@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261113T180000
 DTEND;TZID=America/New_York:20261113T210000
 SUMMARY:Date Night: An Autumn Evening – Adult Cooking Class
@@ -1857,7 +1857,7 @@ URL:https://www.thebostoncalendar.com/events/date-night-an-autumn-evening-adult-
 END:VEVENT
 BEGIN:VEVENT
 UID:b9a2e1dead18a81777496d64991c62dd@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261113T180000
 DTEND;TZID=America/New_York:20261113T210000
 SUMMARY:Mindful Japanese Paper Arts: Autumn Foliage & Decor *In-Person*
@@ -1867,7 +1867,7 @@ URL:https://www.thebostoncalendar.com/events/mindful-japanese-paper-arts-autumn-
 END:VEVENT
 BEGIN:VEVENT
 UID:bca6bc3a234cb78680b410f61bec80c2@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261113T180000
 DTEND;TZID=America/New_York:20261113T210000
 SUMMARY:Global Women's Asia Ground Breakers Gala
@@ -1877,7 +1877,7 @@ URL:https://www.thebostoncalendar.com/events/global-women-s-asia-ground-breakers
 END:VEVENT
 BEGIN:VEVENT
 UID:d2f5c5d3162253c6600501ea42f77bec@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261113T180000
 DTEND;TZID=America/New_York:20261113T210000
 SUMMARY:Gay and Allies Tea Dance Party *In-Person* *NEW*
@@ -1887,7 +1887,7 @@ URL:https://www.thebostoncalendar.com/events/gay-and-allies-tea-dance-party-in-p
 END:VEVENT
 BEGIN:VEVENT
 UID:eb62485814649b4dd563094edddade7e@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261113T180000
 DTEND;TZID=America/New_York:20261113T210000
 SUMMARY:Effortless Entertaining: A Wine Bar at Home *In-Person*
@@ -1897,7 +1897,7 @@ URL:https://www.thebostoncalendar.com/events/effortless-entertaining-a-wine-bar-
 END:VEVENT
 BEGIN:VEVENT
 UID:39805cb2252f7da751c53c5b59abf0e0@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261113T180000
 DTEND;TZID=America/New_York:20261113T210000
 SUMMARY:Intergalactic Art
@@ -1907,7 +1907,7 @@ URL:https://www.thebostoncalendar.com/events/intergalactic-art
 END:VEVENT
 BEGIN:VEVENT
 UID:6470b9867259b82ab9f73e22ec6a901a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261113T180000
 DTEND;TZID=America/New_York:20261113T210000
 SUMMARY:Neurodivergent Happy Hour
@@ -1917,7 +1917,7 @@ URL:https://www.thebostoncalendar.com/events/neurodivergent-happy-hour
 END:VEVENT
 BEGIN:VEVENT
 UID:5bd63a9ec75139ab3100d26c0134ce12@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261113T180000
 DTEND;TZID=America/New_York:20261113T210000
 SUMMARY:Intro to Saddle Stitch
@@ -1927,7 +1927,7 @@ URL:https://www.thebostoncalendar.com/events/intro-to-saddle-stitch
 END:VEVENT
 BEGIN:VEVENT
 UID:36f467c06be85fa027a140c1ff977ce2@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261113T181500
 DTEND;TZID=America/New_York:20261113T211500
 SUMMARY:Body, Breath & Patanjali with Tim Feldmann
@@ -1937,7 +1937,7 @@ URL:https://www.thebostoncalendar.com/events/body-breath-patanjali-with-tim-feld
 END:VEVENT
 BEGIN:VEVENT
 UID:502ed9225b9b99d50789c2b6cbbe941d@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261113T183000
 DTEND;TZID=America/New_York:20261113T213000
 SUMMARY:Phoebe Robinson - Feral & Fired Up! Tour
@@ -1947,7 +1947,7 @@ URL:https://www.thebostoncalendar.com/events/phoebe-robinson-feral-fired-up-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:8026ab6c97adf8d14ecc9a006a84e3f2@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261113T183000
 DTEND;TZID=America/New_York:20261113T213000
 SUMMARY:Screen-Free Salon — Gathering & Weaving
@@ -1957,7 +1957,7 @@ URL:https://www.thebostoncalendar.com/events/screen-free-salon-gathering-weaving
 END:VEVENT
 BEGIN:VEVENT
 UID:bde0cfb19e39c75d46e10e5647b3ab43@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T000000
 DTEND;TZID=America/New_York:20261114T030000
 SUMMARY:Volunteer Opportunities Everyday!
@@ -1967,7 +1967,7 @@ URL:https://www.thebostoncalendar.com/events/volunteer-opportunities-everyday--4
 END:VEVENT
 BEGIN:VEVENT
 UID:3d55efc08260f44a7abc75b616c18e10@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T050000
 DTEND;TZID=America/New_York:20261114T080000
 SUMMARY:$10 Commuter Rail Weekends and Holidays
@@ -1977,7 +1977,7 @@ URL:https://www.thebostoncalendar.com/events/10-commuter-rail-weekends-and-holid
 END:VEVENT
 BEGIN:VEVENT
 UID:9ac909291cf9b24b8a475a9b6c095e11@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T060000
 DTEND;TZID=America/New_York:20261114T090000
 SUMMARY:Mysore Style Practice with Tim Feldmann
@@ -1987,7 +1987,7 @@ URL:https://www.thebostoncalendar.com/events/mysore-style-practice-with-tim-feld
 END:VEVENT
 BEGIN:VEVENT
 UID:2f3739a1c705ca16faf874313a9610ba@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T080000
 DTEND;TZID=America/New_York:20261114T110000
 SUMMARY:All-Inclusive Car-Free  Day Trips & Adventures from Boston
@@ -1997,7 +1997,7 @@ URL:https://www.thebostoncalendar.com/events/all-inclusive-day-trips-adventures-
 END:VEVENT
 BEGIN:VEVENT
 UID:01cabeee52ee3c07ceaea97975de4e9f@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T080000
 DTEND;TZID=America/New_York:20261114T110000
 SUMMARY:12th Thanksgiving Ping Pong Tournament 2026
@@ -2007,7 +2007,7 @@ URL:https://www.thebostoncalendar.com/events/12th-chinese-culture-connection-pin
 END:VEVENT
 BEGIN:VEVENT
 UID:7bf11b79786740cd72b675081014ab88@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T080000
 DTEND;TZID=America/New_York:20261114T110000
 SUMMARY:The 603 Writers’ Conference Returns as New Hampshire’s Largest Gathering for Writers
@@ -2017,7 +2017,7 @@ URL:https://www.thebostoncalendar.com/events/the-603-writers-conference-returns-
 END:VEVENT
 BEGIN:VEVENT
 UID:51998c6b98bcf52feac39fe03bdf2f01@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T080000
 DTEND;TZID=America/New_York:20261114T110000
 SUMMARY:Skip the Traffic—All-Inclusive Day Trips from Boston's North Station
@@ -2027,7 +2027,7 @@ URL:https://www.thebostoncalendar.com/events/easy-all-inclusive-day-trips-and-ad
 END:VEVENT
 BEGIN:VEVENT
 UID:e8c876df7313e85299fbece2978091fb@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T080000
 DTEND;TZID=America/New_York:20261114T110000
 SUMMARY:Easy All-Inclusive Day Trips and Adventures  Departing from North Station
@@ -2037,7 +2037,7 @@ URL:https://www.thebostoncalendar.com/events/easy-all-inclusive-day-trips-and-ad
 END:VEVENT
 BEGIN:VEVENT
 UID:16bf044e5457f4c04282e4a25eefa64b@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T090000
 DTEND;TZID=America/New_York:20261114T120000
 SUMMARY:Beading & Embroidery Workshop
@@ -2047,7 +2047,7 @@ URL:https://www.thebostoncalendar.com/events/beading-embroidery-workshop--3
 END:VEVENT
 BEGIN:VEVENT
 UID:e8097f054d9e6b12a25011c5b9820d27@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T090000
 DTEND;TZID=America/New_York:20261114T120000
 SUMMARY:Rubies
@@ -2057,7 +2057,7 @@ URL:https://www.thebostoncalendar.com/events/rubies--27
 END:VEVENT
 BEGIN:VEVENT
 UID:ffd2d0ee5a6cbcc23c1ba2502a48c701@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T090000
 DTEND;TZID=America/New_York:20261114T120000
 SUMMARY:Collecting Wonders: Tomorrow’s Discoveries
@@ -2067,7 +2067,7 @@ URL:https://www.thebostoncalendar.com/events/collecting-wonders-tomorrow-s-disco
 END:VEVENT
 BEGIN:VEVENT
 UID:a430775bbe5a12198451bcdb38fa1f42@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T090000
 DTEND;TZID=America/New_York:20261114T120000
 SUMMARY:Pop Quiz: 1776
@@ -2077,7 +2077,7 @@ URL:https://www.thebostoncalendar.com/events/pop-quiz-1776--121
 END:VEVENT
 BEGIN:VEVENT
 UID:deef20dfe2a89dad8992d70573154db6@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T090000
 DTEND;TZID=America/New_York:20261114T120000
 SUMMARY:Realistic Painting in Watercolor Class at Marblehead Arts Association
@@ -2087,7 +2087,7 @@ URL:https://www.thebostoncalendar.com/events/realistic-painting-in-watercolor-cl
 END:VEVENT
 BEGIN:VEVENT
 UID:700ebe7df9129b6cb4130acb0b55236a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T090000
 DTEND;TZID=America/New_York:20261114T120000
 SUMMARY:Making Your Own Cabochons
@@ -2097,7 +2097,7 @@ URL:https://www.thebostoncalendar.com/events/making-your-own-cabochons
 END:VEVENT
 BEGIN:VEVENT
 UID:0da93500782e842be7660b9ef1f8a639@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261114T090000
 DTEND;TZID=America/New_York:20261114T120000
 SUMMARY:Intro to Kintsugi (Japanese pottery repair)
@@ -2107,7 +2107,7 @@ URL:https://www.thebostoncalendar.com/events/intro-to-kintsugi-japanese-pottery-
 END:VEVENT
 BEGIN:VEVENT
 UID:aa37f627ef48ae2e544be49ca4b224e2@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T000000
 DTEND;TZID=America/New_York:20261115T030000
 SUMMARY:Volunteer Opportunities Everyday!
@@ -2117,7 +2117,7 @@ URL:https://www.thebostoncalendar.com/events/volunteer-opportunities-everyday--5
 END:VEVENT
 BEGIN:VEVENT
 UID:b5966084122f16f58436093d77c6a559@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T073000
 DTEND;TZID=America/New_York:20261115T103000
 SUMMARY:Mysore Style Practice with Tim Feldmann
@@ -2127,7 +2127,7 @@ URL:https://www.thebostoncalendar.com/events/mysore-style-practice-with-tim-feld
 END:VEVENT
 BEGIN:VEVENT
 UID:0169ea69d37861d2c9498bf1e6b83ee5@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T083000
 DTEND;TZID=America/New_York:20261115T113000
 SUMMARY:Hyrox and Obstacles Race Course
@@ -2137,7 +2137,7 @@ URL:https://www.thebostoncalendar.com/events/hyrox-and-obstacles-race-course--91
 END:VEVENT
 BEGIN:VEVENT
 UID:a8ac2a182d90c28fdd8aaa6919f4439b@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T090000
 DTEND;TZID=America/New_York:20261115T120000
 SUMMARY:Rubies
@@ -2147,7 +2147,7 @@ URL:https://www.thebostoncalendar.com/events/rubies--77
 END:VEVENT
 BEGIN:VEVENT
 UID:7b2be3f1fa5192d30aaa96c6e5a9012b@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T090000
 DTEND;TZID=America/New_York:20261115T120000
 SUMMARY:Collecting Wonders: Tomorrow’s Discoveries
@@ -2157,7 +2157,7 @@ URL:https://www.thebostoncalendar.com/events/collecting-wonders-tomorrow-s-disco
 END:VEVENT
 BEGIN:VEVENT
 UID:04fc195f22131e9d8640d238a9048721@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T090000
 DTEND;TZID=America/New_York:20261115T120000
 SUMMARY:Skyline Sculpt with Lifetime Fitness at View Boston
@@ -2167,7 +2167,7 @@ URL:https://www.thebostoncalendar.com/events/skyline-sculpt-with-lifetime-fitnes
 END:VEVENT
 BEGIN:VEVENT
 UID:da87b1800ade38a7584bf6d32d36c247@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T090000
 DTEND;TZID=America/New_York:20261115T120000
 SUMMARY:Pop Quiz: 1776
@@ -2177,7 +2177,7 @@ URL:https://www.thebostoncalendar.com/events/pop-quiz-1776--172
 END:VEVENT
 BEGIN:VEVENT
 UID:3f943f87ef08c6ad30c206c68fbe69e9@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T093000
 DTEND;TZID=America/New_York:20261115T123000
 SUMMARY:Pats V. Lions @ The Anchor
@@ -2187,7 +2187,7 @@ URL:https://www.thebostoncalendar.com/events/pats-v-lions-the-anchor
 END:VEVENT
 BEGIN:VEVENT
 UID:3b9968a986c30e701693103c5012975c@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T093000
 DTEND;TZID=America/New_York:20261115T123000
 SUMMARY:Patriots Watch Party @ Eastern Edge Food Hall
@@ -2197,7 +2197,7 @@ URL:https://www.thebostoncalendar.com/events/patriots-watch-party-eastern-edge-f
 END:VEVENT
 BEGIN:VEVENT
 UID:531dc430a8a4ce3b690d074f1069bc63@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T100000
 DTEND;TZID=America/New_York:20261115T130000
 SUMMARY:$1 Oysters at 224 Boston
@@ -2207,7 +2207,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-at-224-boston--192
 END:VEVENT
 BEGIN:VEVENT
 UID:2b2c0697c2fd419f0e2b99b72a31b4ad@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T100000
 DTEND;TZID=America/New_York:20261115T130000
 SUMMARY:Seaport Smalls
@@ -2217,7 +2217,7 @@ URL:https://www.thebostoncalendar.com/events/seaport-smalls--160
 END:VEVENT
 BEGIN:VEVENT
 UID:d557ce7ccd857c55958bff1b136c503f@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T100000
 DTEND;TZID=America/New_York:20261115T130000
 SUMMARY:Visit Louisa May Alcott's Orchard House & Explore Historic Concord
@@ -2227,7 +2227,7 @@ URL:https://www.thebostoncalendar.com/events/visit-louisa-may-alcott-s-orchard-h
 END:VEVENT
 BEGIN:VEVENT
 UID:0cdccedd9d10ee647ff3f2de9f52bf94@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T100000
 DTEND;TZID=America/New_York:20261115T130000
 SUMMARY:The Growth of Trees: A Journey Through Time
@@ -2237,7 +2237,7 @@ URL:https://www.thebostoncalendar.com/events/the-growth-of-trees-a-journey-throu
 END:VEVENT
 BEGIN:VEVENT
 UID:70c97ceffa1a8e726ba9961e9a063690@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T100000
 DTEND;TZID=America/New_York:20261115T130000
 SUMMARY:Watercolor Workshop: Custom Pet Portraits
@@ -2247,7 +2247,7 @@ URL:https://www.thebostoncalendar.com/events/watercolor-workshop-custom-pet-port
 END:VEVENT
 BEGIN:VEVENT
 UID:df6364b4d2258bdc2016feb1a608285f@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261115T100000
 DTEND;TZID=America/New_York:20261115T130000
 SUMMARY:The Phoenix Boston - Crossfit
@@ -2257,7 +2257,7 @@ URL:https://www.thebostoncalendar.com/events/the-phoenix-boston-crossfit--44
 END:VEVENT
 BEGIN:VEVENT
 UID:1ee4863f588f99ca0644b28f73fb816f@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261116T170000
 DTEND;TZID=America/New_York:20261116T200000
 SUMMARY:$10 Martinis at Petula's
@@ -2267,7 +2267,7 @@ URL:https://www.thebostoncalendar.com/events/10-martinis-at-petula-s--120
 END:VEVENT
 BEGIN:VEVENT
 UID:6e47ec2a36feeb55018d1b8d7c0e0d4d@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261116T170000
 DTEND;TZID=America/New_York:20261116T200000
 SUMMARY:$1 Oysters in Downtown Boston
@@ -2277,7 +2277,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-in-downtown-boston--50
 END:VEVENT
 BEGIN:VEVENT
 UID:4f889bc1de615a532106639f25583653@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261116T170000
 DTEND;TZID=America/New_York:20261116T200000
 SUMMARY:Painted Burro Davis Square- Happy Hour Deals!
@@ -2287,7 +2287,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-davis-square-happy-ho
 END:VEVENT
 BEGIN:VEVENT
 UID:0b6407761987f313869315ce854d2b4d@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261116T170000
 DTEND;TZID=America/New_York:20261116T200000
 SUMMARY:Posto South End- Happy Hour Deals!
@@ -2297,7 +2297,7 @@ URL:https://www.thebostoncalendar.com/events/posto-south-end-happy-hour-deals--2
 END:VEVENT
 BEGIN:VEVENT
 UID:28967e71d3cccfe267e5952f467a0da4@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261116T170000
 DTEND;TZID=America/New_York:20261116T200000
 SUMMARY:$7 Martinis at Rebel's Guild
@@ -2307,7 +2307,7 @@ URL:https://www.thebostoncalendar.com/events/7-martinis-at-rebel-s-guild--69
 END:VEVENT
 BEGIN:VEVENT
 UID:cb016280427bb3de2426c335dab01394@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261116T173000
 DTEND;TZID=America/New_York:20261116T203000
 SUMMARY:Free Rock Climbing- Central Rock Cambridge
@@ -2317,7 +2317,7 @@ URL:https://www.thebostoncalendar.com/events/free-rock-climbing-central-rock-cam
 END:VEVENT
 BEGIN:VEVENT
 UID:02e22301a458c7a8005d3f4e5e8bfd17@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261116T173000
 DTEND;TZID=America/New_York:20261116T203000
 SUMMARY:Collage from the Collection
@@ -2327,7 +2327,7 @@ URL:https://www.thebostoncalendar.com/events/collage-from-the-collection--2
 END:VEVENT
 BEGIN:VEVENT
 UID:60c9d759d81d912840352f6595ab5c16@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261116T173000
 DTEND;TZID=America/New_York:20261116T203000
 SUMMARY:Jewelry 101
@@ -2337,7 +2337,7 @@ URL:https://www.thebostoncalendar.com/events/jewelry-101--10
 END:VEVENT
 BEGIN:VEVENT
 UID:b6176a78ac43f30e14973b00d2e608d3@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261116T180000
 DTEND;TZID=America/New_York:20261116T210000
 SUMMARY:Yoga for Creativity
@@ -2347,7 +2347,7 @@ URL:https://www.thebostoncalendar.com/events/yoga-for-creativity--3
 END:VEVENT
 BEGIN:VEVENT
 UID:988204a1ca6e281668a70071fe4112a0@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261116T180000
 DTEND;TZID=America/New_York:20261116T210000
 SUMMARY:Professional Networking for Event Planners and Professionals
@@ -2357,7 +2357,7 @@ URL:https://www.thebostoncalendar.com/events/professional-networking-for-event-p
 END:VEVENT
 BEGIN:VEVENT
 UID:708b70433c182885266df90bbac08c31@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261116T181000
 DTEND;TZID=America/New_York:20261116T211000
 SUMMARY:Beginner/Intermediate Adult Hip Hop Dance Class at Urbanity Dance!
@@ -2367,7 +2367,7 @@ URL:https://www.thebostoncalendar.com/events/beginner-intermediate-adult-hip-hop
 END:VEVENT
 BEGIN:VEVENT
 UID:b9413a2c62181d166861278300666d52@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261116T183000
 DTEND;TZID=America/New_York:20261116T213000
 SUMMARY:Major Mondays at the Liberty Hotel
@@ -2377,7 +2377,7 @@ URL:https://www.thebostoncalendar.com/events/major-mondays-at-the-liberty-hotel-
 END:VEVENT
 BEGIN:VEVENT
 UID:a225921d6d329bae42bf4da1712f09d6@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261116T183000
 DTEND;TZID=America/New_York:20261116T213000
 SUMMARY:Bonsai Bar
@@ -2387,7 +2387,7 @@ URL:https://www.thebostoncalendar.com/events/bonsai-bar--27
 END:VEVENT
 BEGIN:VEVENT
 UID:33c90d06e0dada93dc1e6254f0c234ce@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261116T183000
 DTEND;TZID=America/New_York:20261116T213000
 SUMMARY:Skip the Small Talk Night at Aeronaut
@@ -2397,7 +2397,7 @@ URL:https://www.thebostoncalendar.com/events/skip-the-small-talk-night-at-aerona
 END:VEVENT
 BEGIN:VEVENT
 UID:3074a3adbee140d021931f5d77fbffe7@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261116T183000
 DTEND;TZID=America/New_York:20261116T213000
 SUMMARY:Curated Cuisine: James Beard Award-winning chef Sean Sherman on reclaiming Indigenous foods and traditions
@@ -2407,7 +2407,7 @@ URL:https://www.thebostoncalendar.com/events/curated-cuisine-james-beard-award-w
 END:VEVENT
 BEGIN:VEVENT
 UID:d18bdd8cd826c771529ab412eefd710c@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261117T170000
 DTEND;TZID=America/New_York:20261117T200000
 SUMMARY:$1 Oysters at Vera's!
@@ -2417,7 +2417,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-at-vera-s--355
 END:VEVENT
 BEGIN:VEVENT
 UID:9e6f60155fbfd84f3e57aa9703759060@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261117T170000
 DTEND;TZID=America/New_York:20261117T200000
 SUMMARY:Painted Burro Davis Square- Happy Hour Deals!
@@ -2427,7 +2427,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-davis-square-happy-ho
 END:VEVENT
 BEGIN:VEVENT
 UID:65eebe937343bde38adabe6170dec064@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261117T170000
 DTEND;TZID=America/New_York:20261117T200000
 SUMMARY:Posto South End- Happy Hour Deals!
@@ -2437,7 +2437,7 @@ URL:https://www.thebostoncalendar.com/events/posto-south-end-happy-hour-deals--2
 END:VEVENT
 BEGIN:VEVENT
 UID:a4bf9a313fcbe69807bc6167ed26fae7@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261117T170000
 DTEND;TZID=America/New_York:20261117T200000
 SUMMARY:White Truffle Dinners at Troquet
@@ -2447,7 +2447,7 @@ URL:https://www.thebostoncalendar.com/events/white-truffle-dinners-at-troquet
 END:VEVENT
 BEGIN:VEVENT
 UID:2891697663203a9fdf821f5474aad1a8@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261117T173000
 DTEND;TZID=America/New_York:20261117T203000
 SUMMARY:Boston Debate Showcase: MIT Faculty Debate AI at Laugh Boston
@@ -2457,7 +2457,7 @@ URL:https://www.thebostoncalendar.com/events/boston-debate-showcase-mit-faculty-
 END:VEVENT
 BEGIN:VEVENT
 UID:973c2bdd6c566a68ab8cbded9d374a12@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261117T173000
 DTEND;TZID=America/New_York:20261117T203000
 SUMMARY:Free Rock Climbing- Central Rock Cambridge
@@ -2467,7 +2467,7 @@ URL:https://www.thebostoncalendar.com/events/free-rock-climbing-central-rock-cam
 END:VEVENT
 BEGIN:VEVENT
 UID:05e46ce34e9595281aea82a29e257fef@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261117T180000
 DTEND;TZID=America/New_York:20261117T210000
 SUMMARY:Trivia at High Street Place
@@ -2477,7 +2477,7 @@ URL:https://www.thebostoncalendar.com/events/trivia-at-high-street-place--197
 END:VEVENT
 BEGIN:VEVENT
 UID:8d7c87dd8d40941a057eca6c9e9d46c2@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261117T180000
 DTEND;TZID=America/New_York:20261117T210000
 SUMMARY:Geeks Who Drink Trivia Night at Sam Adams Downtown Boston Taproom
@@ -2487,7 +2487,7 @@ URL:https://www.thebostoncalendar.com/events/geeks-who-drink-trivia-night-at-sam
 END:VEVENT
 BEGIN:VEVENT
 UID:11e299bc25c478069a987c7abc28e50e@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261117T180000
 DTEND;TZID=America/New_York:20261117T210000
 SUMMARY:An Icon of One's Own
@@ -2497,7 +2497,7 @@ URL:https://www.thebostoncalendar.com/events/an-icon-of-one-s-own--9
 END:VEVENT
 BEGIN:VEVENT
 UID:9233ad17d67da2079c8a6b84170f1423@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261117T180000
 DTEND;TZID=America/New_York:20261117T210000
 SUMMARY:Test Print Tuesday
@@ -2507,7 +2507,7 @@ URL:https://www.thebostoncalendar.com/events/test-print-tuesday--28
 END:VEVENT
 BEGIN:VEVENT
 UID:357e96b1016d7fd9dc31305b3316ae33@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261117T181000
 DTEND;TZID=America/New_York:20261117T211000
 SUMMARY:Beginner Ballet Classes for Adults!
@@ -2517,7 +2517,7 @@ URL:https://www.thebostoncalendar.com/events/beginner-ballet-classes-for-adults-
 END:VEVENT
 BEGIN:VEVENT
 UID:4cb412e8975fca3040d6da2f25c12c4f@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261117T183000
 DTEND;TZID=America/New_York:20261117T213000
 SUMMARY:Latin Dance Workout Nights
@@ -2527,7 +2527,7 @@ URL:https://www.thebostoncalendar.com/events/latin-dance-workout-nights--5
 END:VEVENT
 BEGIN:VEVENT
 UID:a02d8cad3e016889de27bca92adbd537@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261117T183000
 DTEND;TZID=America/New_York:20261117T213000
 SUMMARY:Amorphis & Insomnium - Boston, MA - North American Tour 2026
@@ -2537,7 +2537,7 @@ URL:https://www.thebostoncalendar.com/events/amorphis-insomnium-boston-ma-north-
 END:VEVENT
 BEGIN:VEVENT
 UID:61fac1627f867bbfcde398aaab5f6f5f@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261117T183000
 DTEND;TZID=America/New_York:20261117T213000
 SUMMARY:Pamela Enders & Jinny Sagorin - MORE Magic To Do
@@ -2547,7 +2547,7 @@ URL:https://www.thebostoncalendar.com/events/pamela-enders-jinny-sagorin-more-ma
 END:VEVENT
 BEGIN:VEVENT
 UID:955ad2ca542aaf579cb966f557c2260b@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261117T183000
 DTEND;TZID=America/New_York:20261117T213000
 SUMMARY:Song Lab: A Supportive Event for Songwriters
@@ -2557,7 +2557,7 @@ URL:https://www.thebostoncalendar.com/events/song-lab-a-supportive-event-for-son
 END:VEVENT
 BEGIN:VEVENT
 UID:ba1f4574d5c2675fc71e4864b8779f04@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261118T170000
 DTEND;TZID=America/New_York:20261118T200000
 SUMMARY:Martini Night
@@ -2567,7 +2567,7 @@ URL:https://www.thebostoncalendar.com/events/martini-night--28
 END:VEVENT
 BEGIN:VEVENT
 UID:f078e69e64e7e72dac26d5c0a758911a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261118T170000
 DTEND;TZID=America/New_York:20261118T200000
 SUMMARY:Wing Wednesdays
@@ -2577,7 +2577,7 @@ URL:https://www.thebostoncalendar.com/events/wing-wednesdays--90
 END:VEVENT
 BEGIN:VEVENT
 UID:274734491d4e53e39203a1ffcaa663e1@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261118T170000
 DTEND;TZID=America/New_York:20261118T200000
 SUMMARY:Painted Burro Davis Square- Happy Hour Deals!
@@ -2587,7 +2587,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-davis-square-happy-ho
 END:VEVENT
 BEGIN:VEVENT
 UID:81f884e3f9590cb39262f03299562ecb@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261118T170000
 DTEND;TZID=America/New_York:20261118T200000
 SUMMARY:Posto South End- Half-priced Appetizers
@@ -2597,7 +2597,7 @@ URL:https://www.thebostoncalendar.com/events/posto-south-end-happy-hour-deals--1
 END:VEVENT
 BEGIN:VEVENT
 UID:a98c6da492bb54752d2dbd7e56885671@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261118T170000
 DTEND;TZID=America/New_York:20261118T200000
 SUMMARY:Wednesday Night Wine Flights
@@ -2607,7 +2607,7 @@ URL:https://www.thebostoncalendar.com/events/wednesday-night-wine-flights--37
 END:VEVENT
 BEGIN:VEVENT
 UID:25136057bc6f4ac3c4df164db60729a0@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261118T170000
 DTEND;TZID=America/New_York:20261118T200000
 SUMMARY:$1 Oysters at Vera's!
@@ -2617,7 +2617,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-at-vera-s--409
 END:VEVENT
 BEGIN:VEVENT
 UID:aab1d259d2625015ab5e6485b5d3a5db@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261118T170000
 DTEND;TZID=America/New_York:20261118T200000
 SUMMARY:Zero Waste Wednesday
@@ -2627,7 +2627,7 @@ URL:https://www.thebostoncalendar.com/events/zero-waste-wednesday--57
 END:VEVENT
 BEGIN:VEVENT
 UID:8478083b212011dd08727b083452e13d@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261118T170000
 DTEND;TZID=America/New_York:20261118T200000
 SUMMARY:$25 Girl Dinner at Waverly Charlestown
@@ -2637,7 +2637,7 @@ URL:https://www.thebostoncalendar.com/events/25-girl-dinner-at-waverly-charlesto
 END:VEVENT
 BEGIN:VEVENT
 UID:b04b4cbbc43403c1ca743b9e04f97f94@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261118T173000
 DTEND;TZID=America/New_York:20261118T203000
 SUMMARY:Free Rock Climbing- Central Rock Cambridge
@@ -2647,7 +2647,7 @@ URL:https://www.thebostoncalendar.com/events/free-rock-climbing-central-rock-cam
 END:VEVENT
 BEGIN:VEVENT
 UID:ba702d88ad0fa27b929c531b7ec723b0@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261118T180000
 DTEND;TZID=America/New_York:20261118T210000
 SUMMARY:Free Screen Print Shop Night
@@ -2657,7 +2657,7 @@ URL:https://www.thebostoncalendar.com/events/free-screen-print-shop-night--7
 END:VEVENT
 BEGIN:VEVENT
 UID:4e7c0350eefbad22768fe48654095a07@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261118T180000
 DTEND;TZID=America/New_York:20261118T210000
 SUMMARY:Free Open Mic and Karaoke
@@ -2667,7 +2667,7 @@ URL:https://www.thebostoncalendar.com/events/free-open-mic-and-karaoke--104
 END:VEVENT
 BEGIN:VEVENT
 UID:fa3412aee443059c987ae5854f3e5646@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261118T180000
 DTEND;TZID=America/New_York:20261118T210000
 SUMMARY:Trivia at Michael's Harborside
@@ -2677,7 +2677,7 @@ URL:https://www.thebostoncalendar.com/events/trivia-at-michael-s-harborside--12
 END:VEVENT
 BEGIN:VEVENT
 UID:5a48ce053e35bfb6a9f8a48b2d556386@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261118T180000
 DTEND;TZID=America/New_York:20261118T210000
 SUMMARY:Trivia at City Tap House
@@ -2687,7 +2687,7 @@ URL:https://www.thebostoncalendar.com/events/trivia-at-city-tap-house--123
 END:VEVENT
 BEGIN:VEVENT
 UID:6971baeb81436ccdf7a3a35e91d972f8@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261118T180000
 DTEND;TZID=America/New_York:20261118T210000
 SUMMARY:Newbury Yarns Knit Circle
@@ -2697,7 +2697,7 @@ URL:https://www.thebostoncalendar.com/events/newbury-yarns-knit-circle--45
 END:VEVENT
 BEGIN:VEVENT
 UID:1e8bb26ec3d79b5fcb6d18438b212c64@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261118T180000
 DTEND;TZID=America/New_York:20261118T210000
 SUMMARY:Author Panel: What Happens When AI, Science, and Fiction Are in Dialogue?
@@ -2707,7 +2707,7 @@ URL:https://www.thebostoncalendar.com/events/author-panel-what-happens-when-ai-s
 END:VEVENT
 BEGIN:VEVENT
 UID:bf154c03501408025e9fecbaea4ace6a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261119T170000
 DTEND;TZID=America/New_York:20261119T200000
 SUMMARY:Painted Burro Davis Square- Happy Hour Deals!
@@ -2717,7 +2717,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-somerville-weekly-hap
 END:VEVENT
 BEGIN:VEVENT
 UID:512960a329493591d8eb5c78f6596db8@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261119T170000
 DTEND;TZID=America/New_York:20261119T200000
 SUMMARY:The Phoenix Boston - Rock Climbing
@@ -2727,7 +2727,7 @@ URL:https://www.thebostoncalendar.com/events/the-phoenix-boston-rock-climbing--6
 END:VEVENT
 BEGIN:VEVENT
 UID:e972955496416cd58982517916a39303@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261119T170000
 DTEND;TZID=America/New_York:20261119T200000
 SUMMARY:Posto South End- Happy Hour Deals!
@@ -2737,7 +2737,7 @@ URL:https://www.thebostoncalendar.com/events/posto-south-end-happy-hour-deals--1
 END:VEVENT
 BEGIN:VEVENT
 UID:93f2c026a9523ea0eb0eeab87fb3bd04@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261119T170000
 DTEND;TZID=America/New_York:20261119T200000
 SUMMARY:$1 Oysters at Vera's!
@@ -2747,7 +2747,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-at-vera-s--191
 END:VEVENT
 BEGIN:VEVENT
 UID:aee7b354b7aea255c3398bc216fb68b3@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261119T170000
 DTEND;TZID=America/New_York:20261119T200000
 SUMMARY:Nouveau Day!
@@ -2757,7 +2757,7 @@ URL:https://www.thebostoncalendar.com/events/nouveau-day
 END:VEVENT
 BEGIN:VEVENT
 UID:48d6e0295a705849803ebed26edf1797@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261119T170000
 DTEND;TZID=America/New_York:20261119T200000
 SUMMARY:Free Thursdays at the Isabella Stewart Gardner Museum
@@ -2767,7 +2767,7 @@ URL:https://www.thebostoncalendar.com/events/free-thursdays-at-the-isabella-stew
 END:VEVENT
 BEGIN:VEVENT
 UID:25d86abdbff0213bdffd649862b5832a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261119T170000
 DTEND;TZID=America/New_York:20261119T200000
 SUMMARY:$5 Third Thursdays at the Museum of Fine Arts
@@ -2777,7 +2777,7 @@ URL:https://www.thebostoncalendar.com/events/5-third-thursdays-at-the-museum-of-
 END:VEVENT
 BEGIN:VEVENT
 UID:ab2e9ae5049c4430ab0bece2dbe63080@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261119T173000
 DTEND;TZID=America/New_York:20261119T203000
 SUMMARY:Harvard Square French Fry & Pairings Food Tour
@@ -2787,7 +2787,7 @@ URL:https://www.thebostoncalendar.com/events/harvard-square-french-fry-pairings-
 END:VEVENT
 BEGIN:VEVENT
 UID:ada1be231976beeae05106d816b702d5@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261119T173000
 DTEND;TZID=America/New_York:20261119T203000
 SUMMARY:Free Rock Climbing- Central Rock Cambridge
@@ -2797,7 +2797,7 @@ URL:https://www.thebostoncalendar.com/events/learn-to-rock-climb--25
 END:VEVENT
 BEGIN:VEVENT
 UID:feb3bbd25d364fcad46fa411aae72943@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261119T180000
 DTEND;TZID=America/New_York:20261119T210000
 SUMMARY:F*ckup Nights BOSTON // 1st Birthday Edition
@@ -2807,7 +2807,7 @@ URL:https://www.thebostoncalendar.com/events/f-ckup-nights-boston-vol-vii
 END:VEVENT
 BEGIN:VEVENT
 UID:3118e0a4f83512cfc913ba291b3efe78@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261119T180000
 DTEND;TZID=America/New_York:20261119T210000
 SUMMARY:Holiday Breakfast of Champions: Adult Cooking Class
@@ -2817,7 +2817,7 @@ URL:https://www.thebostoncalendar.com/events/holiday-breakfast-of-champions-adul
 END:VEVENT
 BEGIN:VEVENT
 UID:6b49f5709087c695ff19e72b267759bb@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261119T180000
 DTEND;TZID=America/New_York:20261119T210000
 SUMMARY:Botanical Mixology: Thanksgiving Cocktails at New England Botanic Garden
@@ -2827,7 +2827,7 @@ URL:https://www.thebostoncalendar.com/events/botanical-mixology-thanksgiving-coc
 END:VEVENT
 BEGIN:VEVENT
 UID:dcbfbb9c243f37e8f25c6f74056629d4@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261119T180000
 DTEND;TZID=America/New_York:20261119T210000
 SUMMARY:Trivia at Sam Adams Boston Brewery
@@ -2837,7 +2837,7 @@ URL:https://www.thebostoncalendar.com/events/trivia-at-sam-adams-boston-brewery-
 END:VEVENT
 BEGIN:VEVENT
 UID:185f9a00ea5bf85c781a7f8e0eff3bbf@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261119T180000
 DTEND;TZID=America/New_York:20261119T210000
 SUMMARY:Thursday Trivia at Brownstone!
@@ -2847,7 +2847,7 @@ URL:https://www.thebostoncalendar.com/events/thursday-trivia-at-brownstone--51
 END:VEVENT
 BEGIN:VEVENT
 UID:432143517eae8e9dca5a09a995ebe5df@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261119T180000
 DTEND;TZID=America/New_York:20261119T210000
 SUMMARY:Secure the Bag Cornhole Mixer - Club Volo
@@ -2857,7 +2857,7 @@ URL:https://www.thebostoncalendar.com/events/secure-the-bag-cornhole-mixer-club-
 END:VEVENT
 BEGIN:VEVENT
 UID:1c5e5924a748022b8e746128c6f35db4@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261120T170000
 DTEND;TZID=America/New_York:20261120T200000
 SUMMARY:$1 Oysters at Vera's!
@@ -2867,7 +2867,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-at-vera-s--246
 END:VEVENT
 BEGIN:VEVENT
 UID:faf2a27c1fbc4b255f4275131f81b675@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261120T170000
 DTEND;TZID=America/New_York:20261120T200000
 SUMMARY:Posto South End- Happy Hour Deals!
@@ -2877,7 +2877,7 @@ URL:https://www.thebostoncalendar.com/events/posto-south-end-happy-hour-deals--9
 END:VEVENT
 BEGIN:VEVENT
 UID:6907e3e0604daeb37ed7e779bfd4a534@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261120T170000
 DTEND;TZID=America/New_York:20261120T200000
 SUMMARY:Tufts Third Day Gospel Choir
@@ -2887,7 +2887,7 @@ URL:https://www.thebostoncalendar.com/events/tufts-third-day-gospel-choir
 END:VEVENT
 BEGIN:VEVENT
 UID:a922ce8989846fe88b2c06c488aa04e1@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261120T173000
 DTEND;TZID=America/New_York:20261120T203000
 SUMMARY:Beginning Jewelry: Earrings *In-Person* *NEW*
@@ -2897,7 +2897,7 @@ URL:https://www.thebostoncalendar.com/events/beginning-jewelry-earrings-in-perso
 END:VEVENT
 BEGIN:VEVENT
 UID:113a9c4851b41ac777ddf6f05f5d773b@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261120T173000
 DTEND;TZID=America/New_York:20261120T203000
 SUMMARY:Free Rock Climbing- Central Rock Cambridge
@@ -2907,7 +2907,7 @@ URL:https://www.thebostoncalendar.com/events/free-rock-climbing-central-rock-cam
 END:VEVENT
 BEGIN:VEVENT
 UID:b76df1ff420bede2ac97b25d9a936d02@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261120T180000
 DTEND;TZID=America/New_York:20261120T210000
 SUMMARY:The Great Italian Red Wines *In-Person* *NEW*
@@ -2917,7 +2917,7 @@ URL:https://www.thebostoncalendar.com/events/the-great-italian-red-wines-in-pers
 END:VEVENT
 BEGIN:VEVENT
 UID:42817c6ba50c5d14693a66c488bbaabc@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261120T183000
 DTEND;TZID=America/New_York:20261120T213000
 SUMMARY:Hannibal Buress Live!
@@ -2927,7 +2927,7 @@ URL:https://www.thebostoncalendar.com/events/hannibal-buress-live
 END:VEVENT
 BEGIN:VEVENT
 UID:eb630935965910a282638bcb97026e75@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261120T183000
 DTEND;TZID=America/New_York:20261120T213000
 SUMMARY:Pottery Workshop | Nightlight | Wheel Throwing Experience
@@ -2937,7 +2937,7 @@ URL:https://www.thebostoncalendar.com/events/pottery-workshop-nightlight-wheel-t
 END:VEVENT
 BEGIN:VEVENT
 UID:beaaac9744d72419e1cadfdd98f69c64@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261120T183000
 DTEND;TZID=America/New_York:20261120T213000
 SUMMARY:Smiling Snowman Paint Party
@@ -2947,7 +2947,7 @@ URL:https://www.thebostoncalendar.com/events/smiling-snowman-paint-party
 END:VEVENT
 BEGIN:VEVENT
 UID:4744a477ecfe3e95aec2bc3fbdc89f5c@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261120T190000
 DTEND;TZID=America/New_York:20261120T220000
 SUMMARY:Friday Karaoke at Lily's Boston
@@ -2957,7 +2957,7 @@ URL:https://www.thebostoncalendar.com/events/friday-karaoke-at-lily-s-boston--33
 END:VEVENT
 BEGIN:VEVENT
 UID:14db975b15fbdee1561bd2312f05d6fc@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261120T190000
 DTEND;TZID=America/New_York:20261120T220000
 SUMMARY:McCarthys Cambridge Irish Session
@@ -2967,7 +2967,7 @@ URL:https://www.thebostoncalendar.com/events/mccarthys-cambridge-irish-session--
 END:VEVENT
 BEGIN:VEVENT
 UID:c93f0d132e00467b6e8c74f9e5ea4bc8@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261120T190000
 DTEND;TZID=America/New_York:20261120T220000
 SUMMARY:Friday Night Trivia
@@ -2977,7 +2977,7 @@ URL:https://www.thebostoncalendar.com/events/friday-night-trivia--129
 END:VEVENT
 BEGIN:VEVENT
 UID:9958fc69fe4be2e0b64615461529b7bf@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261120T190000
 DTEND;TZID=America/New_York:20261120T220000
 SUMMARY:Hideout Comedy
@@ -2987,7 +2987,7 @@ URL:https://www.thebostoncalendar.com/events/hideout-comedy--460
 END:VEVENT
 BEGIN:VEVENT
 UID:b2b2dddd0fa3585ad5cf45de634fb9f7@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261120T190000
 DTEND;TZID=America/New_York:20261120T220000
 SUMMARY:Murder Mystery Co. Dinner Theater Show at Exchange Street Bistro
@@ -2997,7 +2997,7 @@ URL:https://www.thebostoncalendar.com/events/murder-mystery-co-dinner-theater-sh
 END:VEVENT
 BEGIN:VEVENT
 UID:105a1faffa49aa34c8354ac61138eb57@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261120T190000
 DTEND;TZID=America/New_York:20261120T220000
 SUMMARY:Transgender Day of Remembrance Vigil
@@ -3007,7 +3007,7 @@ URL:https://www.thebostoncalendar.com/events/transgender-day-of-remembrance-vigi
 END:VEVENT
 BEGIN:VEVENT
 UID:46f8dcc6835220b13fff0035148eecb0@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T000000
 DTEND;TZID=America/New_York:20261121T030000
 SUMMARY:Volunteer Opportunities Everyday!
@@ -3017,7 +3017,7 @@ URL:https://www.thebostoncalendar.com/events/volunteer-opportunities-everyday--4
 END:VEVENT
 BEGIN:VEVENT
 UID:8fb07beea6a350e4cb972ea853af94d4@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T050000
 DTEND;TZID=America/New_York:20261121T080000
 SUMMARY:$10 Commuter Rail Weekends and Holidays
@@ -3027,7 +3027,7 @@ URL:https://www.thebostoncalendar.com/events/10-commuter-rail-weekends-and-holid
 END:VEVENT
 BEGIN:VEVENT
 UID:b579bb5e06500fef6c44dc89f6965e77@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T080000
 DTEND;TZID=America/New_York:20261121T110000
 SUMMARY:Skip the Traffic—All-Inclusive Day Trips from Boston's North Station
@@ -3037,7 +3037,7 @@ URL:https://www.thebostoncalendar.com/events/easy-all-inclusive-day-trips-and-ad
 END:VEVENT
 BEGIN:VEVENT
 UID:213a4822ca6edd49b8a61e64f434f676@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T080000
 DTEND;TZID=America/New_York:20261121T110000
 SUMMARY:Day Trip to Plimoth Patuxet Museums & The Mayflower II
@@ -3047,7 +3047,7 @@ URL:https://www.thebostoncalendar.com/events/day-trip-to-plimoth-patuxet-museums
 END:VEVENT
 BEGIN:VEVENT
 UID:407405b42ec877a5031845fede77e361@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T080000
 DTEND;TZID=America/New_York:20261121T110000
 SUMMARY:All-Inclusive Car-Free  Day Trips & Adventures from Boston
@@ -3057,7 +3057,7 @@ URL:https://www.thebostoncalendar.com/events/all-inclusive-day-trips-adventures-
 END:VEVENT
 BEGIN:VEVENT
 UID:3558e742541c9adaff1cd3a135b604fc@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T080000
 DTEND;TZID=America/New_York:20261121T110000
 SUMMARY:Easy All-Inclusive Day Trips and Adventures  Departing from North Station
@@ -3067,7 +3067,7 @@ URL:https://www.thebostoncalendar.com/events/easy-all-inclusive-day-trips-and-ad
 END:VEVENT
 BEGIN:VEVENT
 UID:d29ccaea30a31e6deb0ceae46320581b@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T120000
 SUMMARY:Deck the Halls at Hammond Castle Museum
@@ -3077,7 +3077,7 @@ URL:https://www.thebostoncalendar.com/events/deck-the-halls-at-hammond-castle-mu
 END:VEVENT
 BEGIN:VEVENT
 UID:0c556cd33fff2833f718f3151907393c@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T120000
 SUMMARY:Rubies
@@ -3087,7 +3087,7 @@ URL:https://www.thebostoncalendar.com/events/rubies--28
 END:VEVENT
 BEGIN:VEVENT
 UID:fd7cf6d133e20d0d8bc00b98a39ad4bc@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T120000
 SUMMARY:Camp Harbor View 5k Road Race
@@ -3097,7 +3097,7 @@ URL:https://www.thebostoncalendar.com/events/camp-harbor-view-5k-road-race
 END:VEVENT
 BEGIN:VEVENT
 UID:298b6d14b4d9481ec8d81fb7ed5dd4e1@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T120000
 SUMMARY:Collecting Wonders: Tomorrow’s Discoveries
@@ -3107,7 +3107,7 @@ URL:https://www.thebostoncalendar.com/events/collecting-wonders-tomorrow-s-disco
 END:VEVENT
 BEGIN:VEVENT
 UID:e7dc2083c6938600e6ae4af6cbce09dc@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T120000
 SUMMARY:42nd Annual Swedish Yule Fair
@@ -3117,7 +3117,7 @@ URL:https://www.thebostoncalendar.com/events/42nd-annual-swedish-yule-fair
 END:VEVENT
 BEGIN:VEVENT
 UID:979c405e6a6799f33899ea1a05084a17@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T120000
 SUMMARY:HGF Skeletal Dysplasia Family Day - Boston, MA, USA
@@ -3127,7 +3127,7 @@ URL:https://www.thebostoncalendar.com/events/hgf-skeletal-dysplasia-family-day-b
 END:VEVENT
 BEGIN:VEVENT
 UID:f0d64fb7eacccfd2632a6482edd9f884@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T120000
 SUMMARY:Pop Quiz: 1776
@@ -3137,7 +3137,7 @@ URL:https://www.thebostoncalendar.com/events/pop-quiz-1776--122
 END:VEVENT
 BEGIN:VEVENT
 UID:10a63943798a606deac4ffdafbac94c3@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T120000
 SUMMARY:Realistic Painting in Watercolor Class at Marblehead Arts Association
@@ -3147,7 +3147,7 @@ URL:https://www.thebostoncalendar.com/events/realistic-painting-in-watercolor-cl
 END:VEVENT
 BEGIN:VEVENT
 UID:e79f8a2dbfaafbd689749bd545861a4a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261121T093000
 DTEND;TZID=America/New_York:20261121T123000
 SUMMARY:Puppet Showplace Theater Presents: NEST: A Multilingual Story for Ages 1 – 6 by Happy Theater
@@ -3157,7 +3157,7 @@ URL:https://www.thebostoncalendar.com/events/puppet-showplace-theater-presents-n
 END:VEVENT
 BEGIN:VEVENT
 UID:8dc8ee6e5f43ac979eb9f68b14e8186a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T000000
 DTEND;TZID=America/New_York:20261122T030000
 SUMMARY:Volunteer Opportunities Everyday!
@@ -3167,7 +3167,7 @@ URL:https://www.thebostoncalendar.com/events/volunteer-opportunities-everyday--5
 END:VEVENT
 BEGIN:VEVENT
 UID:4ad136465fe9f1ea776316c2ef7b88aa@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T083000
 DTEND;TZID=America/New_York:20261122T113000
 SUMMARY:Hyrox and Obstacles Race Course
@@ -3177,7 +3177,7 @@ URL:https://www.thebostoncalendar.com/events/hyrox-and-obstacles-race-course--92
 END:VEVENT
 BEGIN:VEVENT
 UID:4921c17ba962f0e4abafd29f9e5e9198@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T090000
 DTEND;TZID=America/New_York:20261122T120000
 SUMMARY:Deck the Halls at Hammond Castle Museum
@@ -3187,7 +3187,7 @@ URL:https://www.thebostoncalendar.com/events/deck-the-halls-at-hammond-castle-mu
 END:VEVENT
 BEGIN:VEVENT
 UID:6ebc888afeded2c626d13cddddd05c10@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T090000
 DTEND;TZID=America/New_York:20261122T120000
 SUMMARY:Collecting Wonders: Tomorrow’s Discoveries
@@ -3197,7 +3197,7 @@ URL:https://www.thebostoncalendar.com/events/collecting-wonders-tomorrow-s-disco
 END:VEVENT
 BEGIN:VEVENT
 UID:13dd1f57460920284c9f4f8b9b55cc79@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T090000
 DTEND;TZID=America/New_York:20261122T120000
 SUMMARY:Rubies
@@ -3207,7 +3207,7 @@ URL:https://www.thebostoncalendar.com/events/rubies--78
 END:VEVENT
 BEGIN:VEVENT
 UID:d05579c4b97a7a9b5a1ebf2a18a32258@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T090000
 DTEND;TZID=America/New_York:20261122T120000
 SUMMARY:Pop Quiz: 1776
@@ -3217,7 +3217,7 @@ URL:https://www.thebostoncalendar.com/events/pop-quiz-1776--173
 END:VEVENT
 BEGIN:VEVENT
 UID:f375567bbb39c5f8e10bb886f37fbc1a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T100000
 DTEND;TZID=America/New_York:20261122T130000
 SUMMARY:Holiday Markets
@@ -3227,7 +3227,7 @@ URL:https://www.thebostoncalendar.com/events/holiday-markets
 END:VEVENT
 BEGIN:VEVENT
 UID:209e83340ef160a796c6f9519768d6a5@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T100000
 DTEND;TZID=America/New_York:20261122T130000
 SUMMARY:$1 Oysters at 224 Boston
@@ -3237,7 +3237,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-at-224-boston--193
 END:VEVENT
 BEGIN:VEVENT
 UID:e4979783e64ac9c794505c19e898c6ef@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T100000
 DTEND;TZID=America/New_York:20261122T130000
 SUMMARY:The Phoenix Boston - Crossfit
@@ -3247,7 +3247,7 @@ URL:https://www.thebostoncalendar.com/events/the-phoenix-boston-crossfit--45
 END:VEVENT
 BEGIN:VEVENT
 UID:281f16036bc92fc9385e9277b922ee3a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T100000
 DTEND;TZID=America/New_York:20261122T130000
 SUMMARY:Seaport Smalls
@@ -3257,7 +3257,7 @@ URL:https://www.thebostoncalendar.com/events/seaport-smalls--161
 END:VEVENT
 BEGIN:VEVENT
 UID:e3f54a155f38276e237637409ef82340@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T100000
 DTEND;TZID=America/New_York:20261122T130000
 SUMMARY:Intensive Drawing Boot Camp *In-Person*
@@ -3267,7 +3267,7 @@ URL:https://www.thebostoncalendar.com/events/intensive-drawing-boot-camp-in-pers
 END:VEVENT
 BEGIN:VEVENT
 UID:7ab1d1781282be4b5b8e2972e7efd03d@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T100000
 DTEND;TZID=America/New_York:20261122T130000
 SUMMARY:Open Studio Metalsmithing and Jewelry *In-Person*
@@ -3277,7 +3277,7 @@ URL:https://www.thebostoncalendar.com/events/open-studio-metalsmithing-and-jewel
 END:VEVENT
 BEGIN:VEVENT
 UID:fd81cc51c28dd95cb8b42ec5091bc54a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T103000
 DTEND;TZID=America/New_York:20261122T133000
 SUMMARY:Thanksgiving Botanical Centerpiece at New England Botanic Garden
@@ -3287,7 +3287,7 @@ URL:https://www.thebostoncalendar.com/events/thanksgiving-botanical-centerpiece-
 END:VEVENT
 BEGIN:VEVENT
 UID:6af0e5a78e20b3b3402a04d3990f3c98@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T110000
 DTEND;TZID=America/New_York:20261122T140000
 SUMMARY:SoWa Vintage Market
@@ -3297,7 +3297,7 @@ URL:https://www.thebostoncalendar.com/events/sowa-vintage-market--405
 END:VEVENT
 BEGIN:VEVENT
 UID:3249cbb6c52a3a8778056ac8e3410deb@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261122T110000
 DTEND;TZID=America/New_York:20261122T140000
 SUMMARY:Mark Roderick - Sunday with the Songbook
@@ -3307,7 +3307,7 @@ URL:https://www.thebostoncalendar.com/events/mark-roderick-sunday-with-the-songb
 END:VEVENT
 BEGIN:VEVENT
 UID:d046d8a3b7718fe5afe483392d243863@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261123T170000
 DTEND;TZID=America/New_York:20261123T200000
 SUMMARY:$10 Martinis at Petula's
@@ -3317,7 +3317,7 @@ URL:https://www.thebostoncalendar.com/events/10-martinis-at-petula-s--121
 END:VEVENT
 BEGIN:VEVENT
 UID:4f83daac8a9b79b77be89d5c27eac473@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261123T170000
 DTEND;TZID=America/New_York:20261123T200000
 SUMMARY:$1 Oysters in Downtown Boston
@@ -3327,7 +3327,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-in-downtown-boston--51
 END:VEVENT
 BEGIN:VEVENT
 UID:1d0b1fcff8f17767efaf7025d73e3e53@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261123T170000
 DTEND;TZID=America/New_York:20261123T200000
 SUMMARY:Painted Burro Davis Square- Happy Hour Deals!
@@ -3337,7 +3337,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-davis-square-happy-ho
 END:VEVENT
 BEGIN:VEVENT
 UID:cf716136a3d79506fa45c2ed0bb935c3@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261123T170000
 DTEND;TZID=America/New_York:20261123T200000
 SUMMARY:Posto South End- Happy Hour Deals!
@@ -3347,7 +3347,7 @@ URL:https://www.thebostoncalendar.com/events/posto-south-end-happy-hour-deals--2
 END:VEVENT
 BEGIN:VEVENT
 UID:b3d2a3a4367c554406cece4d4f62e8c6@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261123T170000
 DTEND;TZID=America/New_York:20261123T200000
 SUMMARY:$7 Martinis at Rebel's Guild
@@ -3357,7 +3357,7 @@ URL:https://www.thebostoncalendar.com/events/7-martinis-at-rebel-s-guild--70
 END:VEVENT
 BEGIN:VEVENT
 UID:dd74a5bf7e7570fe7f59e64a00bc9971@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261123T173000
 DTEND;TZID=America/New_York:20261123T203000
 SUMMARY:Free Rock Climbing- Central Rock Cambridge
@@ -3367,7 +3367,7 @@ URL:https://www.thebostoncalendar.com/events/free-rock-climbing-central-rock-cam
 END:VEVENT
 BEGIN:VEVENT
 UID:1c8976dc3a67067161cf2b83c0d022e7@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261123T180000
 DTEND;TZID=America/New_York:20261123T210000
 SUMMARY:Streetwise: 2nd Annual Transportation Trivia
@@ -3377,7 +3377,7 @@ URL:https://www.thebostoncalendar.com/events/streetwise-2nd-annual-transportatio
 END:VEVENT
 BEGIN:VEVENT
 UID:7805b4a3a79e34797f8650e69bed6129@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261123T180000
 DTEND;TZID=America/New_York:20261123T210000
 SUMMARY:Gilmore Girls Trivia
@@ -3387,7 +3387,7 @@ URL:https://www.thebostoncalendar.com/events/gilmore-girls-trivia--6
 END:VEVENT
 BEGIN:VEVENT
 UID:f0b5d63723bc878809f1e84841a66d77@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261123T180000
 DTEND;TZID=America/New_York:20261123T210000
 SUMMARY:Yoga for Creativity
@@ -3397,7 +3397,7 @@ URL:https://www.thebostoncalendar.com/events/yoga-for-creativity--4
 END:VEVENT
 BEGIN:VEVENT
 UID:7561b860edfc349120e96103b3032b8b@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261123T181000
 DTEND;TZID=America/New_York:20261123T211000
 SUMMARY:Beginner/Intermediate Adult Hip Hop Dance Class at Urbanity Dance!
@@ -3407,7 +3407,7 @@ URL:https://www.thebostoncalendar.com/events/beginner-intermediate-adult-hip-hop
 END:VEVENT
 BEGIN:VEVENT
 UID:530f1e326f9fc9a75f10cb67a51b3dd8@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261123T183000
 DTEND;TZID=America/New_York:20261123T213000
 SUMMARY:Doja Cat - Tour Ma Vie World Tour
@@ -3417,7 +3417,7 @@ URL:https://www.thebostoncalendar.com/events/doja-cat-tour-ma-vie-world-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:22cf4f75161f89653a38d7896edf50e1@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261123T183000
 DTEND;TZID=America/New_York:20261123T213000
 SUMMARY:Major Mondays at the Liberty Hotel
@@ -3427,7 +3427,7 @@ URL:https://www.thebostoncalendar.com/events/major-mondays-at-the-liberty-hotel-
 END:VEVENT
 BEGIN:VEVENT
 UID:03b4d76a9ba68ca1cd1d67152b3e54bd@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261123T183000
 DTEND;TZID=America/New_York:20261123T213000
 SUMMARY:Figure Drawing
@@ -3437,7 +3437,7 @@ URL:https://www.thebostoncalendar.com/events/figure-drawing--59
 END:VEVENT
 BEGIN:VEVENT
 UID:92dc5b2db32fbe1f872a45887edaf988@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261123T190000
 DTEND;TZID=America/New_York:20261123T220000
 SUMMARY:McCarthys Cambridge Irish Session
@@ -3447,7 +3447,7 @@ URL:https://www.thebostoncalendar.com/events/mccarthys-cambridge-irish-session--
 END:VEVENT
 BEGIN:VEVENT
 UID:06466f2963d9a8e2bc223817c9d30e4a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261123T190000
 DTEND;TZID=America/New_York:20261123T220000
 SUMMARY:Trivia at The Haven
@@ -3457,7 +3457,7 @@ URL:https://www.thebostoncalendar.com/events/trivia-at-the-haven--124
 END:VEVENT
 BEGIN:VEVENT
 UID:e2931e3175a33087377781e7cf5905f0@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261124T170000
 DTEND;TZID=America/New_York:20261124T200000
 SUMMARY:$1 Oysters at Vera's!
@@ -3467,7 +3467,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-at-vera-s--356
 END:VEVENT
 BEGIN:VEVENT
 UID:4536713e0d035bcfcf83bedfd0997fe1@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261124T170000
 DTEND;TZID=America/New_York:20261124T200000
 SUMMARY:Painted Burro Davis Square- Happy Hour Deals!
@@ -3477,7 +3477,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-davis-square-happy-ho
 END:VEVENT
 BEGIN:VEVENT
 UID:338e46d13e2ab4e7cff07a4a172eade0@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261124T170000
 DTEND;TZID=America/New_York:20261124T200000
 SUMMARY:Posto South End- Happy Hour Deals!
@@ -3487,7 +3487,7 @@ URL:https://www.thebostoncalendar.com/events/posto-south-end-happy-hour-deals--2
 END:VEVENT
 BEGIN:VEVENT
 UID:75826d3854239a09f550f6dd4f191c89@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261124T173000
 DTEND;TZID=America/New_York:20261124T203000
 SUMMARY:Free Rock Climbing- Central Rock Cambridge
@@ -3497,7 +3497,7 @@ URL:https://www.thebostoncalendar.com/events/free-rock-climbing-central-rock-cam
 END:VEVENT
 BEGIN:VEVENT
 UID:eae220156c26ea38393ab7745372f711@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261124T180000
 DTEND;TZID=America/New_York:20261124T210000
 SUMMARY:Trivia at High Street Place
@@ -3507,7 +3507,7 @@ URL:https://www.thebostoncalendar.com/events/trivia-at-high-street-place--198
 END:VEVENT
 BEGIN:VEVENT
 UID:fb9eadc23e43ccfe3eb7b2b885f3eb35@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261124T180000
 DTEND;TZID=America/New_York:20261124T210000
 SUMMARY:Geeks Who Drink Trivia Night at Sam Adams Downtown Boston Taproom
@@ -3517,7 +3517,7 @@ URL:https://www.thebostoncalendar.com/events/geeks-who-drink-trivia-night-at-sam
 END:VEVENT
 BEGIN:VEVENT
 UID:f7681ed13acfc9451cc0ad81c833ffac@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261124T180000
 DTEND;TZID=America/New_York:20261124T210000
 SUMMARY:An Icon of One's Own
@@ -3527,7 +3527,7 @@ URL:https://www.thebostoncalendar.com/events/an-icon-of-one-s-own--10
 END:VEVENT
 BEGIN:VEVENT
 UID:914f0c774aec96798e6fd416b120012a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261124T180000
 DTEND;TZID=America/New_York:20261124T210000
 SUMMARY:Piano Bar
@@ -3537,7 +3537,7 @@ URL:https://www.thebostoncalendar.com/events/piano-bar--7
 END:VEVENT
 BEGIN:VEVENT
 UID:aa7c3ee1a13a31fd388d51fe6e3ec489@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261124T180000
 DTEND;TZID=America/New_York:20261124T210000
 SUMMARY:Test Print Tuesday
@@ -3547,7 +3547,7 @@ URL:https://www.thebostoncalendar.com/events/test-print-tuesday--29
 END:VEVENT
 BEGIN:VEVENT
 UID:d95f61541212f2de720fe2970e0dee51@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261124T181000
 DTEND;TZID=America/New_York:20261124T211000
 SUMMARY:Beginner Ballet Classes for Adults!
@@ -3557,7 +3557,7 @@ URL:https://www.thebostoncalendar.com/events/beginner-ballet-classes-for-adults-
 END:VEVENT
 BEGIN:VEVENT
 UID:bad2593f2614ad86dd56f5999f24aecd@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261124T183000
 DTEND;TZID=America/New_York:20261124T213000
 SUMMARY:Latin Dance Workout Nights
@@ -3567,7 +3567,7 @@ URL:https://www.thebostoncalendar.com/events/latin-dance-workout-nights--6
 END:VEVENT
 BEGIN:VEVENT
 UID:a5b17ade1b8bbc03e882e862a6ef948b@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261124T183000
 DTEND;TZID=America/New_York:20261124T213000
 SUMMARY:Phil and Gabriella Kassel - Across the Generational Divide
@@ -3577,7 +3577,7 @@ URL:https://www.thebostoncalendar.com/events/phil-and-gabriella-kassel-across-th
 END:VEVENT
 BEGIN:VEVENT
 UID:bb1d6da801a24982559baeb5f4496ce7@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261124T190000
 DTEND;TZID=America/New_York:20261124T220000
 SUMMARY:McCarthys Cambridge Irish Session
@@ -3587,7 +3587,7 @@ URL:https://www.thebostoncalendar.com/events/mccarthys-cambridge-irish-session--
 END:VEVENT
 BEGIN:VEVENT
 UID:c68c1a4a40f456977e9783c196a1b229@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261124T190000
 DTEND;TZID=America/New_York:20261124T220000
 SUMMARY:Trivia Tuesdays
@@ -3597,7 +3597,7 @@ URL:https://www.thebostoncalendar.com/events/trivia-tuesdays--166
 END:VEVENT
 BEGIN:VEVENT
 UID:28331b2d95f292df3fd0fd6f5163d6fb@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261124T190000
 DTEND;TZID=America/New_York:20261124T220000
 SUMMARY:Trivia at The Biltmore
@@ -3607,7 +3607,7 @@ URL:https://www.thebostoncalendar.com/events/trivia-at-the-biltmore--198
 END:VEVENT
 BEGIN:VEVENT
 UID:87b499917553d142d1ff428f167c07e5@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261125T170000
 DTEND;TZID=America/New_York:20261125T200000
 SUMMARY:$1 Oysters at Vera's!
@@ -3617,7 +3617,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-at-vera-s--410
 END:VEVENT
 BEGIN:VEVENT
 UID:12bd74660c3011118f528a55bbf4ef20@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261125T170000
 DTEND;TZID=America/New_York:20261125T200000
 SUMMARY:Zero Waste Wednesday
@@ -3627,7 +3627,7 @@ URL:https://www.thebostoncalendar.com/events/zero-waste-wednesday--58
 END:VEVENT
 BEGIN:VEVENT
 UID:d3a16ada5b9ecfb9742bef8279fb678c@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261125T170000
 DTEND;TZID=America/New_York:20261125T200000
 SUMMARY:Martini Night
@@ -3637,7 +3637,7 @@ URL:https://www.thebostoncalendar.com/events/martini-night--29
 END:VEVENT
 BEGIN:VEVENT
 UID:5909d2cc19b43ac5b37106535b65448a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261125T170000
 DTEND;TZID=America/New_York:20261125T200000
 SUMMARY:Wing Wednesdays
@@ -3647,7 +3647,7 @@ URL:https://www.thebostoncalendar.com/events/wing-wednesdays--91
 END:VEVENT
 BEGIN:VEVENT
 UID:bda500374806cab5ac322f6ba958400a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261125T170000
 DTEND;TZID=America/New_York:20261125T200000
 SUMMARY:Painted Burro Davis Square- Happy Hour Deals!
@@ -3657,7 +3657,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-davis-square-happy-ho
 END:VEVENT
 BEGIN:VEVENT
 UID:f04b5e0b497cb74fd3fab82e62bab1db@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261125T170000
 DTEND;TZID=America/New_York:20261125T200000
 SUMMARY:Posto South End- Half-priced Appetizers
@@ -3667,7 +3667,7 @@ URL:https://www.thebostoncalendar.com/events/posto-south-end-happy-hour-deals--1
 END:VEVENT
 BEGIN:VEVENT
 UID:ebe3e0365c5028d61ff64d1ff20c5e35@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261125T170000
 DTEND;TZID=America/New_York:20261125T200000
 SUMMARY:$25 Girl Dinner at Waverly Charlestown
@@ -3677,7 +3677,7 @@ URL:https://www.thebostoncalendar.com/events/25-girl-dinner-at-waverly-charlesto
 END:VEVENT
 BEGIN:VEVENT
 UID:c57b04ee17ac60e7dc2f0d90bf8274c7@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261125T170000
 DTEND;TZID=America/New_York:20261125T200000
 SUMMARY:Wednesday Night Wine Flights
@@ -3687,7 +3687,7 @@ URL:https://www.thebostoncalendar.com/events/wednesday-night-wine-flights--38
 END:VEVENT
 BEGIN:VEVENT
 UID:ce35b48ae050fb4fdb655d4487ef5e48@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261125T173000
 DTEND;TZID=America/New_York:20261125T203000
 SUMMARY:Free Rock Climbing- Central Rock Cambridge
@@ -3697,7 +3697,7 @@ URL:https://www.thebostoncalendar.com/events/free-rock-climbing-central-rock-cam
 END:VEVENT
 BEGIN:VEVENT
 UID:ea17260ffa4997892d184aaeac2cfed3@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261125T180000
 DTEND;TZID=America/New_York:20261125T210000
 SUMMARY:Free Open Mic and Karaoke
@@ -3707,7 +3707,7 @@ URL:https://www.thebostoncalendar.com/events/free-open-mic-and-karaoke--105
 END:VEVENT
 BEGIN:VEVENT
 UID:8af448cd6d98c12d3e7143905bfc462b@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261125T180000
 DTEND;TZID=America/New_York:20261125T210000
 SUMMARY:Trivia at City Tap House
@@ -3717,7 +3717,7 @@ URL:https://www.thebostoncalendar.com/events/trivia-at-city-tap-house--124
 END:VEVENT
 BEGIN:VEVENT
 UID:18135f0fd362e8b163458cab973017f9@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261125T180000
 DTEND;TZID=America/New_York:20261125T210000
 SUMMARY:Newbury Yarns Knit Circle
@@ -3727,7 +3727,7 @@ URL:https://www.thebostoncalendar.com/events/newbury-yarns-knit-circle--46
 END:VEVENT
 BEGIN:VEVENT
 UID:87984bfa4092110bc8c84358e1e4cd0f@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261125T180000
 DTEND;TZID=America/New_York:20261125T210000
 SUMMARY:Gnocchi from Scratch *In-Person*
@@ -3737,7 +3737,7 @@ URL:https://www.thebostoncalendar.com/events/gnocchi-from-scratch-in-person
 END:VEVENT
 BEGIN:VEVENT
 UID:4d5b27e6b6c30f20f3409d46f60b4d20@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261125T180000
 DTEND;TZID=America/New_York:20261125T210000
 SUMMARY:Friendsgiving at Trident
@@ -3747,7 +3747,7 @@ URL:https://www.thebostoncalendar.com/events/friendsgiving-at-trident
 END:VEVENT
 BEGIN:VEVENT
 UID:6287b04424e3b29d3345076966b51efd@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261125T180000
 DTEND;TZID=America/New_York:20261125T210000
 SUMMARY:Beginners Classical Mat Pilates
@@ -3757,7 +3757,7 @@ URL:https://www.thebostoncalendar.com/events/beginners-classical-mat-pilates--7
 END:VEVENT
 BEGIN:VEVENT
 UID:84384c477aad2d240753c26d86c6dece@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261126T170000
 DTEND;TZID=America/New_York:20261126T200000
 SUMMARY:$1 Oysters at Vera's!
@@ -3767,7 +3767,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-at-vera-s--192
 END:VEVENT
 BEGIN:VEVENT
 UID:d3813adde362d2106e60945eabb7ed30@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261126T170000
 DTEND;TZID=America/New_York:20261126T200000
 SUMMARY:The Phoenix Boston - Rock Climbing
@@ -3777,7 +3777,7 @@ URL:https://www.thebostoncalendar.com/events/the-phoenix-boston-rock-climbing--6
 END:VEVENT
 BEGIN:VEVENT
 UID:1b362df40dc403982adb2b02c702adf4@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261126T170000
 DTEND;TZID=America/New_York:20261126T200000
 SUMMARY:Molly's Minis Book Club
@@ -3787,7 +3787,7 @@ URL:https://www.thebostoncalendar.com/events/molly-s-minis-book-club--9
 END:VEVENT
 BEGIN:VEVENT
 UID:eaacfd2c8cdd007b44a23a1bffbc95ff@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261126T170000
 DTEND;TZID=America/New_York:20261126T200000
 SUMMARY:Free Thursdays at the Isabella Stewart Gardner Museum
@@ -3797,7 +3797,7 @@ URL:https://www.thebostoncalendar.com/events/free-thursdays-at-the-isabella-stew
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb2591faa4ea619a525a35700ea85c4@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261126T170000
 DTEND;TZID=America/New_York:20261126T200000
 SUMMARY:Posto South End- Happy Hour Deals!
@@ -3807,7 +3807,7 @@ URL:https://www.thebostoncalendar.com/events/posto-south-end-happy-hour-deals--1
 END:VEVENT
 BEGIN:VEVENT
 UID:cd3f8f8955e5c700b6728a222530781d@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261126T170000
 DTEND;TZID=America/New_York:20261126T200000
 SUMMARY:Painted Burro Davis Square- Happy Hour Deals!
@@ -3817,7 +3817,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-somerville-weekly-hap
 END:VEVENT
 BEGIN:VEVENT
 UID:b5dcc975974d933997e726e93a177338@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261126T170000
 DTEND;TZID=America/New_York:20261126T200000
 SUMMARY:Harvard Art Museums at Night
@@ -3827,7 +3827,7 @@ URL:https://www.thebostoncalendar.com/events/harvard-art-museums-at-night--92
 END:VEVENT
 BEGIN:VEVENT
 UID:2acdf5e91673465d2f6702a41379d94e@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261126T173000
 DTEND;TZID=America/New_York:20261126T203000
 SUMMARY:Harvard Square French Fry & Pairings Food Tour
@@ -3837,7 +3837,7 @@ URL:https://www.thebostoncalendar.com/events/harvard-square-french-fry-pairings-
 END:VEVENT
 BEGIN:VEVENT
 UID:bdc452c1dcb9463118688e15745ea983@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261126T173000
 DTEND;TZID=America/New_York:20261126T203000
 SUMMARY:Free Rock Climbing- Central Rock Cambridge
@@ -3847,7 +3847,7 @@ URL:https://www.thebostoncalendar.com/events/learn-to-rock-climb--26
 END:VEVENT
 BEGIN:VEVENT
 UID:d62ecef49cb96e9c463ea7b15efe8009@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261126T180000
 DTEND;TZID=America/New_York:20261126T210000
 SUMMARY:Thursday Trivia at Brownstone!
@@ -3857,7 +3857,7 @@ URL:https://www.thebostoncalendar.com/events/thursday-trivia-at-brownstone--52
 END:VEVENT
 BEGIN:VEVENT
 UID:8ae7a534f77e9e03039bb4347e219157@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261126T180000
 DTEND;TZID=America/New_York:20261126T210000
 SUMMARY:Trivia at Sam Adams Boston Brewery
@@ -3867,7 +3867,7 @@ URL:https://www.thebostoncalendar.com/events/trivia-at-sam-adams-boston-brewery-
 END:VEVENT
 BEGIN:VEVENT
 UID:ba2b888fdda08efe5e4028e896ee007a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261126T180000
 DTEND;TZID=America/New_York:20261126T210000
 SUMMARY:Texture Painting Thursday Night Out
@@ -3877,7 +3877,7 @@ URL:https://www.thebostoncalendar.com/events/texture-painting-thursday-night-out
 END:VEVENT
 BEGIN:VEVENT
 UID:8d9590982f0b0f5ee7eb7aeebe3fa1a6@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261126T183000
 DTEND;TZID=America/New_York:20261126T213000
 SUMMARY:Persian Networking (Shabeh Jomeh)
@@ -3887,7 +3887,7 @@ URL:https://www.thebostoncalendar.com/events/persian-networking-shabeh-jomeh--14
 END:VEVENT
 BEGIN:VEVENT
 UID:3992cd5b90877fa8f92161a1aef0f6b0@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261126T190000
 DTEND;TZID=America/New_York:20261126T220000
 SUMMARY:Blues Dance Lesson and Social  - Blues Union
@@ -3897,7 +3897,7 @@ URL:https://www.thebostoncalendar.com/events/blues-dance-lesson-and-social-blues
 END:VEVENT
 BEGIN:VEVENT
 UID:994ce41d4bc0eaa4068aaad5f7e9f5ad@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261126T190000
 DTEND;TZID=America/New_York:20261126T220000
 SUMMARY:McCarthys Cambridge Irish Session
@@ -3907,7 +3907,7 @@ URL:https://www.thebostoncalendar.com/events/mccarthys-cambridge-irish-session--
 END:VEVENT
 BEGIN:VEVENT
 UID:061f27d3c77c6bf36b9c2acac327eddd@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261127T170000
 DTEND;TZID=America/New_York:20261127T200000
 SUMMARY:$1 Oysters at Vera's!
@@ -3917,7 +3917,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-at-vera-s--247
 END:VEVENT
 BEGIN:VEVENT
 UID:a1c912a75a4af859dcea3fa251812de7@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261127T170000
 DTEND;TZID=America/New_York:20261127T200000
 SUMMARY:Posto South End- Happy Hour Deals!
@@ -3927,7 +3927,7 @@ URL:https://www.thebostoncalendar.com/events/posto-south-end-happy-hour-deals--9
 END:VEVENT
 BEGIN:VEVENT
 UID:a27e383acabe95227778cb178a271b48@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261127T173000
 DTEND;TZID=America/New_York:20261127T203000
 SUMMARY:2026 Island of Misfit Animals
@@ -3937,7 +3937,7 @@ URL:https://www.thebostoncalendar.com/events/2026-island-of-misfit-animals
 END:VEVENT
 BEGIN:VEVENT
 UID:44c95095684698536df4dd79a5669374@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261127T173000
 DTEND;TZID=America/New_York:20261127T203000
 SUMMARY:Free Rock Climbing- Central Rock Cambridge
@@ -3947,7 +3947,7 @@ URL:https://www.thebostoncalendar.com/events/free-rock-climbing-central-rock-cam
 END:VEVENT
 BEGIN:VEVENT
 UID:b5edc695548bb74550e8b6d81b14eb09@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261127T180000
 DTEND;TZID=America/New_York:20261127T210000
 SUMMARY:CusCampbell
@@ -3957,7 +3957,7 @@ URL:https://www.thebostoncalendar.com/events/cuscampbell
 END:VEVENT
 BEGIN:VEVENT
 UID:dc8f0af62b3e7ad11f675f8da1d019b1@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261127T190000
 DTEND;TZID=America/New_York:20261127T220000
 SUMMARY:Hideout Comedy
@@ -3967,7 +3967,7 @@ URL:https://www.thebostoncalendar.com/events/hideout-comedy--461
 END:VEVENT
 BEGIN:VEVENT
 UID:3710464ccb456b277bc6fdbbad95ccab@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261127T190000
 DTEND;TZID=America/New_York:20261127T220000
 SUMMARY:Friday Karaoke at Lily's Boston
@@ -3977,7 +3977,7 @@ URL:https://www.thebostoncalendar.com/events/friday-karaoke-at-lily-s-boston--34
 END:VEVENT
 BEGIN:VEVENT
 UID:9ede3f6ce62f4e69f1b571fa80f87a1d@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261127T190000
 DTEND;TZID=America/New_York:20261127T220000
 SUMMARY:Brodie Rec leagues
@@ -3987,7 +3987,7 @@ URL:https://www.thebostoncalendar.com/events/brodie-rec-leagues--12
 END:VEVENT
 BEGIN:VEVENT
 UID:68262cef0217708234ac6d288d6f8b6f@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261127T190000
 DTEND;TZID=America/New_York:20261127T220000
 SUMMARY:Comedy at Bill's Bar
@@ -3997,7 +3997,7 @@ URL:https://www.thebostoncalendar.com/events/comedy-at-bill-s-bar--37
 END:VEVENT
 BEGIN:VEVENT
 UID:92ec63aa66733c36e5fdb429d5e5d2e7@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261127T190000
 DTEND;TZID=America/New_York:20261127T220000
 SUMMARY:Christmas Pickup Paint Night (Traced)
@@ -4007,7 +4007,7 @@ URL:https://www.thebostoncalendar.com/events/christmas-pickup-paint-night-traced
 END:VEVENT
 BEGIN:VEVENT
 UID:3f7420d4417ff6cb5fffbc29cc34cfff@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261127T190000
 DTEND;TZID=America/New_York:20261127T220000
 SUMMARY:Friday Night Trivia
@@ -4017,7 +4017,7 @@ URL:https://www.thebostoncalendar.com/events/friday-night-trivia--130
 END:VEVENT
 BEGIN:VEVENT
 UID:b35d91811b370277b2caba4e60ec6060@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261127T190000
 DTEND;TZID=America/New_York:20261127T220000
 SUMMARY:McCarthys Cambridge Irish Session
@@ -4027,7 +4027,7 @@ URL:https://www.thebostoncalendar.com/events/mccarthys-cambridge-irish-session--
 END:VEVENT
 BEGIN:VEVENT
 UID:a7c8d15d01bef7641b311915a7cb314c@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261127T193000
 DTEND;TZID=America/New_York:20261127T223000
 SUMMARY:The Clements Brothers Present A Paul Simon Tribute
@@ -4037,7 +4037,7 @@ URL:https://www.thebostoncalendar.com/events/the-clements-brothers-present-a-pau
 END:VEVENT
 BEGIN:VEVENT
 UID:cb776010989df8f3442740cc3d0f4911@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261127T193000
 DTEND;TZID=America/New_York:20261127T223000
 SUMMARY:Comedy at Bill's Bar
@@ -4047,7 +4047,7 @@ URL:https://www.thebostoncalendar.com/events/comedy-at-bill-s-bar--47
 END:VEVENT
 BEGIN:VEVENT
 UID:32ac66ff4f500d819e164d85bb883d99@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261127T193000
 DTEND;TZID=America/New_York:20261127T223000
 SUMMARY:Sister's Christmas Catechism: The Mystery of the Magi's Gold
@@ -4057,7 +4057,7 @@ URL:https://www.thebostoncalendar.com/events/sister-s-christmas-catechism-the-my
 END:VEVENT
 BEGIN:VEVENT
 UID:f186676ea3b192046cc4f23b6b644382@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T000000
 DTEND;TZID=America/New_York:20261128T030000
 SUMMARY:Volunteer Opportunities Everyday!
@@ -4067,7 +4067,7 @@ URL:https://www.thebostoncalendar.com/events/volunteer-opportunities-everyday--4
 END:VEVENT
 BEGIN:VEVENT
 UID:dc42d560d6dc79c994644e00ceffb962@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T050000
 DTEND;TZID=America/New_York:20261128T080000
 SUMMARY:$10 Commuter Rail Weekends and Holidays
@@ -4077,7 +4077,7 @@ URL:https://www.thebostoncalendar.com/events/10-commuter-rail-weekends-and-holid
 END:VEVENT
 BEGIN:VEVENT
 UID:6dfa5130ab0494919aea31bc4781fb12@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T080000
 DTEND;TZID=America/New_York:20261128T110000
 SUMMARY:Skip the Traffic—All-Inclusive Day Trips from Boston's North Station
@@ -4087,7 +4087,7 @@ URL:https://www.thebostoncalendar.com/events/easy-all-inclusive-day-trips-and-ad
 END:VEVENT
 BEGIN:VEVENT
 UID:153da9eccc834874a20cb2dc81e0f9f3@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T080000
 DTEND;TZID=America/New_York:20261128T110000
 SUMMARY:Easy All-Inclusive Day Trips and Adventures  Departing from North Station
@@ -4097,7 +4097,7 @@ URL:https://www.thebostoncalendar.com/events/easy-all-inclusive-day-trips-and-ad
 END:VEVENT
 BEGIN:VEVENT
 UID:b55925fe4d18833b63c87648e18c04b5@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T080000
 DTEND;TZID=America/New_York:20261128T110000
 SUMMARY:All-Inclusive Car-Free  Day Trips & Adventures from Boston
@@ -4107,7 +4107,7 @@ URL:https://www.thebostoncalendar.com/events/all-inclusive-day-trips-adventures-
 END:VEVENT
 BEGIN:VEVENT
 UID:562b5120bef9b9e2e13d874853342e49@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T084000
 DTEND;TZID=America/New_York:20261128T114000
 SUMMARY:Experience Historic Plymouth: Day Trip from Boston with Plimoth Patuxet & Mayflower II
@@ -4117,7 +4117,7 @@ URL:https://www.thebostoncalendar.com/events/experience-historic-plymouth-day-tr
 END:VEVENT
 BEGIN:VEVENT
 UID:9fb71572e3ef99ec41c802b2a0caa0da@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T090000
 DTEND;TZID=America/New_York:20261128T120000
 SUMMARY:Deck the Halls at Hammond Castle Museum
@@ -4127,7 +4127,7 @@ URL:https://www.thebostoncalendar.com/events/deck-the-halls-at-hammond-castle-mu
 END:VEVENT
 BEGIN:VEVENT
 UID:7e99726223f881b6eca45a031283236c@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T090000
 DTEND;TZID=America/New_York:20261128T120000
 SUMMARY:Rubies
@@ -4137,7 +4137,7 @@ URL:https://www.thebostoncalendar.com/events/rubies--29
 END:VEVENT
 BEGIN:VEVENT
 UID:92a6998fda4afc7fd58f0bc538f642a8@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T090000
 DTEND;TZID=America/New_York:20261128T120000
 SUMMARY:Collecting Wonders: Tomorrow’s Discoveries
@@ -4147,7 +4147,7 @@ URL:https://www.thebostoncalendar.com/events/collecting-wonders-tomorrow-s-disco
 END:VEVENT
 BEGIN:VEVENT
 UID:590660f26e666b700de9c2d8d24cbf66@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T090000
 DTEND;TZID=America/New_York:20261128T120000
 SUMMARY:Sensory-Friendly Morning
@@ -4157,7 +4157,7 @@ URL:https://www.thebostoncalendar.com/events/sensory-friendly-morning--7
 END:VEVENT
 BEGIN:VEVENT
 UID:325edf56db233e5fc3a48437940feade@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T090000
 DTEND;TZID=America/New_York:20261128T120000
 SUMMARY:Pop Quiz: 1776
@@ -4167,7 +4167,7 @@ URL:https://www.thebostoncalendar.com/events/pop-quiz-1776--123
 END:VEVENT
 BEGIN:VEVENT
 UID:9aac628bce915244083b8e1e6326fc3f@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T090000
 DTEND;TZID=America/New_York:20261128T120000
 SUMMARY:Realistic Painting in Watercolor Class at Marblehead Arts Association
@@ -4177,7 +4177,7 @@ URL:https://www.thebostoncalendar.com/events/realistic-painting-in-watercolor-cl
 END:VEVENT
 BEGIN:VEVENT
 UID:9610491cd14cc856d04a77f0c044cdf9@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T100000
 DTEND;TZID=America/New_York:20261128T130000
 SUMMARY:Small Business Saturday: Meet the Makers
@@ -4187,7 +4187,7 @@ URL:https://www.thebostoncalendar.com/events/small-business-saturday-meet-the-ma
 END:VEVENT
 BEGIN:VEVENT
 UID:29682dc803c26e2981fc22b346504dc8@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T100000
 DTEND;TZID=America/New_York:20261128T130000
 SUMMARY:Health and Medicine on Beacon Hill
@@ -4197,7 +4197,7 @@ URL:https://www.thebostoncalendar.com/events/health-and-medicine-on-beacon-hill-
 END:VEVENT
 BEGIN:VEVENT
 UID:875cba308d3f2dadba3ac150179c3fa6@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261128T100000
 DTEND;TZID=America/New_York:20261128T130000
 SUMMARY:Winter Smartphone Photography at New England Botanic Garden
@@ -4207,7 +4207,7 @@ URL:https://www.thebostoncalendar.com/events/winter-smartphone-photography-at-ne
 END:VEVENT
 BEGIN:VEVENT
 UID:f7cbc095712c3e5e5efccd7966d9df91@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T000000
 DTEND;TZID=America/New_York:20261129T030000
 SUMMARY:Volunteer Opportunities Everyday!
@@ -4217,7 +4217,7 @@ URL:https://www.thebostoncalendar.com/events/volunteer-opportunities-everyday--5
 END:VEVENT
 BEGIN:VEVENT
 UID:f488893c77b52d36137f171ff58fd27d@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T083000
 DTEND;TZID=America/New_York:20261129T113000
 SUMMARY:Hyrox and Obstacles Race Course
@@ -4227,7 +4227,7 @@ URL:https://www.thebostoncalendar.com/events/hyrox-and-obstacles-race-course--93
 END:VEVENT
 BEGIN:VEVENT
 UID:0de3b41bac29840dcb16fb199ece143a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T090000
 DTEND;TZID=America/New_York:20261129T120000
 SUMMARY:Deck the Halls at Hammond Castle Museum
@@ -4237,7 +4237,7 @@ URL:https://www.thebostoncalendar.com/events/deck-the-halls-at-hammond-castle-mu
 END:VEVENT
 BEGIN:VEVENT
 UID:fe7bc25f586d4f180b8a263a912ea328@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T090000
 DTEND;TZID=America/New_York:20261129T120000
 SUMMARY:Rubies
@@ -4247,7 +4247,7 @@ URL:https://www.thebostoncalendar.com/events/rubies--79
 END:VEVENT
 BEGIN:VEVENT
 UID:ffe7327d3f28d8ca794c74d4d9075756@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T090000
 DTEND;TZID=America/New_York:20261129T120000
 SUMMARY:Collecting Wonders: Tomorrow’s Discoveries
@@ -4257,7 +4257,7 @@ URL:https://www.thebostoncalendar.com/events/collecting-wonders-tomorrow-s-disco
 END:VEVENT
 BEGIN:VEVENT
 UID:3472243978c7c7289cc67407b3a2b37a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T090000
 DTEND;TZID=America/New_York:20261129T120000
 SUMMARY:Pop Quiz: 1776
@@ -4267,7 +4267,7 @@ URL:https://www.thebostoncalendar.com/events/pop-quiz-1776--174
 END:VEVENT
 BEGIN:VEVENT
 UID:f470258fed3976662299b920d971194e@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T100000
 DTEND;TZID=America/New_York:20261129T130000
 SUMMARY:$1 Oysters at 224 Boston
@@ -4277,7 +4277,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-at-224-boston--194
 END:VEVENT
 BEGIN:VEVENT
 UID:c773a8435017e32bf925d5ee616ea75a@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T100000
 DTEND;TZID=America/New_York:20261129T130000
 SUMMARY:Seaport Smalls
@@ -4287,7 +4287,7 @@ URL:https://www.thebostoncalendar.com/events/seaport-smalls--162
 END:VEVENT
 BEGIN:VEVENT
 UID:b517edc0ec26de987e444c9530c723c0@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T100000
 DTEND;TZID=America/New_York:20261129T130000
 SUMMARY:Antique Show and Sale
@@ -4297,7 +4297,7 @@ URL:https://www.thebostoncalendar.com/events/antique-show-and-sale--2
 END:VEVENT
 BEGIN:VEVENT
 UID:0d590ab5e5fdc8bb7bd8199715381d6f@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T100000
 DTEND;TZID=America/New_York:20261129T130000
 SUMMARY:The Phoenix Boston - Crossfit
@@ -4307,7 +4307,7 @@ URL:https://www.thebostoncalendar.com/events/the-phoenix-boston-crossfit--46
 END:VEVENT
 BEGIN:VEVENT
 UID:1085f109fc7b6301805108afd6405d89@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T110000
 DTEND;TZID=America/New_York:20261129T140000
 SUMMARY:Boston Chocolate Tour - Beacon Hill to Boston Public Market
@@ -4317,7 +4317,7 @@ URL:https://www.thebostoncalendar.com/events/boston-chocolate-tour-beacon-hill-t
 END:VEVENT
 BEGIN:VEVENT
 UID:0c84e43335d18403cce9a23adf6f60b6@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T110000
 DTEND;TZID=America/New_York:20261129T140000
 SUMMARY:Peabody Museum Tours Led by Harvard Students
@@ -4327,7 +4327,7 @@ URL:https://www.thebostoncalendar.com/events/peabody-museum-tours-led-by-harvard
 END:VEVENT
 BEGIN:VEVENT
 UID:3909cebe8ec3c32588b8a01022e0ccb1@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T110000
 DTEND;TZID=America/New_York:20261129T140000
 SUMMARY:Boston Women’s Holiday Market at The Armory
@@ -4337,7 +4337,7 @@ URL:https://www.thebostoncalendar.com/events/boston-women-s-holiday-market-at-th
 END:VEVENT
 BEGIN:VEVENT
 UID:ea952a4612f3339e32feb038b0f6f9f9@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T110000
 DTEND;TZID=America/New_York:20261129T140000
 SUMMARY:Lynn Vintage Warehouse
@@ -4347,7 +4347,7 @@ URL:https://www.thebostoncalendar.com/events/bobby-from-boston-vintage-market--2
 END:VEVENT
 BEGIN:VEVENT
 UID:a4c1adc5668b8e6c6a28fd450b927efd@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261129T110000
 DTEND;TZID=America/New_York:20261129T140000
 SUMMARY:Harvard Square Donut Tour of Boston
@@ -4357,7 +4357,7 @@ URL:https://www.thebostoncalendar.com/events/harvard-square-donut-tour-of-boston
 END:VEVENT
 BEGIN:VEVENT
 UID:ba02788ca4a8d498de4fe23ef2c98ef3@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261130T170000
 DTEND;TZID=America/New_York:20261130T200000
 SUMMARY:$10 Martinis at Petula's
@@ -4367,7 +4367,7 @@ URL:https://www.thebostoncalendar.com/events/10-martinis-at-petula-s--122
 END:VEVENT
 BEGIN:VEVENT
 UID:c222866ff7a0e32f8c3a30a82f6575dc@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261130T170000
 DTEND;TZID=America/New_York:20261130T200000
 SUMMARY:$7 Martinis at Rebel's Guild
@@ -4377,7 +4377,7 @@ URL:https://www.thebostoncalendar.com/events/7-martinis-at-rebel-s-guild--71
 END:VEVENT
 BEGIN:VEVENT
 UID:4022010dc7f5ee2dc2cfb33ad23e34bb@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261130T170000
 DTEND;TZID=America/New_York:20261130T200000
 SUMMARY:$1 Oysters in Downtown Boston
@@ -4387,7 +4387,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-in-downtown-boston--52
 END:VEVENT
 BEGIN:VEVENT
 UID:fdbf01fda6b4864405ac9befdcb7df44@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261130T170000
 DTEND;TZID=America/New_York:20261130T200000
 SUMMARY:Painted Burro Davis Square- Happy Hour Deals!
@@ -4397,7 +4397,7 @@ URL:https://www.thebostoncalendar.com/events/painted-burro-davis-square-happy-ho
 END:VEVENT
 BEGIN:VEVENT
 UID:46f8c70e29da1f2570a24c578367365f@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261130T170000
 DTEND;TZID=America/New_York:20261130T200000
 SUMMARY:Posto South End- Happy Hour Deals!
@@ -4407,7 +4407,7 @@ URL:https://www.thebostoncalendar.com/events/posto-south-end-happy-hour-deals--2
 END:VEVENT
 BEGIN:VEVENT
 UID:aa3dba0542ceedd58f1c38cf2cf16cc9@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261130T173000
 DTEND;TZID=America/New_York:20261130T203000
 SUMMARY:Low & Slow: Mastering the Art of Braised Lamb *In-Person* *NEW*
@@ -4417,7 +4417,7 @@ URL:https://www.thebostoncalendar.com/events/low-slow-mastering-the-art-of-brais
 END:VEVENT
 BEGIN:VEVENT
 UID:705a6228b8ad106e76f717d38e5d18ee@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261130T173000
 DTEND;TZID=America/New_York:20261130T203000
 SUMMARY:Free Rock Climbing- Central Rock Cambridge
@@ -4427,7 +4427,7 @@ URL:https://www.thebostoncalendar.com/events/free-rock-climbing-central-rock-cam
 END:VEVENT
 BEGIN:VEVENT
 UID:df766fe57e741167b77aa93addad240f@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261130T180000
 DTEND;TZID=America/New_York:20261130T210000
 SUMMARY:Fresh Finds Book Club
@@ -4437,7 +4437,7 @@ URL:https://www.thebostoncalendar.com/events/fresh-finds-book-club--9
 END:VEVENT
 BEGIN:VEVENT
 UID:3e04efe5a1343d6816fa890b736c6d00@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261130T180000
 DTEND;TZID=America/New_York:20261130T210000
 SUMMARY:Yoga for Creativity
@@ -4447,7 +4447,7 @@ URL:https://www.thebostoncalendar.com/events/yoga-for-creativity--5
 END:VEVENT
 BEGIN:VEVENT
 UID:8a2053567907d1bbc385c3dc8d1feff1@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261130T181000
 DTEND;TZID=America/New_York:20261130T211000
 SUMMARY:Beginner/Intermediate Adult Hip Hop Dance Class at Urbanity Dance!
@@ -4457,7 +4457,7 @@ URL:https://www.thebostoncalendar.com/events/beginner-intermediate-adult-hip-hop
 END:VEVENT
 BEGIN:VEVENT
 UID:faa2b58624c56021a8b5fde4ec79e537@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261130T183000
 DTEND;TZID=America/New_York:20261130T213000
 SUMMARY:An Evening with Jeremy Jordan
@@ -4467,7 +4467,7 @@ URL:https://www.thebostoncalendar.com/events/an-evening-with-jeremy-jordan
 END:VEVENT
 BEGIN:VEVENT
 UID:ec10f81d9f6f67c71796fb52ce4350a4@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261130T183000
 DTEND;TZID=America/New_York:20261130T213000
 SUMMARY:Major Mondays at the Liberty Hotel
@@ -4477,7 +4477,7 @@ URL:https://www.thebostoncalendar.com/events/major-mondays-at-the-liberty-hotel-
 END:VEVENT
 BEGIN:VEVENT
 UID:7373564c7005d29360639ae133c86f45@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261130T183000
 DTEND;TZID=America/New_York:20261130T213000
 SUMMARY:Figure Drawing
@@ -4487,7 +4487,7 @@ URL:https://www.thebostoncalendar.com/events/figure-drawing--60
 END:VEVENT
 BEGIN:VEVENT
 UID:ef9f52863a976f551852387fe31bb4be@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261130T190000
 DTEND;TZID=America/New_York:20261130T220000
 SUMMARY:Trivia Mondays
@@ -4497,7 +4497,7 @@ URL:https://www.thebostoncalendar.com/events/trivia-mondays--13
 END:VEVENT
 BEGIN:VEVENT
 UID:d88ac76e223f809e64a10a54eb1f1097@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261130T190000
 DTEND;TZID=America/New_York:20261130T220000
 SUMMARY:Geeks Who Drink Trivia Night at Trillium Brewing Company - Fort Point
@@ -4507,7 +4507,7 @@ URL:https://www.thebostoncalendar.com/events/geeks-who-drink-trivia-night-at-tri
 END:VEVENT
 BEGIN:VEVENT
 UID:00c5c192d24529881e902f3c52762c7c@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261201T170000
 DTEND;TZID=America/New_York:20261201T200000
 SUMMARY:$1 Oysters at Vera's!
@@ -4517,7 +4517,7 @@ URL:https://www.thebostoncalendar.com/events/1-oysters-at-vera-s--357
 END:VEVENT
 BEGIN:VEVENT
 UID:af3b44ab9aae5cb90900ebff45da58d4@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261201T170000
 DTEND;TZID=America/New_York:20261201T200000
 SUMMARY:Posto South End- Happy Hour Deals!
@@ -4527,12 +4527,22 @@ URL:https://www.thebostoncalendar.com/events/posto-south-end-happy-hour-deals--2
 END:VEVENT
 BEGIN:VEVENT
 UID:390ff1a83436c9b6138a9e1e6b089fc1@bostonevents
-DTSTAMP:20261101T172835Z
+DTSTAMP:20261101T174708Z
 DTSTART;TZID=America/New_York:20261201T170000
 DTEND;TZID=America/New_York:20261201T200000
 SUMMARY:Painted Burro Davis Square- Happy Hour Deals!
 LOCATION:Greater Boston, MA
 DESCRIPTION:Event info: Painted Burro Davis Square- Happy Hour Deals!\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/painted-burro-davis-square-happy-hour-deals--236
 URL:https://www.thebostoncalendar.com/events/painted-burro-davis-square-happy-hour-deals--236
+END:VEVENT
+BEGIN:VEVENT
+UID:1cf16bdec8c9cbde839c769074e9d66c@bostonevents
+DTSTAMP:20261101T174708Z
+DTSTART;TZID=America/New_York:20261201T173000
+DTEND;TZID=America/New_York:20261201T203000
+SUMMARY:Free Rock Climbing- Central Rock Cambridge
+LOCATION:Greater Boston, MA
+DESCRIPTION:Event info: Free Rock Climbing- Central Rock Cambridge\n\nInfo/Tickets: https://www.thebostoncalendar.com/events/free-rock-climbing-central-rock-cambridge--73
+URL:https://www.thebostoncalendar.com/events/free-rock-climbing-central-rock-cambridge--73
 END:VEVENT
 END:VCALENDAR
